@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0.0",
+  "default_page": "start",
+  "meaningfully_updated_at": "2026-09-20T14:01:06Z",
+  "pages": [
+    {
+      "id": "start",
+      "slug": "",
+      "label": "Punkt wyjścia",
+      "icon": "home",
+      "group": "Przewodnik",
+      "description": "Czy zostać, czy przenieść kredyt — trzy miary decyzji.",
+      "parent": null,
+      "entrypoint": "index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    },
+    {
+      "id": "oferty",
+      "slug": "oferty",
+      "label": "Próba ofert",
+      "icon": "table",
+      "group": "Przewodnik",
+      "description": "Datowana, ograniczona próba dokumentów banków.",
+      "parent": null,
+      "entrypoint": "oferty/index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    },
+    {
+      "id": "kalkulator",
+      "slug": "kalkulator",
+      "label": "Kalkulator",
+      "icon": "calculator",
+      "group": "Narzędzia",
+      "description": "Lokalne porównanie dwóch harmonogramów i kosztów.",
+      "parent": null,
+      "entrypoint": "kalkulator/index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    },
+    {
+      "id": "koszty",
+      "slug": "koszty",
+      "label": "Koszty i proces",
+      "icon": "checklist",
+      "group": "Przewodnik",
+      "description": "Dokumenty, koszty wejścia i kolejność sprawdzeń.",
+      "parent": null,
+      "entrypoint": "koszty/index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    },
+    {
+      "id": "raport",
+      "slug": "raport",
+      "label": "Raport 20.09.2026",
+      "icon": "file-text",
+      "group": "Źródła",
+      "description": "Metoda, źródła pierwotne i granice wniosków.",
+      "parent": null,
+      "entrypoint": "raport/index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    }
+  ]
+}

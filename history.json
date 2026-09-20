@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "runs": [
+    {
+      "run_id": "run:manual:960ef45f4f4e7564767bfd7efff138a8",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-20T14:01:06Z",
+      "completed_at": "2026-09-20T14:01:06Z",
+      "title": "Pierwsze datowane porównanie refinansowania",
+      "summary": "Ograniczona próba ofert bankowych i narzędzie do porównania własnych harmonogramów.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-09-20",
+      "entrypoint": "raport/2026-09-20/index.html"
+    }
+  ]
+}

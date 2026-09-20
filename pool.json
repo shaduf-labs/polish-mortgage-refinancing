@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "pool_id": "pool_polish_mortgage_refinancing",
+  "slug": "polish-mortgage-refinancing",
+  "title": "Czy opłaca mi się refinansować kredyt hipoteczny?",
+  "locale": "pl",
+  "description": "Porównaj koszty refinansowania kredytu, oferty banków i możliwe oszczędności.",
+  "evidence_scope": "Oficjalne oferty i dokumenty banków, tabele opłat oraz publikacje UOKiK, KNF i NBP.",
+  "icon": "Calculator",
+  "methodology_summary": "Datowane źródła, jawne założenia i porównanie pełnych kosztów. Kalkulator sprawdzany na niezależnych przykładach przed publikacją.",
+  "tags": [
+    "Kredyt hipoteczny",
+    "Refinansowanie",
+    "Polska",
+    "Kalkulator"
+  ],
+  "canonical_url": "https://shaduf.ai/p/polish-mortgage-refinancing/",
+  "question": "Czy opłaca mi się refinansować kredyt hipoteczny w Polsce po uwzględnieniu wszystkich kosztów i warunków?",
+  "cadence": "Daily at 07:45 UTC",
+  "release_state": "live",
+  "latest_research_at": "2026-09-20T14:01:06Z",
+  "public_repo": "https://github.com/shaduf-labs/polish-mortgage-refinancing",
+  "related_pools": []
+}

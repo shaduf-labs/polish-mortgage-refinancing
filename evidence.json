@@ -1,14 +1,175 @@
-{"schema_version":"1.0.0","items":[
-{"evidence_id":"MB-1","source_type":"bank","source_url":"https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/przenosze-kredyt","title":"mBank — przeniesienie kredytu hipotecznego","claim":"Materiał potwierdza refinansowanie oraz warianty oprocentowania.","accessed_at":"2026-09-20T18:19:00.000Z","relation":"supports","publication_basis":"linked-summary"},
-{"evidence_id":"MB-2","source_type":"bank","source_url":"https://www.mbank.pl/pdf/ind/kredyty/kredyt-hipoteczny/regulamin-promocji-promocja-refinansowania-kredytu-hipotecznego-z-oprocentowaniem-stalym-na-okres-5-lat-edycja-2.pdf","title":"mBank — regulamin promocji, stopa stała","claim":"Regulamin opisuje termin promocji refinansowania edycja 2.","accessed_at":"2026-09-20T18:19:00.000Z","relation":"supports","publication_basis":"linked-summary"},
-{"evidence_id":"MB-3","source_type":"bank","source_url":"https://www.mbank.pl/pdf/ind/kredyty/kredyt-hipoteczny/regulamin-promocji-promocja-refinansowania-kredytu-hipotecznego-z-oprocentowaniem-zmiennym-edycja-2.pdf","title":"mBank — regulamin promocji, stopa zmienna","claim":"Regulamin opisuje termin promocji refinansowania edycja 2.","accessed_at":"2026-09-20T18:19:00.000Z","relation":"supports","publication_basis":"linked-summary"},
-{"evidence_id":"PKO-1","source_type":"bank","source_url":"https://www.pkobp.pl/klient-indywidualny/kredyty-pozyczki/przenies-kredyt-mieszkaniowy","title":"PKO BP — przenieś kredyt mieszkaniowy","claim":"Strona potwierdza cel refinansowania, lecz nie pozwala odtworzyć bieżącego RRSO.","accessed_at":"2026-09-20T18:19:00.000Z","relation":"supports","publication_basis":"linked-summary"},
-{"evidence_id":"PKO-2","source_type":"bank","source_url":"https://www.pkobp.pl/api/public/579f26f8-6d01-430c-a6ac-43620e525940.pdf?content-disposition=filename%3DOprocentowanie_Kredytu_hipotecznego.pdf","title":"PKO BP — tabela nr 5 oprocentowania","claim":"Tabela od 03.09.2026 opisuje konstrukcję oprocentowania.","accessed_at":"2026-09-20T18:19:00.000Z","relation":"supports","publication_basis":"linked-summary"},
-{"evidence_id":"ING-1","source_type":"bank","source_url":"https://www.ing.pl/indywidualni/kredyty-i-pozyczki/przenosze-kredyt","title":"ING — przeniesienie kredytu hipotecznego","claim":"Strona zawiera ofertę przeniesienia oraz warunkowy przykład reprezentatywny.","accessed_at":"2026-09-20T18:19:00.000Z","relation":"supports","publication_basis":"linked-summary"},
-{"evidence_id":"ING-2","source_type":"bank","source_url":"https://www.ing.pl/regulamin-refinansowanie","title":"ING — regulamin refinansowania","claim":"Regulamin określa warunkowy czas promocji refinansowania.","accessed_at":"2026-09-20T18:19:00.000Z","relation":"supports","publication_basis":"linked-summary"},
-{"evidence_id":"PEK-1","source_type":"bank","source_url":"https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/refinansuj-swoj-kredyt-mieszkaniowy.html","title":"Pekao — refinansowanie","claim":"Strona potwierdza cel refinansowania i warunkowy przykład reprezentatywny.","accessed_at":"2026-09-20T18:19:00.000Z","relation":"supports","publication_basis":"linked-summary"},
-{"evidence_id":"BNP-1","source_type":"bank","source_url":"https://www.bnpparibas.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny-z-niska-marza","title":"BNP Paribas — kredyt hipoteczny","claim":"Materiał potwierdza spłatę kredytu w innym banku oraz warunkowy przykład reprezentatywny.","accessed_at":"2026-09-20T18:19:00.000Z","relation":"supports","publication_basis":"linked-summary"},
-{"evidence_id":"ALI-2","source_type":"bank","source_url":"https://www.aliorbank.pl/dodatkowe-informacje/przydatne-dokumenty/klienci-indywidualni.html","title":"Alior — indeks dokumentów detalicznych","claim":"Indeks wskazuje aktualne regulaminy promocji refinansowania III.","accessed_at":"2026-09-20T18:19:00.000Z","relation":"supports","publication_basis":"linked-summary"},
-{"evidence_id":"ALI-3","source_type":"bank","source_url":"https://www.aliorbank.pl/dam/jcr:c5a49842-aa66-41ab-b710-bacf63a97233/regulamin-oferty-refinansuj-z-ab-3-bez-ubezpieczenia-na-zycie-od25062026.pdf","title":"Alior — regulamin promocji refinansowania III","claim":"Regulamin wspiera wyłącznie warunkową pozycję obserwacyjną Alior.","accessed_at":"2026-09-20T18:19:00.000Z","relation":"limits","publication_basis":"linked-summary"},
-{"evidence_id":"ALI-1","source_type":"bank","source_url":"https://www.aliorbank.pl/klienci-indywidualni/kredyty-hipoteczne/kredyt-z-okresowo-stala-stopa-oprocentowania.html","title":"Alior — kredyt z okresowo stałą stopą","claim":"Strona produktu jest kontekstem dla warunkowej pozycji obserwacyjnej Alior.","accessed_at":"2026-09-20T18:19:00.000Z","relation":"context","publication_basis":"linked-summary"}
-]}
+{
+  "schema_version": "1.0.0",
+  "items": [
+    {
+      "evidence_id": "MB-1",
+      "source_type": "bank",
+      "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/przenosze-kredyt",
+      "title": "mBank — przeniesienie kredytu hipotecznego",
+      "claim": "Materiał potwierdza refinansowanie oraz warianty oprocentowania.",
+      "accessed_at": "2026-09-20T18:19:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "MB-2",
+      "source_type": "bank",
+      "source_url": "https://www.mbank.pl/pdf/ind/kredyty/kredyt-hipoteczny/regulamin-promocji-promocja-refinansowania-kredytu-hipotecznego-z-oprocentowaniem-stalym-na-okres-5-lat-edycja-2.pdf",
+      "title": "mBank — regulamin promocji, stopa stała",
+      "claim": "Regulamin opisuje termin promocji refinansowania edycja 2.",
+      "accessed_at": "2026-09-20T18:19:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "MB-3",
+      "source_type": "bank",
+      "source_url": "https://www.mbank.pl/pdf/ind/kredyty/kredyt-hipoteczny/regulamin-promocji-promocja-refinansowania-kredytu-hipotecznego-z-oprocentowaniem-zmiennym-edycja-2.pdf",
+      "title": "mBank — regulamin promocji, stopa zmienna",
+      "claim": "Regulamin opisuje termin promocji refinansowania edycja 2.",
+      "accessed_at": "2026-09-20T18:19:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PKO-1",
+      "source_type": "bank",
+      "source_url": "https://www.pkobp.pl/klient-indywidualny/kredyty-pozyczki/przenies-kredyt-mieszkaniowy",
+      "title": "PKO BP — przenieś kredyt mieszkaniowy",
+      "claim": "Strona potwierdza cel refinansowania, lecz nie pozwala odtworzyć bieżącego RRSO.",
+      "accessed_at": "2026-09-20T18:19:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PKO-2",
+      "source_type": "bank",
+      "source_url": "https://www.pkobp.pl/api/public/579f26f8-6d01-430c-a6ac-43620e525940.pdf?content-disposition=filename%3DOprocentowanie_Kredytu_hipotecznego.pdf",
+      "title": "PKO BP — tabela nr 5 oprocentowania",
+      "claim": "Tabela od 03.09.2026 opisuje konstrukcję oprocentowania.",
+      "accessed_at": "2026-09-20T18:19:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-1",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/przenosze-kredyt",
+      "title": "ING — przeniesienie kredytu hipotecznego",
+      "claim": "Strona zawiera ofertę przeniesienia oraz warunkowy przykład reprezentatywny.",
+      "accessed_at": "2026-09-20T18:19:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-2",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/regulamin-refinansowanie",
+      "title": "ING — regulamin refinansowania",
+      "claim": "Regulamin określa warunkowy czas promocji refinansowania.",
+      "accessed_at": "2026-09-20T18:19:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PEK-1",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/refinansuj-swoj-kredyt-mieszkaniowy.html",
+      "title": "Pekao — refinansowanie",
+      "claim": "Strona potwierdza cel refinansowania i warunkowy przykład reprezentatywny.",
+      "accessed_at": "2026-09-20T18:19:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "BNP-1",
+      "source_type": "bank",
+      "source_url": "https://www.bnpparibas.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny-z-niska-marza",
+      "title": "BNP Paribas — kredyt hipoteczny",
+      "claim": "Materiał potwierdza spłatę kredytu w innym banku oraz warunkowy przykład reprezentatywny.",
+      "accessed_at": "2026-09-20T18:19:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ALI-2",
+      "source_type": "bank",
+      "source_url": "https://www.aliorbank.pl/dodatkowe-informacje/przydatne-dokumenty/klienci-indywidualni.html",
+      "title": "Alior — indeks dokumentów detalicznych",
+      "claim": "Indeks wskazuje aktualne regulaminy promocji refinansowania III.",
+      "accessed_at": "2026-09-20T18:19:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ALI-3",
+      "source_type": "bank",
+      "source_url": "https://www.aliorbank.pl/dam/jcr:c5a49842-aa66-41ab-b710-bacf63a97233/regulamin-oferty-refinansuj-z-ab-3-bez-ubezpieczenia-na-zycie-od25062026.pdf",
+      "title": "Alior — regulamin promocji refinansowania III",
+      "claim": "Regulamin wspiera wyłącznie warunkową pozycję obserwacyjną Alior.",
+      "accessed_at": "2026-09-20T18:19:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ALI-1",
+      "source_type": "bank",
+      "source_url": "https://www.aliorbank.pl/klienci-indywidualni/kredyty-hipoteczne/kredyt-z-okresowo-stala-stopa-oprocentowania.html",
+      "title": "Alior — kredyt z okresowo stałą stopą",
+      "claim": "Strona produktu jest kontekstem dla warunkowej pozycji obserwacyjnej Alior.",
+      "accessed_at": "2026-09-20T18:19:00.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "LAW-1",
+      "source_type": "government",
+      "source_url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000819",
+      "title": "Ustawa o kredycie hipotecznym",
+      "claim": "Art. 38–40 regulują wcześniejszą spłatę, informację o kosztach i rekompensatę.",
+      "accessed_at": "2026-09-21T08:02:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "UOKIK-1",
+      "source_type": "government",
+      "source_url": "https://archiwum.uokik.gov.pl/komentarze_wyjasnienia_i_stanowiska.php?news_id=18515",
+      "title": "UOKiK — spłata kredytu hipotecznego",
+      "claim": "Wyjaśnienie ograniczeń i rozliczenia przy wcześniejszej spłacie.",
+      "accessed_at": "2026-09-21T08:02:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "RF-1",
+      "source_type": "government",
+      "source_url": "https://rf.gov.pl/wczesniejsza-splata-kredytu-skarg-mniej-problem-nadal-wazny/",
+      "title": "Rzecznik Finansowy — wcześniejsza spłata",
+      "claim": "Omawia rozróżnienie dat umów i rozliczenie kosztów.",
+      "accessed_at": "2026-09-21T08:02:00.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "KNF-1",
+      "source_type": "government",
+      "source_url": "https://www.knf.gov.pl/knf/pl/komponenty/img/nowelizacja_rekomendacja_s_23-07-2020_70340.pdf",
+      "title": "KNF — Rekomendacja S",
+      "claim": "Opisuje ocenę zdolności i ryzyka przy kredycie mieszkaniowym.",
+      "accessed_at": "2026-09-21T08:02:00.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "KW-1",
+      "source_type": "government",
+      "source_url": "https://api.sejm.gov.pl/eli/acts/DU/2026/1066/text.pdf",
+      "title": "Ustawa o księgach wieczystych i hipotece",
+      "claim": "Określa skutki wygaśnięcia hipoteki i obowiązki wierzyciela.",
+      "accessed_at": "2026-09-21T08:02:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    }
+  ]
+}

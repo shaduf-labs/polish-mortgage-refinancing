@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:aba067a0-f06b-4d15-9563-5bdeeecd6bbb",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-21T07:45:00.000Z",
+      "completed_at": "2026-09-21T08:02:00.000Z",
+      "title": "Prawa przy wcześniejszej spłacie i procedura refinansowania",
+      "summary": "Dodano datowaną checklistę: informacja o spłacie, warunki rekompensaty, dane do kalkulatora oraz formalności hipoteki.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-09-21-procedura",
+      "entrypoint": "raport/2026-09-21-procedura/index.html"
+    },
+    {
       "run_id": "run:d3dfb3f6-1589-4933-8f8c-97824c87615d",
       "status": "completed",
       "answer_change": "meaningful_change",

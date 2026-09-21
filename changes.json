@@ -1,1 +1,23 @@
-{"schema_version":"1.0.0","items":[{"change_id":"official-audit-2026-09-20","changed_at":"2026-09-20T18:19:00.000Z","summary":"Audyt oficjalnych warunków: statusy, linki i data odczytu; PKO BP RRSO pozostaje nieustalone, a Alior jest warunkową pozycją obserwacyjną.","path":"/p/polish-mortgage-refinancing/oferty"},{"change_id":"bootstrap-2026-09-20","changed_at":"2026-09-20T14:01:06Z","summary":"Pierwszy kandydat: przewodnik, datowana próba ofert, lokalny kalkulator i kontrola wzorów.","path":"/p/polish-mortgage-refinancing/"}]}
+{
+  "schema_version": "1.0.0",
+  "items": [
+    {
+      "change_id": "procedura-2026-09-21",
+      "changed_at": "2026-09-21T08:02:00.000Z",
+      "summary": "Datowana checklista wcześniejszej spłaty: informacja z banku, rekompensata zależna od umowy i stopy, dane kalkulatora oraz formalności hipoteki.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-09-21-procedura"
+    },
+    {
+      "change_id": "official-audit-2026-09-20",
+      "changed_at": "2026-09-20T18:19:00.000Z",
+      "summary": "Audyt oficjalnych warunków: statusy, linki i data odczytu; PKO BP RRSO pozostaje nieustalone, a Alior jest warunkową pozycją obserwacyjną.",
+      "path": "/p/polish-mortgage-refinancing/oferty"
+    },
+    {
+      "change_id": "bootstrap-2026-09-20",
+      "changed_at": "2026-09-20T14:01:06Z",
+      "summary": "Pierwszy kandydat: przewodnik, datowana próba ofert, lokalny kalkulator i kontrola wzorów.",
+      "path": "/p/polish-mortgage-refinancing/"
+    }
+  ]
+}

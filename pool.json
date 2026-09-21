@@ -18,7 +18,7 @@
   "question": "Czy opłaca mi się refinansować kredyt hipoteczny w Polsce po uwzględnieniu wszystkich kosztów i warunków?",
   "cadence": "Daily at 07:45 UTC",
   "release_state": "live",
-  "latest_research_at": "2026-09-20T18:19:00.000Z",
+  "latest_research_at": "2026-09-21T08:02:00.000Z",
   "public_repo": "https://github.com/shaduf-labs/polish-mortgage-refinancing",
   "related_pools": []
 }

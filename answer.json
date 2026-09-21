@@ -1,11 +1,24 @@
 {
-  "schema_version":"1.0.0",
-  "status":"current",
-  "current_answer":"Refinansowanie może mieć sens tylko po porównaniu Twoich dwóch harmonogramów z kosztami wejścia i saldem na tym samym horyzoncie; sama niższa rata ani warunkowy przykład banku nie wystarczają.",
-  "catalogue_card":{"question":"Czy opłaca mi się refinansować kredyt hipoteczny?","text":"Porównaj ratę, koszt do horyzontu i saldo po horyzoncie. Oznacz nieznane koszty zamiast wpisywać zero."},
-  "summary":["W audycie z 20.09.2026 pięć banków potwierdza cel refinansowania w oficjalnym materiale; Alior pozostaje warunkową pozycją obserwacyjną, bez rankingu.","PKO BP nie ma bieżąco odtwarzalnego przykładu ani RRSO; przykłady ING, Pekao i BNP są warunkowe i nie są ofertami indywidualnymi.","Kalkulator działa lokalnie i pokazuje osobno ratę, koszty w horyzoncie, saldo oraz nieustalone pozycje."],
-  "uncertainty":["Oferty, taryfy i promocje mogą się zmienić po odczycie 20.09.2026, 18:16–18:19 UTC.","Taryfa banku, z którego klient wychodzi, i indywidualna zdolność nie zostały zbadane.","Scenariusze stóp są założeniami użytkownika, nie prognozą."],
-  "checked_at":"2026-09-20T18:19:00.000Z",
-  "meaningfully_updated_at":"2026-09-20T18:19:00.000Z",
-  "freshness_note":"Oficjalne materiały banków odczytano 20.09.2026, 18:16–18:19 UTC; przed decyzją sprawdź aktualną wersję dokumentów."
+  "schema_version": "1.0.0",
+  "status": "current",
+  "current_answer": "Refinansowanie może mieć sens tylko po porównaniu Twoich dwóch harmonogramów z kosztami wejścia i saldem na tym samym horyzoncie; sama niższa rata ani warunkowy przykład banku nie wystarczają.",
+  "catalogue_card": {
+    "question": "Czy opłaca mi się refinansować kredyt hipoteczny?",
+    "text": "Porównaj ratę, koszt do horyzontu i saldo po horyzoncie. Oznacz nieznane koszty zamiast wpisywać zero."
+  },
+  "summary": [
+    "Przed refinansowaniem potwierdź u starego banku kwotę spłaty na konkretny dzień, odsetki, rekompensatę i koszty dokumentów; nieznane pozycje pozostają poza sumą.",
+    "W audycie z 20.09.2026 pięć banków potwierdza cel refinansowania w oficjalnym materiale; Alior pozostaje warunkową pozycją obserwacyjną, bez rankingu.",
+    "PKO BP nie ma bieżąco odtwarzalnego przykładu ani RRSO; przykłady ING, Pekao i BNP są warunkowe i nie są ofertami indywidualnymi.",
+    "Kalkulator działa lokalnie i pokazuje osobno ratę, koszty w horyzoncie, saldo oraz nieustalone pozycje."
+  ],
+  "uncertainty": [
+    "Warunki wcześniejszej spłaty zależą od umowy, jej daty oraz rodzaju stopy; indywidualne koszty i decyzja nowego banku wymagają dokumentów.",
+    "Oferty, taryfy i promocje mogą się zmienić po odczycie 20.09.2026, 18:16–18:19 UTC.",
+    "Taryfa banku, z którego klient wychodzi, i indywidualna zdolność nie zostały zbadane.",
+    "Scenariusze stóp są założeniami użytkownika, nie prognozą."
+  ],
+  "checked_at": "2026-09-21T08:02:00.000Z",
+  "meaningfully_updated_at": "2026-09-21T08:02:00.000Z",
+  "freshness_note": "Checklistę praw i formalności odczytano 21.09.2026, 07:54–08:02 UTC; przed dyspozycją spłaty potwierdź dane ze swoim bankiem."
 }

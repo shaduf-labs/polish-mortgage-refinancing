@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "default_page": "start",
-  "meaningfully_updated_at": "2026-09-20T14:01:06Z",
+  "meaningfully_updated_at": "2026-09-21T08:02:00.000Z",
   "pages": [
     {
       "id": "start",
@@ -66,10 +66,10 @@
     {
       "id": "raport",
       "slug": "raport",
-      "label": "Raport 20.09.2026",
+      "label": "Raporty",
       "icon": "file-text",
       "group": "Źródła",
-      "description": "Metoda, źródła pierwotne i granice wniosków.",
+      "description": "Audyt ofert i datowana checklista procedury.",
       "parent": null,
       "entrypoint": "raport/index.html",
       "entrypoint_type": "html_fragment",

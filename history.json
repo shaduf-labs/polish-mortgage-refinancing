@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:d3dfb3f6-1589-4933-8f8c-97824c87615d",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-20T18:16:00.000Z",
+      "completed_at": "2026-09-20T18:19:00.000Z",
+      "title": "Audyt aktualności oficjalnych warunków refinansowania",
+      "summary": "Uaktualniono statusy i źródła: PKO BP RRSO jest nieustalone, a Alior ma warunkową promocję III jako pozycja obserwacyjna.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-09-20-audyt",
+      "entrypoint": "raport/2026-09-20-audyt/index.html"
+    },
+    {
       "run_id": "run:manual:960ef45f4f4e7564767bfd7efff138a8",
       "status": "completed",
       "answer_change": "meaningful_change",

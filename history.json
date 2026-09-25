@@ -2,6 +2,28 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:07c14a4e-263d-42c0-823d-82b480237fa5",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-25T07:45:00.000Z",
+      "completed_at": "2026-09-25T08:00:00.000Z",
+      "title": "Uzupełniający audyt kosztów produktów wymaganych przy refinansowaniu",
+      "summary": "Doprecyzowano stawki taryfowe Alior Konto Plus i karty, obowiązkowe zabezpieczenie polisą PKO BP oraz zakres stawki Pekao24.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-09-25-uzupelnienie-kosztow",
+      "entrypoint": "raport/2026-09-25-uzupelnienie-kosztow/index.html"
+    },
+    {
+      "run_id": "run:2b80b950-d3c9-4774-afd7-eed7f18bc25c",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-24T07:45:00.000Z",
+      "completed_at": "2026-09-24T07:50:00.000Z",
+      "title": "Oficjalny audyt kosztów wejścia przy refinansowaniu",
+      "summary": "Odczyt sześciu materiałów banków: warunkowe prowizje, wyceny, produkty dodatkowe oraz widoczne braki w kosztach wejścia.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-09-24-koszty-wejscia",
+      "entrypoint": "raport/2026-09-24-koszty-wejscia/index.html"
+    },
+    {
       "run_id": "run:aba067a0-f06b-4d15-9563-5bdeeecd6bbb",
       "status": "completed",
       "answer_change": "meaningful_change",

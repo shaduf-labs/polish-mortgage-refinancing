@@ -1,24 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Refinansowanie może mieć sens tylko po porównaniu Twoich dwóch harmonogramów z kosztami wejścia i saldem na tym samym horyzoncie; sama niższa rata ani warunkowy przykład banku nie wystarczają.",
+  "current_answer": "Refinansowanie można rzetelnie ocenić dopiero po porównaniu dwóch harmonogramów na tym samym horyzoncie — z kosztami wejścia, opłatami cyklicznymi i saldem końcowym; brak kwoty nie jest 0 zł.",
   "catalogue_card": {
     "question": "Czy opłaca mi się refinansować kredyt hipoteczny?",
-    "text": "Porównaj ratę, koszt do horyzontu i saldo po horyzoncie. Oznacz nieznane koszty zamiast wpisywać zero."
+    "text": "Porównaj ratę, koszt do horyzontu i saldo po horyzoncie. Przy każdej liczbie zachowaj warunek; braku nie wpisuj jako 0 zł."
   },
   "summary": [
-    "Przed refinansowaniem potwierdź u starego banku kwotę spłaty na konkretny dzień, odsetki, rekompensatę i koszty dokumentów; nieznane pozycje pozostają poza sumą.",
-    "W audycie z 20.09.2026 pięć banków potwierdza cel refinansowania w oficjalnym materiale; Alior pozostaje warunkową pozycją obserwacyjną, bez rankingu.",
-    "PKO BP nie ma bieżąco odtwarzalnego przykładu ani RRSO; przykłady ING, Pekao i BNP są warunkowe i nie są ofertami indywidualnymi.",
-    "Kalkulator działa lokalnie i pokazuje osobno ratę, koszty w horyzoncie, saldo oraz nieustalone pozycje."
+    "Uzupełnienie z 25.09.2026: Alior Konto Plus ma stawkę 0/12 zł miesięcznie, a karta 0/6 zł miesięcznie. Zwolnienie z obu wymaga wpływu min. 3 000 zł i 5 płatności w miesiącu; nie jest automatyczne dla refinansowania.",
+    "PKO BP wymaga zabezpieczenia polisą nieruchomości z przelewem praw, lecz cena polisy jest nieustalona; polisa może być zewnętrzna.",
+    "Pekao24 kosztuje 0 zł miesięcznie w taryfie bieżących ROR. Nie jest to cena całego pakietu refinansowania, bo strona nie wskazuje wariantu rachunku ani karty.",
+    "Koszty starego banku i formalności zewnętrzne wymagają własnych dokumentów. Porównanie wymaga rat, kosztów, salda i wspólnego horyzontu."
   ],
   "uncertainty": [
-    "Warunki wcześniejszej spłaty zależą od umowy, jej daty oraz rodzaju stopy; indywidualne koszty i decyzja nowego banku wymagają dokumentów.",
-    "Oferty, taryfy i promocje mogą się zmienić po odczycie 20.09.2026, 18:16–18:19 UTC.",
-    "Taryfa banku, z którego klient wychodzi, i indywidualna zdolność nie zostały zbadane.",
-    "Scenariusze stóp są założeniami użytkownika, nie prognozą."
+    "Warunki promocji, taryfy oraz decyzja kredytowa mogą się zmienić po odczycie 25.09.2026, 07:53–07:56 UTC.",
+    "Łączny koszt rachunku z kartą w Pekao, cena polis, wyceny i wskazane produkty dodatkowe pozostają nieustalone, chyba że dokument konkretnej umowy poda kwotę.",
+    "Koszt starego banku, saldo na dzień spłaty, odsetki, rekompensata, dokumenty, notariusz i wpisy hipoteczne nie zostały wycenione w materiałach nowego banku.",
+    "Kwoty reprezentatywnych przykładów oraz produktów dodatkowych nie są stawką indywidualną."
   ],
-  "checked_at": "2026-09-21T08:02:00.000Z",
-  "meaningfully_updated_at": "2026-09-21T08:02:00.000Z",
-  "freshness_note": "Checklistę praw i formalności odczytano 21.09.2026, 07:54–08:02 UTC; przed dyspozycją spłaty potwierdź dane ze swoim bankiem."
+  "checked_at": "2026-09-25T08:00:00.000Z",
+  "meaningfully_updated_at": "2026-09-25T08:00:00.000Z",
+  "freshness_note": "Uzupełniający audyt z 25.09.2026 rozdziela stawki taryfowe, obowiązkowe zabezpieczenie i pola nieustalone; nie sumuje banków ani nie zamienia braku w 0 zł."
 }

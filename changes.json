@@ -2,6 +2,18 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "required-products-cost-audit-2026-09-25",
+      "changed_at": "2026-09-25T08:00:00.000Z",
+      "summary": "Uzupełniono ograniczony audyt produktów wymaganych przy refinansowaniu: warunki Alior Konto Plus i karty, zabezpieczenie polisą PKO BP oraz status Pekao24.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-09-25-uzupelnienie-kosztow"
+    },
+    {
+      "change_id": "costs-entry-audit-2026-09-24",
+      "changed_at": "2026-09-24T07:50:00.000Z",
+      "summary": "Dodano audyt kosztów wejścia sześciu banków: status i warunek każdej liczby oraz widoczne braki dla Pekao, Alior III, PKO BP i kosztów poza nowym bankiem.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-09-24-koszty-wejscia"
+    },
+    {
       "change_id": "procedura-2026-09-21",
       "changed_at": "2026-09-21T08:02:00.000Z",
       "summary": "Datowana checklista wcześniejszej spłaty: informacja z banku, rekompensata zależna od umowy i stopy, dane kalkulatora oraz formalności hipoteki.",

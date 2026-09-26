@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "bnp-rrso-status-2026-09-26",
+      "changed_at": "2026-09-26T08:00:00.000Z",
+      "summary": "Dodano datowane wyjaśnienie: RRSO refinansowania BNP Paribas jest nieustalone; nagłówek 6,76% nie ma widocznych założeń, a przykład 6,93% nie jest przypisany do refinansowania.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-09-26-bnp-rrso"
+    },
+    {
       "change_id": "required-products-cost-audit-2026-09-25",
       "changed_at": "2026-09-25T08:00:00.000Z",
       "summary": "Uzupełniono ograniczony audyt produktów wymaganych przy refinansowaniu: warunki Alior Konto Plus i karty, zabezpieczenie polisą PKO BP oraz status Pekao24.",

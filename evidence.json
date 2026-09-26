@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "BNP-20260926-1",
+      "source_type": "bank",
+      "source_url": "https://www.bnpparibas.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny-z-niska-marza",
+      "title": "BNP Paribas — kredyt hipoteczny",
+      "claim": "Nagłówek podaje RRSO 6,76% bez widocznych założeń, a przykład reprezentatywny podaje 6,93% z kalkulacją 10.09.2026 r.; strona nie przypisuje żadnej wartości wprost do refinansowania.",
+      "accessed_at": "2026-09-26T07:50:00.000Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "BNP-20260926-2",
+      "source_type": "bank",
+      "source_url": "https://www.bnpparibas.pl/_fileserver/item/1528468",
+      "title": "BNP Paribas — karta informacyjna dla produktów hipotecznych",
+      "claim": "Karta powtarza przykład RRSO 6,93% i wymienia spłatę kredytów mieszkaniowych wśród celów produktu, ale nie wskazuje celu tego przykładu jako refinansowania.",
+      "accessed_at": "2026-09-26T07:51:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "PEK-20260925-2",
       "source_type": "bank",
       "source_url": "https://www.pekao.com.pl/dam/jcr:eab0d421-5e06-4d39-a23a-a4b9a98e9c0c/taryfy-prowizji-i-oplat-bankowych-dla-klientow-detalicznych-rachunki-bankowe-oferta-biezaca-oplaty-i-prowizje-obowiazujace-od-13082026.cb679e72e5dc866e6acba66443a70466.pdf",

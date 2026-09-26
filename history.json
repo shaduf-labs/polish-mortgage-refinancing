@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:609532c1-b5ea-417a-a0ef-67f9e3ca3e47",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-26T07:45:00.000Z",
+      "completed_at": "2026-09-26T08:00:00.000Z",
+      "title": "BNP Paribas: status RRSO refinansowania",
+      "summary": "RRSO refinansowania BNP Paribas pozostaje nieustalone: nagłówek 6,76% nie ma widocznych założeń, a przykład 6,93% nie jest przypisany do refinansowania.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-09-26-bnp-rrso",
+      "entrypoint": "raport/2026-09-26-bnp-rrso/index.html"
+    },
+    {
       "run_id": "run:07c14a4e-263d-42c0-823d-82b480237fa5",
       "status": "completed",
       "answer_change": "meaningful_change",

@@ -7,18 +7,20 @@
     "text": "Porównaj ratę, koszt do horyzontu i saldo po horyzoncie. Przy każdej liczbie zachowaj warunek; braku nie wpisuj jako 0 zł."
   },
   "summary": [
+    "Odczyt BNP Paribas z 26.09.2026: RRSO refinansowania jest nieustalone. Nagłówek 6,76% nie ma widocznych założeń, a przykład 6,93% nie jest przypisany do refinansowania; wartości nie są wybierane ani uśredniane.",
     "Uzupełnienie z 25.09.2026: Alior Konto Plus ma stawkę 0/12 zł miesięcznie, a karta 0/6 zł miesięcznie. Zwolnienie z obu wymaga wpływu min. 3 000 zł i 5 płatności w miesiącu; nie jest automatyczne dla refinansowania.",
     "PKO BP wymaga zabezpieczenia polisą nieruchomości z przelewem praw, lecz cena polisy jest nieustalona; polisa może być zewnętrzna.",
     "Pekao24 kosztuje 0 zł miesięcznie w taryfie bieżących ROR. Nie jest to cena całego pakietu refinansowania, bo strona nie wskazuje wariantu rachunku ani karty.",
     "Koszty starego banku i formalności zewnętrzne wymagają własnych dokumentów. Porównanie wymaga rat, kosztów, salda i wspólnego horyzontu."
   ],
   "uncertainty": [
+    "BNP Paribas: 6,76% w nagłówku nie ma widocznych parametrów, a 6,93% jest przykładem produktu bez wskazania celu refinansowania. Nie tworzą jednej RRSO refinansowania.",
     "Warunki promocji, taryfy oraz decyzja kredytowa mogą się zmienić po odczycie 25.09.2026, 07:53–07:56 UTC.",
     "Łączny koszt rachunku z kartą w Pekao, cena polis, wyceny i wskazane produkty dodatkowe pozostają nieustalone, chyba że dokument konkretnej umowy poda kwotę.",
     "Koszt starego banku, saldo na dzień spłaty, odsetki, rekompensata, dokumenty, notariusz i wpisy hipoteczne nie zostały wycenione w materiałach nowego banku.",
     "Kwoty reprezentatywnych przykładów oraz produktów dodatkowych nie są stawką indywidualną."
   ],
-  "checked_at": "2026-09-25T08:00:00.000Z",
-  "meaningfully_updated_at": "2026-09-25T08:00:00.000Z",
-  "freshness_note": "Uzupełniający audyt z 25.09.2026 rozdziela stawki taryfowe, obowiązkowe zabezpieczenie i pola nieustalone; nie sumuje banków ani nie zamienia braku w 0 zł."
+  "checked_at": "2026-09-26T08:00:00.000Z",
+  "meaningfully_updated_at": "2026-09-26T08:00:00.000Z",
+  "freshness_note": "Odczyt BNP Paribas z 26.09.2026 rozdziela ogólny nagłówek 6,76% od przykładu 6,93%; żadna liczba nie została przypisana do refinansowania bez wyraźnego dokumentu."
 }

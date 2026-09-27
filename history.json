@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:6a16b504-81ee-4a9f-8fe9-f9dc2bc6d4c0",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-27T07:45:00.000Z",
+      "completed_at": "2026-09-27T08:30:00.000Z",
+      "title": "Naprawa techniczna kalkulatora refinansowania",
+      "summary": "Naprawiono blokadę CSP: lokalny skrypt przywraca pola kosztów, obliczenie i reset; nie dodano danych ofert banków.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-09-27-naprawa-kalkulatora",
+      "entrypoint": "raport/2026-09-27-naprawa-kalkulatora/index.html"
+    },
+    {
       "run_id": "run:609532c1-b5ea-417a-a0ef-67f9e3ca3e47",
       "status": "completed",
       "answer_change": "meaningful_change",

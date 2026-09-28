@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:4da4ba66-8aa1-4366-9a2e-220f4c7f8512",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-28T07:45:00.000Z",
+      "completed_at": "2026-09-28T07:56:45.000Z",
+      "title": "ING po 27.09: nowa edycja refinansowania",
+      "summary": "Potwierdzono nową edycję ING 28.09–11.10 i odrębną ważność tabeli stałej stopy 28.09–04.10; rozdzielono wyjątki starych i nowych formularzy.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-09-28-ing-po-terminie",
+      "entrypoint": "raport/2026-09-28-ing-po-terminie/index.html"
+    },
+    {
       "run_id": "run:6a16b504-81ee-4a9f-8fe9-f9dc2bc6d4c0",
       "status": "completed",
       "answer_change": "meaningful_change",

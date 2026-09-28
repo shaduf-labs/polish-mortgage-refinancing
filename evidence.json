@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "ING-20260928-1",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/przenosze-kredyt",
+      "title": "ING — strona przeniesienia kredytu",
+      "claim": "Strona opisuje nową edycję 1, przykłady kalkulowane 28.09, wymagane zabezpieczenia i wycenę.",
+      "accessed_at": "2026-09-28T07:53:09.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20260928-2",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/regulamin-refinansowanie",
+      "title": "ING — regulamin edycji 1",
+      "claim": "Nowy siedmiostronicowy regulamin pod dawnym URL określa okres 28.09–11.10, cel, warunki produktów, ceny, nagrodę i wyjątek ważnego formularza.",
+      "accessed_at": "2026-09-28T07:53:09.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20260928-3",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/regulamin-nagroda-za-refinansowanie",
+      "title": "ING — regulamin starej nagrody",
+      "claim": "Stary regulamin dotyczy okresu 04.09–27.09 i warunkowego wyjątku dla ważnego formularza do 11.10; nie ustala nowej ceny.",
+      "accessed_at": "2026-09-28T07:53:09.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20260928-4",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie",
+      "title": "ING — tabela zmiennej stopy",
+      "claim": "Nowa edycja ma marżę 1,55 p.p. ponad POLSTR 1M; reprezentatywny przykład 28.09 podaje 5,09033% i RRSO 5,55%.",
+      "accessed_at": "2026-09-28T07:53:09.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20260928-5",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie-stale",
+      "title": "ING — tabela stałej stopy",
+      "claim": "Tabela ważna 28.09–04.10 podaje 5,92% przez 60 miesięcy; reprezentatywny przykład 28.09 podaje RRSO 6,42%.",
+      "accessed_at": "2026-09-28T07:53:09.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "BNP-20260926-1",
       "source_type": "bank",
       "source_url": "https://www.bnpparibas.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny-z-niska-marza",

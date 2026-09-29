@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "pko-digital-example-scope-2026-09-29",
+      "changed_at": "2026-09-29T07:59:00.000Z",
+      "summary": "Dodano raport: produkt cyfrowy PKO BP dopuszcza przeniesienie i drogę online, lecz przykład 7,37% RRSO nie wskazuje celu refinansowania; bez nowej liczby dla refinansowania.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-09-29-pko-zakres-przykladu"
+    },
+    {
       "change_id": "ing-new-edition-2026-09-28",
       "changed_at": "2026-09-28T07:56:45.000Z",
       "summary": "Dodano raport i uaktualniono wiersz ING: nowa edycja 1 od 28.09 do 11.10, warunki, wyjątki formularza i cena stała ważna tylko do 04.10.",

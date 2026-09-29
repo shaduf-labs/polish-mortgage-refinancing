@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:dde56984-514c-4698-9a5d-78595c19bc76",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-29T07:54:34.000Z",
+      "completed_at": "2026-09-29T07:59:00.000Z",
+      "title": "PKO BP: zakres przykładu cyfrowego kredytu",
+      "summary": "Cyfrowy produkt dopuszcza przeniesienie i bank opisuje drogę online, ale przykład 7,37% RRSO nie wskazuje celu refinansowania; jego RRSO pozostaje nieustalone.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-09-29-pko-zakres-przykladu",
+      "entrypoint": "raport/2026-09-29-pko-zakres-przykladu/index.html"
+    },
+    {
       "run_id": "run:4da4ba66-8aa1-4366-9a2e-220f4c7f8512",
       "status": "completed",
       "answer_change": "meaningful_change",

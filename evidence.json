@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "PEK-20260930-1",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/refinansuj-swoj-kredyt-mieszkaniowy.html",
+      "title": "Pekao — refinansuj swój kredyt mieszkaniowy",
+      "claim": "Strona promuje obniżkę oprocentowania o 0,2 p.p. do 30.09.2026 i podaje 190 zł w przykładach; nie ustala prowizji ani ceny każdej oceny.",
+      "accessed_at": "2026-09-30T08:11:48.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PEK-20260930-3",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/dam/jcr:41d0764a-5c97-4a11-9db6-54e7c831c947/Wyciag_z_Taryfy_kredyty_i_pozyczki.2026-05-28-12-11-43.pdf",
+      "title": "Pekao — ogólna taryfa kredytów i pożyczek",
+      "claim": "PDF s. 5/7 podaje ogólną stawkę 2,99% za przygotowanie i zawarcie umowy obecnie udzielanego kredytu mieszkaniowego; nie łączy jej z promocją refinansowania.",
+      "accessed_at": "2026-09-30T08:13:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PEK-20260930-4",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/dam/jcr:a8684393-b66a-4f04-9a4c-b8dc8b02ad67/Informacje-ogolne-mieszkaniowy-kredyt-hipoteczny.2026-07-31-16-33-42.pdf",
+      "title": "Pekao — informacje ogólne mieszkaniowego kredytu hipotecznego, wersja (2026_06)",
+      "claim": "PDF s. 2/16 dopuszcza spłatę kredytu mieszkaniowego w innym banku; s. 8/16 rozróżnia kartę wewnętrzną 190 zł, operat przez podmiot współpracujący 440/740/420 zł i własny operat o cenie uzgadnianej z rzeczoznawcą. Nie przypisuje metody do konkretnego promocyjnego wniosku ani nie podaje momentu płatności.",
+      "accessed_at": "2026-09-30T08:14:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "PKO-20260929-1",
       "source_type": "bank",
       "source_url": "https://www.pkobp.pl/klient-indywidualny/kredyty-pozyczki/przenies-kredyt-mieszkaniowy",

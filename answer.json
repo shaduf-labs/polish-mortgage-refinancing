@@ -7,6 +7,7 @@
     "text": "Porównaj ratę, koszt do horyzontu i saldo po horyzoncie. Przy każdej liczbie zachowaj warunek; braku nie wpisuj jako 0 zł."
   },
   "summary": [
+    "Pekao: ogólny dokument rozróżnia kartę wyceny wewnętrznej za 190 zł przy określonych warunkach, operat przez podmiot współpracujący z bankiem za 440/740/420 zł zależnie od nieruchomości oraz własny operat o cenie uzgadnianej z rzeczoznawcą. Prowizja i koszt oceny dla konkretnego promocyjnego refinansowania pozostają nieustalone.",
     "PKO BP: Cyfrowy Kredyt Hipoteczny dopuszcza spłatę kredytu mieszkaniowego w innym banku, a bank opisuje drogę online. Przykład 7,37% RRSO nie wskazuje celu refinansowania; RRSO refinansowania pozostaje nieustalone.",
     "ING: od 28.09 do 11.10.2026 obowiązuje nowa edycja 1 dla nowych kompletnych wniosków, nie automatyczne przedłużenie oferty do 27.09. Prowizja 0% jest warunkowa; stała stopa 5,92% wynika z tabeli ważnej tylko 28.09–04.10.2026.",
     "Odczyt BNP Paribas z 26.09.2026: RRSO refinansowania jest nieustalone. Nagłówek 6,76% nie ma widocznych założeń, a przykład 6,93% nie jest przypisany do refinansowania; wartości nie są wybierane ani uśredniane.",
@@ -16,6 +17,7 @@
     "Koszty starego banku i formalności zewnętrzne wymagają własnych dokumentów. Porównanie wymaga rat, kosztów, salda i wspólnego horyzontu."
   ],
   "uncertainty": [
+    "Pekao: ogólna taryfa podaje 2,99%, lecz nie wykazano zastosowania tej stawki lub odstępstwa w promocji. Dokument ogólny nie rozstrzyga metody wyceny dla konkretnego refinansowania ani terminu płatności. Oferta od 01.10 wymaga nowego odczytu.",
     "PKO BP: cyfrowy PDF odczytano 29.09 z indeksu sprzed dwóch dni; lokalnie nie pobrano bajtów dokumentu. Nie potwierdzono niezmienności treści pod tym samym URL-em ani indywidualnych warunków online. Status po 02.10 wymaga nowego odczytu.",
     "ING: po 04.10 wymagana jest nowa kontrola tabeli stałej stopy, a po 11.10 dostępności edycji. Wyjątki dotyczą wyłącznie posiadaczy ważnych formularzy właściwej edycji. Ceny indywidualnych polis, konta i pełny koszt refinansowania pozostają nieustalone.",
     "BNP Paribas: 6,76% w nagłówku nie ma widocznych parametrów, a 6,93% jest przykładem produktu bez wskazania celu refinansowania. Nie tworzą jednej RRSO refinansowania.",
@@ -24,7 +26,7 @@
     "Koszt starego banku, saldo na dzień spłaty, odsetki, rekompensata, dokumenty, notariusz i wpisy hipoteczne nie zostały wycenione w materiałach nowego banku.",
     "Kwoty reprezentatywnych przykładów oraz produktów dodatkowych nie są stawką indywidualną."
   ],
-  "checked_at": "2026-09-29T07:59:00.000Z",
-  "meaningfully_updated_at": "2026-09-29T07:59:00.000Z",
-  "freshness_note": "PKO BP odczytano 29.09.2026, 07:54:34–07:55:27 UTC. Cyfrowy PDF miał ekstrakcję indeksowaną dwa dni wcześniej, a lokalny klient HTTP nie pobrał bajtów; jego świeżość jest ograniczona. Pozostałe banki zachowują wcześniejsze daty odczytów."
+  "checked_at": "2026-09-30T08:23:00.000Z",
+  "meaningfully_updated_at": "2026-09-30T08:23:00.000Z",
+  "freshness_note": "Pekao odczytano 30.09.2026, 08:11–08:14 UTC; sprawdzono oficjalną stronę refinansowania, ogólną taryfę i informacje ogólne. Nie orzekano o stanie promocji od 01.10. Pozostałe banki zachowują wcześniejsze daty odczytów."
 }

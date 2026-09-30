@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:8a1b05c0-6f1d-4ce2-9ac4-ac5524858601",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-30T07:45:00.000Z",
+      "completed_at": "2026-09-30T08:23:00.000Z",
+      "title": "Pekao: metody oceny nieruchomości i nieustalone koszty promocji",
+      "summary": "Ogólny dokument Pekao rozróżnia kartę wyceny, operat przez podmiot współpracujący i własny operat. Prowizja oraz koszt oceny dla konkretnego promocyjnego refinansowania pozostają nieustalone.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-09-30-pekao-koszty",
+      "entrypoint": "raport/2026-09-30-pekao-koszty/index.html"
+    },
+    {
       "run_id": "run:dde56984-514c-4698-9a5d-78595c19bc76",
       "status": "completed",
       "answer_change": "meaningful_change",

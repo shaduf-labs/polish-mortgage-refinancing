@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "MB-20261001-INDEX",
+      "source_type": "bank",
+      "source_url": "https://www.mbank.pl/pomoc/dokumenty/oferta-indywidualna/promocje/",
+      "title": "mBank — indeks aktualnych promocji",
+      "claim": "Indeks wskazuje edycję 3 refinansowania osobno dla stałej stopy na 5 lat i zmiennej, obie 01.10.2026–27.01.2027; nie podaje cen ani szczegółowych warunków.",
+      "accessed_at": "2026-10-01T10:18:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "MB-20261001-PRODUCT",
+      "source_type": "bank",
+      "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/przenosze-kredyt",
+      "title": "mBank — strona refinansowania",
+      "claim": "Strona nadal pokazuje ceny i regulaminy edycji 2 zakończonej 30.09; nie stanowi podstawy do cen edycji 3.",
+      "accessed_at": "2026-10-01T10:18:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "MB-20261001-FIXED-404",
+      "source_type": "bank",
+      "source_url": "https://www.mbank.pl/pdf/ind/kredyty/kredyt-hipoteczny/promocja-refinansowania-kredytu-hipotecznego-z-oprocentowaniem-stalym-na-okres-5-lat-edycja-3.pdf",
+      "title": "mBank — link regulaminu edycji 3, stopa stała",
+      "claim": "PDF z indeksu zwrócił 404 w dwóch próbach 01.10; warunków dokumentu nie odczytano.",
+      "accessed_at": "2026-10-01T10:18:00.000Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "MB-20261001-VARIABLE-404",
+      "source_type": "bank",
+      "source_url": "https://www.mbank.pl/pdf/ind/kredyty/kredyt-hipoteczny/promocja-refinansowania-kredytu-hipotecznego-z-oprocentowaniem-zmiennym-edycja-3.pdf",
+      "title": "mBank — link regulaminu edycji 3, stopa zmienna",
+      "claim": "PDF z indeksu zwrócił 404 w dwóch próbach 01.10; warunków dokumentu nie odczytano.",
+      "accessed_at": "2026-10-01T10:18:00.000Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PEK-20261001-PAGE",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/refinansuj-swoj-kredyt-mieszkaniowy.html",
+      "title": "Pekao — strona refinansowania",
+      "claim": "Strona podaje termin 15.10.2026 i warunkową obniżkę oprocentowania o 0,2 p.p. dla stopy stałej albo zmiennej; nie podaje prowizji ani metody wyceny promocyjnego wniosku.",
+      "accessed_at": "2026-10-01T10:18:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "PEK-20260930-1",
       "source_type": "bank",
       "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/refinansuj-swoj-kredyt-mieszkaniowy.html",

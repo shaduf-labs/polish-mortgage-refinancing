@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "mbank-pekao-after-deadline-2026-10-01",
+      "changed_at": "2026-10-01T10:18:00.000Z",
+      "summary": "mBank: edycja 3 w indeksie od 01.10 do 27.01, lecz regulaminy 404 i warunki finansowe nieustalone. Pekao: warunkowa obniżka 0,2 p.p. na stronie do 15.10; prowizja i wycena promocji nieustalone.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-01-mbank-pekao-po-terminie"
+    },
+    {
       "change_id": "pekao-valuation-methods-2026-09-30",
       "changed_at": "2026-09-30T08:23:00.000Z",
       "summary": "Dodano warunkowe metody wyceny z ogólnego dokumentu Pekao. Nie przypisano promocji jednej ceny oceny ani prowizji.",

@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:6c1aefb4-2d44-4ea8-af46-f7c031d86c59",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-01T10:14:00.000Z",
+      "completed_at": "2026-10-01T10:18:00.000Z",
+      "title": "mBank i Pekao po terminie 30.09",
+      "summary": "mBank: edycja 3 refinansowania w indeksie, lecz regulaminy 404 i ceny nieustalone. Pekao: warunkowa obniżka 0,2 p.p. na stronie do 15.10; prowizja i wycena nieustalone.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-01-mbank-pekao-po-terminie",
+      "entrypoint": "raport/2026-10-01-mbank-pekao-po-terminie/index.html"
+    },
+    {
       "run_id": "run:8a1b05c0-6f1d-4ce2-9ac4-ac5524858601",
       "status": "completed",
       "answer_change": "meaningful_change",

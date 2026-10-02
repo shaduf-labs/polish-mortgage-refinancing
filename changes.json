@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "pko-boundary-check-2026-10-02",
+      "changed_at": "2026-10-02T07:56:00.000Z",
+      "summary": "Doprecyzowano wiersz PKO BP po odczycie w dniu granicznym: okres dwóch kategorii dokumentów, wycena pozostałych nieruchomości, wyjątek polisy i pochodzenie ekstrakcji PDF. RRSO refinansowania bez zmiany statusu.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-02-pko-dzien-graniczny"
+    },
+    {
       "change_id": "mbank-pekao-after-deadline-2026-10-01",
       "changed_at": "2026-10-01T10:18:00.000Z",
       "summary": "mBank: edycja 3 w indeksie od 01.10 do 27.01, lecz regulaminy 404 i warunki finansowe nieustalone. Pekao: warunkowa obniżka 0,2 p.p. na stronie do 15.10; prowizja i wycena promocji nieustalone.",

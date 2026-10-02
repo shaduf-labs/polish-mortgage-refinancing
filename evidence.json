@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "PKO-20261002-1",
+      "source_type": "bank",
+      "source_url": "https://www.pkobp.pl/klient-indywidualny/kredyty-pozyczki/przenies-kredyt-mieszkaniowy",
+      "title": "PKO BP — przenieś kredyt mieszkaniowy",
+      "claim": "Strona 02.10, L49–55 i L100–120: 0% prowizji za udzielenie, wycena z kategorią pozostałych nieruchomości, obniżka 0,8 p.p. dla dwóch rodzajów dokumentów z 18.09–02.10; online i wielokropek w polu RRSO.",
+      "accessed_at": "2026-10-02T07:53:17.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PKO-20261002-2",
+      "source_type": "bank",
+      "source_url": "https://www.pkobp.pl/api/public/68ba37cb-8d4a-44a6-a69c-1ab423a33156.pdf?content-disposition=filename%3DInformacje_og%C3%B3lne_dotycz%C4%85ce_umowy_o_kredyt_hipoteczny%2Fpo%C5%BCyczk%C4%99_hipoteczn%C4%85_-_PKO_Banku_Polskiego.pdf",
+      "title": "PKO BP — informacje ogólne o zwykłym kredycie",
+      "claim": "Ekstrakcja PDF indeksowana 02.10, bez lokalnych bajtów: cel spłaty innego banku, wyjątki polisy, przykład z 18.09 dla oferty do 02.10 bez przypisania do celu refinansowania.",
+      "accessed_at": "2026-10-02T07:53:17.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PKO-20261002-3",
+      "source_type": "bank",
+      "source_url": "https://www.pkobp.pl/api/public/7af546c2-00d2-4687-a047-a51ea916ec66.pdf?content-disposition=filename%3DInformacje_og%C3%B3lne_dotycz%C4%85ce_umowy_o_Cyfrowy_Kredyt_Hipoteczny.pdf",
+      "title": "PKO BP — informacje ogólne o Cyfrowym Kredycie Hipotecznym",
+      "claim": "Ekstrakcja indeksowana 01.10, bez lokalnych bajtów 02.10: cel spłaty innego banku i polisa; przykład 7,37% RRSO liczony 18.09 dla oferty do 02.10 nie wskazuje celu refinansowania. Nie potwierdza wersji bajt-po-bajcie na 02.10.",
+      "accessed_at": "2026-10-02T07:53:17.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PKO-20261002-4",
+      "source_type": "bank",
+      "source_url": "https://www.pkobp.pl/klient-indywidualny/kredyty-pozyczki/kredyt-lub-pozyczka-ze-stala-stopa-procentowa-przez-5-lat",
+      "title": "PKO BP — stała stopa przez 5 lat",
+      "claim": "Strona 02.10, L9–13: obniżka o 0,8 p.p. przez 5 lat dla formularzy wygenerowanych oraz cyfrowych propozycji przedstawionych 18.09–02.10; pole RRSO bez liczby.",
+      "accessed_at": "2026-10-02T07:53:17.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "MB-20261001-INDEX",
       "source_type": "bank",
       "source_url": "https://www.mbank.pl/pomoc/dokumenty/oferta-indywidualna/promocje/",

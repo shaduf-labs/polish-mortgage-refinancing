@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:ae43fa27-ba5c-4e89-b324-8c1a829577b2",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-02T07:52:44.000Z",
+      "completed_at": "2026-10-02T07:53:17.000Z",
+      "title": "PKO BP w dniu granicznym 02.10",
+      "summary": "Strony PKO BP nadal pokazują obniżkę 0,8 p.p. dla formularzy i cyfrowych propozycji z 18.09–02.10. Status późniejszych dokumentów i RRSO refinansowania pozostają nieustalone; cyfrowy PDF pochodzi z indeksu 01.10, bez bajtów z 02.10.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-02-pko-dzien-graniczny",
+      "entrypoint": "raport/2026-10-02-pko-dzien-graniczny/index.html"
+    },
+    {
       "run_id": "run:6c1aefb4-2d44-4ea8-af46-f7c031d86c59",
       "status": "completed",
       "answer_change": "meaningful_change",

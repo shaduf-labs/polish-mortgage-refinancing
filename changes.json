@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "pko-new-edition-2026-10-03",
+      "changed_at": "2026-10-03T07:56:29.000Z",
+      "summary": "PKO BP: dwie strony podają nową obniżkę 1 p.p. na 5 lat dla formularzy wygenerowanych i cyfrowych propozycji przedstawionych 03.10–06.11. RRSO nowej edycji refinansowania nieustalone; cyfrowy PDF widoczny tylko w starszym indeksie.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-03-pko-nowa-edycja"
+    },
+    {
       "change_id": "pko-boundary-check-2026-10-02",
       "changed_at": "2026-10-02T07:56:00.000Z",
       "summary": "Doprecyzowano wiersz PKO BP po odczycie w dniu granicznym: okres dwóch kategorii dokumentów, wycena pozostałych nieruchomości, wyjątek polisy i pochodzenie ekstrakcji PDF. RRSO refinansowania bez zmiany statusu.",

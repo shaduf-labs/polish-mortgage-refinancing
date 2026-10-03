@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:3979dd20-8d1c-41aa-a918-2e3b17148f7a",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-03T07:51:06.000Z",
+      "completed_at": "2026-10-03T07:51:34.000Z",
+      "title": "PKO BP: nowa edycja obniżki od 03.10",
+      "summary": "Dwie strony PKO BP podają 1 p.p. na 5 lat dla formularzy wygenerowanych i cyfrowych propozycji przedstawionych 03.10–06.11; RRSO nowej edycji refinansowania nieustalone.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-03-pko-nowa-edycja",
+      "entrypoint": "raport/2026-10-03-pko-nowa-edycja/index.html"
+    },
+    {
       "run_id": "run:ae43fa27-ba5c-4e89-b324-8c1a829577b2",
       "status": "completed",
       "answer_change": "no_meaningful_change",

@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "ING-20261004-1",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/przenosze-kredyt",
+      "title": "ING — przeniesienie kredytu hipotecznego",
+      "claim": "Odczyt 04.10: edycja 1 dla kompletnych wniosków do 11.10.2026, 0% prowizji warunkowo; przykład stałej stopy jest skalkulowany 28.09.2026, nie 04.10.",
+      "accessed_at": "2026-10-04T07:54:05.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261004-2",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie-stale",
+      "title": "ING — tabela oprocentowania stałego",
+      "claim": "Odczyt 04.10: tabela oznacza ważność 28.09–04.10.2026; dla edycji 1 podaje 5,92% nominalnie przez 5 lat i 0% prowizji. Nie ustala ceny nowych formularzy od 05.10.",
+      "accessed_at": "2026-10-04T07:54:05.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261004-3",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/regulamin-refinansowanie",
+      "title": "ING — regulamin edycji 1 refinansowania",
+      "claim": "Aktualny ekstrakt 7 stron potwierdza nabór 28.09–11.10 oraz odesłanie do osobnej tabeli i ceny z dnia wydania formularza. Surowych bajtów PDF nie pobrano, więc nie potwierdzono tożsamości pliku z 28.09.",
+      "accessed_at": "2026-10-04T07:55:16.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "PKO-20261003-1",
       "source_type": "bank",
       "source_url": "https://www.pkobp.pl/klient-indywidualny/kredyty-pozyczki/przenies-kredyt-mieszkaniowy",

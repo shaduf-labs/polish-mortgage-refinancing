@@ -12,7 +12,7 @@
     "Pekao: strona refinansowania podaje do 15.10.2026 warunkową obniżkę oprocentowania o 0,2 p.p. dla stopy okresowo stałej przez pierwsze 5 lat albo zmiennej wobec aktualnej oferty nowych kredytów. Prowizja i koszt wyceny promocyjnego wniosku pozostają nieustalone.",
     "Pekao: ogólny dokument rozróżnia kartę wyceny wewnętrznej za 190 zł przy określonych warunkach, operat przez podmiot współpracujący z bankiem za 440/740/420 zł zależnie od nieruchomości oraz własny operat o cenie uzgadnianej z rzeczoznawcą. Prowizja i koszt oceny dla konkretnego promocyjnego refinansowania pozostają nieustalone.",
     "PKO BP: Cyfrowy Kredyt Hipoteczny dopuszcza spłatę kredytu mieszkaniowego w innym banku, a bank opisuje drogę online. Widoczny przykład cyfrowego PDF dotyczy wcześniejszej edycji i nie wskazuje celu kredytu; RRSO nowej edycji refinansowania pozostaje nieustalone.",
-    "ING: od 28.09 do 11.10.2026 obowiązuje nowa edycja 1 dla nowych kompletnych wniosków, nie automatyczne przedłużenie oferty do 27.09. Prowizja 0% jest warunkowa; stała stopa 5,92% wynika z tabeli ważnej tylko 28.09–04.10.2026.",
+    "ING, odczyt 04.10: od 28.09 do 11.10.2026 obowiązuje nowa edycja 1 dla nowych kompletnych wniosków, nie automatyczne przedłużenie oferty do 27.09. Prowizja 0% jest warunkowa; stała stopa 5,92% wynika z tabeli ważnej tylko 28.09–04.10.2026.",
     "Odczyt BNP Paribas z 26.09.2026: RRSO refinansowania jest nieustalone. Nagłówek 6,76% nie ma widocznych założeń, a przykład 6,93% nie jest przypisany do refinansowania; wartości nie są wybierane ani uśredniane.",
     "Uzupełnienie z 25.09.2026: Alior Konto Plus ma stawkę 0/12 zł miesięcznie, a karta 0/6 zł miesięcznie. Zwolnienie z obu wymaga wpływu min. 3 000 zł i 5 płatności w miesiącu; nie jest automatyczne dla refinansowania.",
     "PKO BP wymaga zabezpieczenia polisą nieruchomości z przelewem praw, lecz cena polisy jest nieustalona; polisa może być zewnętrzna.",
@@ -30,7 +30,7 @@
     "Koszt starego banku, saldo na dzień spłaty, odsetki, rekompensata, dokumenty, notariusz i wpisy hipoteczne nie zostały wycenione w materiałach nowego banku.",
     "Kwoty reprezentatywnych przykładów oraz produktów dodatkowych nie są stawką indywidualną."
   ],
-  "checked_at": "2026-10-03T07:56:29.000Z",
+  "checked_at": "2026-10-04T07:59:00.000Z",
   "meaningfully_updated_at": "2026-10-03T07:56:29.000Z",
-  "freshness_note": "PKO BP odczytano 03.10.2026, 07:51:06–07:51:34 UTC; mBank i Pekao 01.10. Pozostałe banki zachowują wcześniejsze daty odczytów; nie testowano kalkulatora."
+  "freshness_note": "ING: odczyt 04.10.2026, 07:54:05–07:55:16 UTC, potwierdza tabelę 5,92% tylko do 04.10; cena nowych formularzy od 05.10 jest nieustalona. PKO BP odczytano 03.10; mBank i Pekao 01.10. Innych banków ani kalkulatora w tym biegu nie sprawdzano."
 }

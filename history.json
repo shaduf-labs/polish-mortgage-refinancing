@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:2a93d2ea-f271-4af5-9f61-1375501f352a",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-04T07:54:05.000Z",
+      "completed_at": "2026-10-04T07:55:16.000Z",
+      "title": "ING w dniu granicznym tabeli 04.10",
+      "summary": "Odczyt potwierdził 5,92% tylko w tabeli ważnej do 04.10 oraz termin edycji do 11.10. Cena nowych formularzy od 05.10 jest nieustalona; odpowiedź bez istotnej zmiany.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-04-ing-dzien-tabeli",
+      "entrypoint": "raport/2026-10-04-ing-dzien-tabeli/index.html"
+    },
+    {
       "run_id": "run:3979dd20-8d1c-41aa-a918-2e3b17148f7a",
       "status": "completed",
       "answer_change": "meaningful_change",

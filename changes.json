@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "ing-table-boundary-check-2026-10-04",
+      "changed_at": "2026-10-04T07:59:00.000Z",
+      "summary": "Dodano datowany raport odczytu ING: 5,92% tylko w tabeli ważnej do 04.10; cena nowych formularzy od 05.10 nieustalona. Odpowiedź bez istotnej zmiany.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-04-ing-dzien-tabeli"
+    },
+    {
       "change_id": "pko-new-edition-2026-10-03",
       "changed_at": "2026-10-03T07:56:29.000Z",
       "summary": "PKO BP: dwie strony podają nową obniżkę 1 p.p. na 5 lat dla formularzy wygenerowanych i cyfrowych propozycji przedstawionych 03.10–06.11. RRSO nowej edycji refinansowania nieustalone; cyfrowy PDF widoczny tylko w starszym indeksie.",

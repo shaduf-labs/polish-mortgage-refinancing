@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "mbank-edition-3-documents-2026-10-06",
+      "changed_at": "2026-10-06T07:54:00.000Z",
+      "summary": "mBank: oba regulaminy edycji 3 odczytane przez indeks. Potwierdzono odrębne zasady stałej i zmiennej stopy, warunki konta i wpływów; strona produktu edycji 3 podaje warunkowe 0% prowizji, brak opłaty banku za ocenę i pokrycie wpisu. Indywidualna suma wejścia pozostaje nieustalona. Odczytu 404 z 01.10 nie zmieniono.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-06-mbank-edycja-3"
+    },
+    {
       "change_id": "ing-new-table-2026-10-05",
       "changed_at": "2026-10-05T08:09:23.000Z",
       "summary": "ING: nowa tabela 05–11.10 podaje 5,82% nominalnie na 5 lat i warunkowo 0% prowizji. Stara 5,92% wygasła. Wyjaśniono przykład 6,32% RRSO i sprzeczność marży 1,24% wobec 1,55 p.p.",

@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "MB-20261006-INDEX",
+      "source_type": "bank",
+      "source_url": "https://www.mbank.pl/pomoc/dokumenty/oferta-indywidualna/promocje/",
+      "title": "mBank — indeks aktualnych promocji",
+      "claim": "Odczyt 06.10: dwa odsyłacze do regulaminów refinansowania edycji 3, stała na 5 lat i zmienna, okres 01.10.2026 00:00–27.01.2027 23:59. Kliknięcie otworzyło oba PDF-y; indeks nie wycenia oferty.",
+      "accessed_at": "2026-10-06T07:52:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "MB-20261006-FIXED",
+      "source_type": "bank",
+      "source_url": "https://www.mbank.pl/pdf/ind/kredyty/kredyt-hipoteczny/promocja-refinansowania-kredytu-hipotecznego-z-oprocentowaniem-stalym-na-okres-5-lat-edycja-3.pdf",
+      "title": "mBank — regulamin refinansowania, stała stopa na 5 lat, edycja 3",
+      "claim": "PDF 19 stron odczytany przez klik z indeksu. Okładka: edycja 3 i okres. §1–3 cel, konto i segmenty; §4 stopa okresowo stała na 60 miesięcy i formularz; §6 wzrost stopy o 2 p.p. przy niedopełnieniu; §7 warunkowe obniżki; §9 odesłanie do taryfy bez wyceny kosztów. Bezpośrednie otwarcie URL dało Internal Error; bajtów i hasha nie pobrano.",
+      "accessed_at": "2026-10-06T07:52:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "MB-20261006-VARIABLE",
+      "source_type": "bank",
+      "source_url": "https://www.mbank.pl/pdf/ind/kredyty/kredyt-hipoteczny/promocja-refinansowania-kredytu-hipotecznego-z-oprocentowaniem-zmiennym-edycja-3.pdf",
+      "title": "mBank — regulamin refinansowania, stopa zmienna, edycja 3",
+      "claim": "PDF 19 stron odczytany przez klik z indeksu. Okładka: edycja 3 i okres. §1–3 cel, konto i segmenty; §4 marża i formularz; §6 wzrost marży o 2 p.p. przy niedopełnieniu; §7 warunkowe obniżki; §9 odesłanie do taryfy bez wyceny kosztów. Bezpośrednie otwarcie URL dało Internal Error; bajtów i hasha nie pobrano.",
+      "accessed_at": "2026-10-06T07:52:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "MB-20261006-PRODUCT",
+      "source_type": "bank",
+      "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/przenosze-kredyt",
+      "title": "mBank — strona przeniesienia kredytu, edycja 3",
+      "claim": "Odczyt 06.10: strona pokazuje edycję 3, tabele od 01.10 z 0% prowizji w profilach Active/Intensive i progach LTV; FAQ aktualnej promocji podaje brak opłaty banku za ocenę i pokrycie kosztu wpisu nowej hipoteki. Ogólna tabela 0–4% prowizji i 400/700 zł oceny nie jest ceną promocji. Przykłady i nagłówkowe RRSO nie są indywidualną ceną refinansowania.",
+      "accessed_at": "2026-10-06T07:53:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "ING-20261005-1",
       "source_type": "bank",
       "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/przenosze-kredyt",

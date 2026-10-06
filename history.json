@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:c2918a7c-3cd4-4b54-b4d4-c32dc8426d31",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-06T07:52:00.000Z",
+      "completed_at": "2026-10-06T07:54:00.000Z",
+      "title": "mBank: regulaminy edycji 3 i warunkowe koszty",
+      "summary": "Dwa regulaminy edycji 3 odczytano przez indeks; rozróżniono stałą stopę i zmienną marżę oraz warunki konta. Strona produktu podaje warunkowe zwolnienia kosztowe, ale pełny koszt wejścia pozostaje nieustalony. Historyczny 404 z 01.10 zachowano.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-06-mbank-edycja-3",
+      "entrypoint": "raport/2026-10-06-mbank-edycja-3/index.html"
+    },
+    {
       "run_id": "run:f353a372-70ea-4b74-b975-8b5f8650b1c2",
       "status": "completed",
       "answer_change": "meaningful_change",

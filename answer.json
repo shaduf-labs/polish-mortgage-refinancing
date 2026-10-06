@@ -9,7 +9,7 @@
   "summary": [
     "ING, odczyt 05.10: tabela dla edycji 1 obowiązuje 05–11.10.2026 i podaje 5,82% nominalnie na 5 lat oraz 0% prowizji pod warunkami regulaminu. Dawne 5,92% z tabeli do 04.10 wygasło; cenę indywidualną potwierdza Formularz Informacyjny.",
     "PKO BP, odczyt 03.10: dwie strony banku podają obniżkę stałej stopy o 1 p.p. przez 5 lat dla formularzy informacyjnych wygenerowanych lub cyfrowych propozycji cenowych przedstawionych 03.10–06.11.2026. Poprzednie 0,8 p.p. dotyczyło 18.09–02.10. RRSO nowej edycji refinansowania nieustalone.",
-    "mBank: oficjalny indeks wskazuje edycję 3 refinansowania od 01.10.2026 do 27.01.2027, osobno dla stopy stałej na 5 lat i zmiennej. Oba linki do regulaminów zwróciły 404; ceny i szczegółowe warunki edycji 3 są nieustalone.",
+    "mBank, odczyt 06.10: oba regulaminy edycji 3 (01.10.2026–27.01.2027) odczytano po kliknięciu z indeksu. Dla kwoty od 100 000 zł Active wymaga rachunku i wpływu min. 2 500 zł/mies., Intensive mKonta Intensive i min. 10 000 zł/mies., przez co najmniej 5 lat. Stała stopa na 60 miesięcy i zmienna marża mają odrębne regulaminy. Strona produktu edycji 3 podaje warunkowo 0% prowizji, brak opłaty banku za ocenę i pokrycie kosztu wpisu nowej hipoteki; PDF-y nie wyceniają tych pozycji.",
     "Pekao: strona refinansowania podaje do 15.10.2026 warunkową obniżkę oprocentowania o 0,2 p.p. dla stopy okresowo stałej przez pierwsze 5 lat albo zmiennej wobec aktualnej oferty nowych kredytów. Prowizja i koszt wyceny promocyjnego wniosku pozostają nieustalone.",
     "Pekao: ogólny dokument rozróżnia kartę wyceny wewnętrznej za 190 zł przy określonych warunkach, operat przez podmiot współpracujący z bankiem za 440/740/420 zł zależnie od nieruchomości oraz własny operat o cenie uzgadnianej z rzeczoznawcą. Prowizja i koszt oceny dla konkretnego promocyjnego refinansowania pozostają nieustalone.",
     "PKO BP: Cyfrowy Kredyt Hipoteczny dopuszcza spłatę kredytu mieszkaniowego w innym banku, a bank opisuje drogę online. Widoczny przykład cyfrowego PDF dotyczy wcześniejszej edycji i nie wskazuje celu kredytu; RRSO nowej edycji refinansowania pozostaje nieustalone.",
@@ -21,16 +21,16 @@
   ],
   "uncertainty": [
     "ING: przykład z 05.10 dla 332 467 zł na 20 lat 10 mies. podaje 6,32% RRSO i marżę po pięciu latach 1,24%; tabela i regulamin podają 1,55 p.p. Rozbieżność wymaga wyjaśnienia w formularzu i umowie. RRSO, składki i 0 zł konta w przykładzie nie są indywidualną taryfą. Po 11.10 trzeba sprawdzić nową dostępność edycji; wyjątki dotyczą tylko ważnych formularzy. Bajtów PDF regulaminu nie pobrano.",
-    "mBank: strona produktu nadal pokazuje edycję 2, która skończyła się 30.09.2026. Jej 0% prowizji, 0 zł za ocenę, pokrycie wpisu oraz warunki rachunku i wpływów nie są potwierdzone dla edycji 3. Brak dostępnych PDF-ów nie dowodzi braku promocji.",
+    "mBank: 01.10 oba linki do regulaminów edycji 3 zwróciły 404, a strona produktu pokazywała edycję 2. 06.10 oba PDF-y odczytano po kliknięciu z indeksu; bezpośrednie otwarcie URL-i dało Internal Error, a bajtów plików nie pobrano. Nie wiadomo, kiedy pliki opublikowano lub zmieniono. Warunkowe zwolnienia kosztowe pochodzą z bieżącej strony, nie z PDF-ów; §9 odsyła do taryfy. Indywidualne koszty, polisa, koszt rachunku przy niedopełnieniu wpływu, stary bank, wykreślenie hipoteki i pełna suma wejścia pozostają nieustalone.",
     "Pekao: nowy termin na stronie to 15.10.2026; data początku edycji nie jest podana. Możliwość zaoferowania niższej stawki później nie jest przedłużeniem. Ogólna taryfa 2,99% i warianty wyceny nie określają ceny tej promocji.",
     "PKO BP: widoczny przykład cyfrowego PDF nadal dotyczy oferty do 02.10; indeks pochodzi około 01.10, a bajtów 03.10 nie pobrano. Nie wiadomo, czy aktualny plik zmieniono po indeksacji. Nie uzyskano nowego formularza ani cyfrowej propozycji; indywidualna cena i RRSO refinansowania nieustalone.",
     "BNP Paribas: 6,76% w nagłówku nie ma widocznych parametrów, a 6,93% jest przykładem produktu bez wskazania celu refinansowania. Nie tworzą jednej RRSO refinansowania.",
-    "Warunki promocji, taryfy oraz decyzja kredytowa mogą się zmienić po odczycie 25.09.2026, 07:53–07:56 UTC.",
+    "Warunki promocji, taryfy i decyzja kredytowa mogą się zmienić po ostatnim odczycie danego banku. Daty odczytów: mBank 06.10, ING 05.10, PKO BP 03.10, Pekao 01.10; pozostałe banki wcześniej.",
     "Łączny koszt rachunku z kartą w Pekao, cena polis, wyceny i wskazane produkty dodatkowe pozostają nieustalone, chyba że dokument konkretnej umowy poda kwotę.",
     "Koszt starego banku, saldo na dzień spłaty, odsetki, rekompensata, dokumenty, notariusz i wpisy hipoteczne nie zostały wycenione w materiałach nowego banku.",
     "Kwoty reprezentatywnych przykładów oraz produktów dodatkowych nie są stawką indywidualną."
   ],
-  "checked_at": "2026-10-05T08:09:23.000Z",
-  "meaningfully_updated_at": "2026-10-05T08:09:23.000Z",
-  "freshness_note": "ING odczytano 05.10.2026, 08:08:12–08:09:23 UTC: tabela 05–11.10 podaje 5,82% nominalnie na 5 lat. PKO BP odczytano 03.10; mBank i Pekao 01.10. Innych banków ani kalkulatora w tym biegu nie sprawdzano."
+  "checked_at": "2026-10-06T07:54:00.000Z",
+  "meaningfully_updated_at": "2026-10-06T07:54:00.000Z",
+  "freshness_note": "mBank odczytano 06.10.2026, 07:52–07:54 UTC: oba PDF-y edycji 3 przez indeks oraz stronę produktu z tabelami od 01.10. ING odczytano 05.10; PKO BP 03.10; Pekao 01.10. Innych banków ani kalkulatora w tym biegu nie sprawdzano."
 }

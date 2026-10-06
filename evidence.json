@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "ING-20261005-1",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/przenosze-kredyt",
+      "title": "ING — przeniesienie kredytu hipotecznego",
+      "claim": "Odczyt 05.10: edycja 1 do 11.10; nowy przykład stały skalkulowany 05.10 dla 332 467 zł na 20 lat 10 mies. podaje 5,82% nominalnie, 6,32% RRSO oraz marżę po pięciu latach 1,24%, sprzeczną z tabelą i regulaminem.",
+      "accessed_at": "2026-10-05T08:08:12.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261005-2",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie-stale",
+      "title": "ING — tabela oprocentowania stałego 05–11.10",
+      "claim": "Nowa tabela 05.10–11.10.2026 dla edycji 1: 5,82% nominalnie na 5 lat, 0% prowizji i marża 1,55 p.p. ponad POLSTR 1M po stałym okresie. Przykład podaje 6,32% RRSO i sprzeczną marżę 1,24%. Ceny cotygodniowe potwierdza indywidualny formularz.",
+      "accessed_at": "2026-10-05T08:08:12.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261005-3",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/regulamin-refinansowanie",
+      "title": "ING — regulamin edycji 1 refinansowania",
+      "claim": "Bieżący ekstrakt siedmiu stron: nabór 28.09–11.10, warunki produktów, 0% prowizji, marża 1,55 p.p. po stałym okresie i wyjątek ważnego formularza. Nie pobrano surowych bajtów PDF ani hasha; nie potwierdzono bitowej niezmienności.",
+      "accessed_at": "2026-10-05T08:09:23.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261005-4",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/_fileserver/item/dqoymc3",
+      "title": "ING — archiwalny regulamin oferty do 27.09",
+      "claim": "Archiwalny regulamin opisuje osobny wyjątek dla formularza wydanego w starej ofercie do 11.10. Brak świeżych bajtów 05.10; nie ustala ceny nowych formularzy.",
+      "accessed_at": "2026-10-05T08:09:23.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "ING-20261004-1",
       "source_type": "bank",
       "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/przenosze-kredyt",

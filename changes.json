@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "ing-new-table-2026-10-05",
+      "changed_at": "2026-10-05T08:09:23.000Z",
+      "summary": "ING: nowa tabela 05–11.10 podaje 5,82% nominalnie na 5 lat i warunkowo 0% prowizji. Stara 5,92% wygasła. Wyjaśniono przykład 6,32% RRSO i sprzeczność marży 1,24% wobec 1,55 p.p.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-05-ing-nowa-tabela"
+    },
+    {
       "change_id": "ing-table-boundary-check-2026-10-04",
       "changed_at": "2026-10-04T07:59:00.000Z",
       "summary": "Dodano datowany raport odczytu ING: 5,92% tylko w tabeli ważnej do 04.10; cena nowych formularzy od 05.10 nieustalona. Odpowiedź bez istotnej zmiany.",

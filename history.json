@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:f353a372-70ea-4b74-b975-8b5f8650b1c2",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-05T08:08:12.000Z",
+      "completed_at": "2026-10-05T08:09:23.000Z",
+      "title": "ING: nowa tabela stałej stopy 05–11.10",
+      "summary": "Tabela ING dla edycji 1 podaje 5,82% nominalnie na 5 lat i warunkowo 0% prowizji; dawne 5,92% wygasło 04.10. Przykład 6,32% RRSO nie jest ceną indywidualną, a marża po pięciu latach jest sprzeczna w oficjalnych materiałach.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-05-ing-nowa-tabela",
+      "entrypoint": "raport/2026-10-05-ing-nowa-tabela/index.html"
+    },
+    {
       "run_id": "run:2a93d2ea-f271-4af5-9f61-1375501f352a",
       "status": "completed",
       "answer_change": "no_meaningful_change",

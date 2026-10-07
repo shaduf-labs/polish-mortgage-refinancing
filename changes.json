@@ -2,6 +2,18 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "three-path-editorial-2026-10-07",
+      "changed_at": "2026-10-07T07:52:48.000Z",
+      "summary": "Doprecyzowano trzy ścieżki decyzji: obecna umowa A, pisemna zmiana warunków w obecnym banku B (jeśli dostępna), nowy kredyt w innym banku C. Wyjaśniono, że kalkulator liczy tylko dwa scenariusze, nie wycenia B, przykładowe 0 zł nie potwierdzają kosztu, a opłaty A są poza modelem. Bez zmiany wzorów, wartości przykładu i 17 raportów historycznych.",
+      "path": "/p/polish-mortgage-refinancing/"
+    },
+    {
+      "change_id": "three-path-report-2026-10-07",
+      "changed_at": "2026-10-07T07:59:18.773Z",
+      "summary": "Dodano datowany raport z audytu trzech ścieżek decyzji i granic dwuscenariuszowego kalkulatora. Bez nowej ceny bankowej, zmiany wzorów lub przykładowych wartości.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-07-trzy-sciezki-decyzji"
+    },
+    {
       "change_id": "mbank-edition-3-documents-2026-10-06",
       "changed_at": "2026-10-06T07:54:00.000Z",
       "summary": "mBank: oba regulaminy edycji 3 odczytane przez indeks. Potwierdzono odrębne zasady stałej i zmiennej stopy, warunki konta i wpływów; strona produktu edycji 3 podaje warunkowe 0% prowizji, brak opłaty banku za ocenę i pokrycie wpisu. Indywidualna suma wejścia pozostaje nieustalona. Odczytu 404 z 01.10 nie zmieniono.",

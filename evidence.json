@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "KNF-20261007-TERMS",
+      "source_type": "government",
+      "source_url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/stala_czy_zmienna_stopa_oprocentowania",
+      "title": "KNF — stała czy zmienna stopa oprocentowania",
+      "claim": "Lista elementów umowy do sprawdzenia: rodzaj i wysokość oprocentowania, marża, sposób spłaty, prowizja, inne koszty, wcześniejsza spłata i zasady po okresie stałym. Nie podaje indywidualnych warunków B.",
+      "accessed_at": "2026-10-07T07:49:34.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "UOKIK-20261007-FORM",
+      "source_type": "government",
+      "source_url": "https://finanse.uokik.gov.pl/chf/ustawa-o-kredycie-hipotecznym/",
+      "title": "UOKiK — ustawa o kredycie hipotecznym",
+      "claim": "Opisuje formularz informacyjny przed nową umową i wcześniejszą spłatę z możliwą rekompensatą zależną od stopy i umowy. Nie dowodzi obowiązku zaoferowania aneksu ani jego ceny.",
+      "accessed_at": "2026-10-07T07:49:40.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "RF-20261007-PREPAY",
+      "source_type": "government",
+      "source_url": "https://rf.gov.pl/edukacja/baza-wiedzy/najczestsze-pytania-i-odpowiedzi-faq/wczesniejsza-splata-kredytow-w-pytaniach-i-odpowiedziach/",
+      "title": "Rzecznik Finansowy — wcześniejsza spłata kredytów: FAQ",
+      "claim": "Rozróżnia umowy hipoteczne przed i od 22.07.2017; w przykładzie późniejszej umowy omawia obniżenie kosztów przy całkowitej wcześniejszej spłacie. Nie podaje rozliczenia konkretnej umowy.",
+      "accessed_at": "2026-10-07T07:49:45.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "MB-20261006-INDEX",
       "source_type": "bank",
       "source_url": "https://www.mbank.pl/pomoc/dokumenty/oferta-indywidualna/promocje/",

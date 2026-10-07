@@ -1,12 +1,14 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Refinansowanie można rzetelnie ocenić dopiero po porównaniu dwóch harmonogramów na tym samym horyzoncie — z kosztami wejścia, opłatami cyklicznymi i saldem końcowym; brak kwoty nie jest 0 zł.",
+  "current_answer": "Sprawdź trzy ścieżki: utrzymanie obecnej umowy, pisemną zmianę warunków w obecnym banku (jeśli dostępna) i nowy kredyt w innym banku. Porównaj każdą dostępną ścieżkę na tę samą datę i horyzont: osobno wydatki oraz saldo końcowe. Kalkulator modeluje tylko obecną umowę i jeden nowy kredyt; B wymaga osobnego porównania i potwierdzonych kosztów.",
   "catalogue_card": {
     "question": "Czy opłaca mi się refinansować kredyt hipoteczny?",
-    "text": "Porównaj ratę, koszt do horyzontu i saldo po horyzoncie. Przy każdej liczbie zachowaj warunek; braku nie wpisuj jako 0 zł."
+    "text": "Porównaj A: obecną umowę, B: pisemną zmianę warunków w obecnym banku, jeśli dostępna, oraz C: przeniesienie. Wydatki i saldo licz osobno; kalkulator obejmuje tylko A i C."
   },
   "summary": [
+    "Odczyt urzędowy 07.10: KNF wskazuje kontrolę stopy, okresu, rat i kosztów w umowie; UOKiK opisuje formularz przed nową umową i wcześniejszą spłatę; RF rozróżnia skutki według daty umowy. Żadne z tych źródeł nie wycenia indywidualnej zmiany warunków w obecnym banku.",
+    "Ścieżka B może mieć formę aneksu albo nowej umowy; rozstrzyga dokument banku. Jej dostępność, stopa i opłaty są nieustalone. Kalkulator modeluje jedynie A i jeden nowy kredyt C; kosztów przeniesienia nie należy przypisywać aneksowi.",
     "ING, odczyt 05.10: tabela dla edycji 1 obowiązuje 05–11.10.2026 i podaje 5,82% nominalnie na 5 lat oraz 0% prowizji pod warunkami regulaminu. Dawne 5,92% z tabeli do 04.10 wygasło; cenę indywidualną potwierdza Formularz Informacyjny.",
     "PKO BP, odczyt 03.10: dwie strony banku podają obniżkę stałej stopy o 1 p.p. przez 5 lat dla formularzy informacyjnych wygenerowanych lub cyfrowych propozycji cenowych przedstawionych 03.10–06.11.2026. Poprzednie 0,8 p.p. dotyczyło 18.09–02.10. RRSO nowej edycji refinansowania nieustalone.",
     "mBank, odczyt 06.10: oba regulaminy edycji 3 (01.10.2026–27.01.2027) odczytano po kliknięciu z indeksu. Dla kwoty od 100 000 zł Active wymaga rachunku i wpływu min. 2 500 zł/mies., Intensive mKonta Intensive i min. 10 000 zł/mies., przez co najmniej 5 lat. Stała stopa na 60 miesięcy i zmienna marża mają odrębne regulaminy. Strona produktu edycji 3 podaje warunkowo 0% prowizji, brak opłaty banku za ocenę i pokrycie kosztu wpisu nowej hipoteki; PDF-y nie wyceniają tych pozycji.",
@@ -20,6 +22,8 @@
     "Koszty starego banku i formalności zewnętrzne wymagają własnych dokumentów. Porównanie wymaga rat, kosztów, salda i wspólnego horyzontu."
   ],
   "uncertainty": [
+    "Warunki B są nieustalone bez pisemnej propozycji. Nie można z góry przyjąć braku opłaty za aneks, wycenę, zabezpieczenie, polisę ani rozliczenie dotychczasowego kredytu. Nowa umowa w tym samym banku może wymagać odrębnego rozliczenia.",
+    "Kalkulator ma przykładowe koszty, głównie 0 zł. To dane demonstracyjne, nie potwierdzenie braku opłaty. Pozycja oznaczona nieustalona jest wyłączana z sumy, a istniejących opłat cyklicznych A model nie ujmuje. Nie zmieniono formuł ani wartości przykładu; w tym biegu nie testowano obliczeń.",
     "ING: przykład z 05.10 dla 332 467 zł na 20 lat 10 mies. podaje 6,32% RRSO i marżę po pięciu latach 1,24%; tabela i regulamin podają 1,55 p.p. Rozbieżność wymaga wyjaśnienia w formularzu i umowie. RRSO, składki i 0 zł konta w przykładzie nie są indywidualną taryfą. Po 11.10 trzeba sprawdzić nową dostępność edycji; wyjątki dotyczą tylko ważnych formularzy. Bajtów PDF regulaminu nie pobrano.",
     "mBank: 01.10 oba linki do regulaminów edycji 3 zwróciły 404, a strona produktu pokazywała edycję 2. 06.10 oba PDF-y odczytano po kliknięciu z indeksu; bezpośrednie otwarcie URL-i dało Internal Error, a bajtów plików nie pobrano. Nie wiadomo, kiedy pliki opublikowano lub zmieniono. Warunkowe zwolnienia kosztowe pochodzą z bieżącej strony, nie z PDF-ów; §9 odsyła do taryfy. Indywidualne koszty, polisa, koszt rachunku przy niedopełnieniu wpływu, stary bank, wykreślenie hipoteki i pełna suma wejścia pozostają nieustalone.",
     "Pekao: nowy termin na stronie to 15.10.2026; data początku edycji nie jest podana. Możliwość zaoferowania niższej stawki później nie jest przedłużeniem. Ogólna taryfa 2,99% i warianty wyceny nie określają ceny tej promocji.",
@@ -28,9 +32,10 @@
     "Warunki promocji, taryfy i decyzja kredytowa mogą się zmienić po ostatnim odczycie danego banku. Daty odczytów: mBank 06.10, ING 05.10, PKO BP 03.10, Pekao 01.10; pozostałe banki wcześniej.",
     "Łączny koszt rachunku z kartą w Pekao, cena polis, wyceny i wskazane produkty dodatkowe pozostają nieustalone, chyba że dokument konkretnej umowy poda kwotę.",
     "Koszt starego banku, saldo na dzień spłaty, odsetki, rekompensata, dokumenty, notariusz i wpisy hipoteczne nie zostały wycenione w materiałach nowego banku.",
-    "Kwoty reprezentatywnych przykładów oraz produktów dodatkowych nie są stawką indywidualną."
+    "Kwoty reprezentatywnych przykładów oraz produktów dodatkowych nie są stawką indywidualną.",
+    "Kontrole kalkulatora z 22.09 i 27.09 są historycznymi testami lokalnymi, nie testem tej aktualizacji ani wdrożenia. Referencja i widget były zgodne w siedmiu scenariuszach; walidacja odrzucała pusty i nadmierny koszt oraz ukrywała poprzedni wynik. Po naprawie CSP niezależna referencja sprawdziła dwa przypadki wzoru, w tym koszt niezerowy. Lokalna bramka przeglądarkowa 27.09 zakończyła się EPERM; nie potwierdziła wtedy działania wdrożonego iframe. Szczegóły kontroli CSP i dwóch przypadków pozostają w raporcie 27.09."
   ],
-  "checked_at": "2026-10-06T07:54:00.000Z",
-  "meaningfully_updated_at": "2026-10-06T07:54:00.000Z",
-  "freshness_note": "mBank odczytano 06.10.2026, 07:52–07:54 UTC: oba PDF-y edycji 3 przez indeks oraz stronę produktu z tabelami od 01.10. ING odczytano 05.10; PKO BP 03.10; Pekao 01.10. Innych banków ani kalkulatora w tym biegu nie sprawdzano."
+  "checked_at": "2026-10-07T07:49:45.000Z",
+  "meaningfully_updated_at": "2026-10-07T07:52:48.000Z",
+  "freshness_note": "07.10.2026 sprawdzono źródła urzędowe dotyczące dokumentów i audytowano treść ścieżki decyzji. Nie uzyskano nowej ceny banku ani indywidualnych warunków B. Oferty banków zachowują wcześniejsze daty odczytu. Kalkulatora nie uruchamiano i nie zmieniono jego obliczeń."
 }

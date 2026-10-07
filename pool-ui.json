@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "default_page": "start",
-  "meaningfully_updated_at": "2026-10-06T07:54:00.000Z",
+  "meaningfully_updated_at": "2026-10-07T07:52:48.000Z",
   "pages": [
     {
       "id": "start",
@@ -9,7 +9,7 @@
       "label": "Punkt wyjścia",
       "icon": "home",
       "group": "Przewodnik",
-      "description": "Czy zostać, czy przenieść kredyt — trzy miary decyzji.",
+      "description": "Trzy ścieżki decyzji: obecna umowa, pisemna zmiana warunków i przeniesienie.",
       "parent": null,
       "entrypoint": "index.html",
       "entrypoint_type": "html_fragment",
@@ -39,7 +39,7 @@
       "label": "Kalkulator",
       "icon": "calculator",
       "group": "Narzędzia",
-      "description": "Lokalne porównanie dwóch harmonogramów i kosztów.",
+      "description": "Dwa scenariusze: obecna umowa i jeden nowy kredyt; B porównaj osobno.",
       "parent": null,
       "entrypoint": "kalkulator/index.html",
       "entrypoint_type": "html_fragment",
@@ -54,7 +54,7 @@
       "label": "Koszty i proces",
       "icon": "checklist",
       "group": "Przewodnik",
-      "description": "Dokumenty, koszty wejścia i kolejność sprawdzeń.",
+      "description": "Dokumenty i koszty dla trzech ścieżek decyzji.",
       "parent": null,
       "entrypoint": "koszty/index.html",
       "entrypoint_type": "html_fragment",

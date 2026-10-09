@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "calculator-ac-recurring-symmetry-2026-10-09",
+      "changed_at": "2026-10-09T07:56:10.000Z",
+      "summary": "Dodano osobne opłaty cykliczne A i C, wstrzymanie pełnej miary i punktu zwrotu przy nieustalonej pozycji po dowolnej stronie, jawną konwencję opłat do miesiąca spłaty oraz test siedmiu przypadków w modelu DOM. Bez nowej ceny bankowej i bez zmiany B. Test przeglądarkowy pozostaje bramką Runtime.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-09-symetria-oplat-ac"
+    },
+    {
       "change_id": "calculator-a-fee-scope-2026-10-08",
       "changed_at": "2026-10-08T07:55:00.000Z",
       "summary": "Ujawniono przy liczbowym wyniku, punkcie zwrotu, na stronie kalkulatora i pierwszym ekranie, że obecne opłaty cykliczne A są poza modelem. Dodano datowany raport z niezależnymi przypadkami testowymi; bez zmiany formuł, domyślnych kwot, bankowych cen i 18 wcześniejszych raportów.",

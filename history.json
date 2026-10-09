@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:8acf8324-964f-4026-aa38-4c48d7d76c9b",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-09T07:45:00.000Z",
+      "completed_at": "2026-10-09T07:56:10.000Z",
+      "title": "Symetryczne opłaty cykliczne A/C w kalkulatorze",
+      "summary": "Przygotowano symetryczne pola A/C i sprawdzono siedem przypadków w testowym modelu DOM. Nie ustalano nowych cen; test przeglądarkowy i aprobata Runtime pozostają otwarte.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-09-symetria-oplat-ac",
+      "entrypoint": "raport/2026-10-09-symetria-oplat-ac/index.html"
+    },
+    {
       "run_id": "run:2bfcba03-0efd-4348-8cf2-4766a92ee226",
       "status": "completed",
       "answer_change": "meaningful_change",

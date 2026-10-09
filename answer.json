@@ -1,12 +1,13 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Sprawdź trzy ścieżki: utrzymanie obecnej umowy, pisemną zmianę warunków w obecnym banku (jeśli dostępna) i nowy kredyt w innym banku. Porównaj każdą dostępną ścieżkę na tę samą datę i horyzont: osobno wydatki oraz saldo końcowe. Kalkulator modeluje tylko obecną umowę i jeden nowy kredyt; B wymaga osobnego porównania i potwierdzonych kosztów.",
+  "current_answer": "Sprawdź trzy ścieżki: obecną umowę A, pisemną zmianę warunków w obecnym banku B (jeśli dostępna) i nowy kredyt C. Porównaj wydatki i saldo na ten sam horyzont. Kalkulator modeluje A i C, lecz liczbowy wynik nie obejmuje nadal wymaganych opłat cyklicznych A; jeśli występują, nie jest pełnym porównaniem kosztów. B wymaga osobnej pisemnej propozycji.",
   "catalogue_card": {
     "question": "Czy opłaca mi się refinansować kredyt hipoteczny?",
-    "text": "Porównaj A: obecną umowę, B: pisemną zmianę warunków w obecnym banku, jeśli dostępna, oraz C: przeniesienie. Wydatki i saldo licz osobno; kalkulator obejmuje tylko A i C."
+    "text": "Porównaj A, pisemną propozycję B (jeśli dostępna) i przeniesienie C. Kalkulator liczy tylko A/C i pomija nadal wymagane opłaty A; zweryfikuj je przed decyzją."
   },
   "summary": [
+    "Audyt 08.10: statyczny odczyt kodu i niezależne przypadki testowe wykazały asymetrię zakresu. A ma w modelu 0 zł opłat cyklicznych, podczas gdy C dolicza wpisane kwoty. Przy identycznych warunkach i 10 zł/mies. opłaty przez 2 miesiące po obu stronach pełne odniesienie daje 1 238,03 → 1 238,03 zł, a projekcja kodu bez A 1 218,03 → 1 238,03 zł. To nie jest wykazany błąd arytmetyczny ani test przeglądarkowy.",
     "Odczyt urzędowy 07.10: KNF wskazuje kontrolę stopy, okresu, rat i kosztów w umowie; UOKiK opisuje formularz przed nową umową i wcześniejszą spłatę; RF rozróżnia skutki według daty umowy. Żadne z tych źródeł nie wycenia indywidualnej zmiany warunków w obecnym banku.",
     "Ścieżka B może mieć formę aneksu albo nowej umowy; rozstrzyga dokument banku. Jej dostępność, stopa i opłaty są nieustalone. Kalkulator modeluje jedynie A i jeden nowy kredyt C; kosztów przeniesienia nie należy przypisywać aneksowi.",
     "ING, odczyt 05.10: tabela dla edycji 1 obowiązuje 05–11.10.2026 i podaje 5,82% nominalnie na 5 lat oraz 0% prowizji pod warunkami regulaminu. Dawne 5,92% z tabeli do 04.10 wygasło; cenę indywidualną potwierdza Formularz Informacyjny.",
@@ -22,8 +23,9 @@
     "Koszty starego banku i formalności zewnętrzne wymagają własnych dokumentów. Porównanie wymaga rat, kosztów, salda i wspólnego horyzontu."
   ],
   "uncertainty": [
+    "Liczbowa miara i „punkt zwrotu” kalkulatora pomijają nadal wymagane opłaty cykliczne A. Jeżeli A rzeczywiście ich nie ma, to samo pominięcie nie wpływa na wynik; potwierdź kwoty i okres naliczania w dokumentach. Pozycje C oznaczone „nieustalony” są wyłączane z sumy; przykładowe zera nie dowodzą braku opłat. Nie zmieniono formuł ani domyślnych wartości. Widgetu nie uruchamiano w tym audycie.",
     "Warunki B są nieustalone bez pisemnej propozycji. Nie można z góry przyjąć braku opłaty za aneks, wycenę, zabezpieczenie, polisę ani rozliczenie dotychczasowego kredytu. Nowa umowa w tym samym banku może wymagać odrębnego rozliczenia.",
-    "Kalkulator ma przykładowe koszty, głównie 0 zł. To dane demonstracyjne, nie potwierdzenie braku opłaty. Pozycja oznaczona nieustalona jest wyłączana z sumy, a istniejących opłat cyklicznych A model nie ujmuje. Nie zmieniono formuł ani wartości przykładu; w tym biegu nie testowano obliczeń.",
+    "Kalkulator ma przykładowe koszty, głównie 0 zł. To dane demonstracyjne, nie potwierdzenie braku opłaty. Pozycja oznaczona nieustalona jest wyłączana z sumy, a istniejących opłat cyklicznych A model nie ujmuje. Nie zmieniono formuł ani wartości przykładu; 08.10 wykonano niezależne obliczenia kontrolne, lecz nie uruchomiono widgetu ani testu przeglądarkowego.",
     "ING: przykład z 05.10 dla 332 467 zł na 20 lat 10 mies. podaje 6,32% RRSO i marżę po pięciu latach 1,24%; tabela i regulamin podają 1,55 p.p. Rozbieżność wymaga wyjaśnienia w formularzu i umowie. RRSO, składki i 0 zł konta w przykładzie nie są indywidualną taryfą. Po 11.10 trzeba sprawdzić nową dostępność edycji; wyjątki dotyczą tylko ważnych formularzy. Bajtów PDF regulaminu nie pobrano.",
     "mBank: 01.10 oba linki do regulaminów edycji 3 zwróciły 404, a strona produktu pokazywała edycję 2. 06.10 oba PDF-y odczytano po kliknięciu z indeksu; bezpośrednie otwarcie URL-i dało Internal Error, a bajtów plików nie pobrano. Nie wiadomo, kiedy pliki opublikowano lub zmieniono. Warunkowe zwolnienia kosztowe pochodzą z bieżącej strony, nie z PDF-ów; §9 odsyła do taryfy. Indywidualne koszty, polisa, koszt rachunku przy niedopełnieniu wpływu, stary bank, wykreślenie hipoteki i pełna suma wejścia pozostają nieustalone.",
     "Pekao: nowy termin na stronie to 15.10.2026; data początku edycji nie jest podana. Możliwość zaoferowania niższej stawki później nie jest przedłużeniem. Ogólna taryfa 2,99% i warianty wyceny nie określają ceny tej promocji.",
@@ -35,7 +37,7 @@
     "Kwoty reprezentatywnych przykładów oraz produktów dodatkowych nie są stawką indywidualną.",
     "Kontrole kalkulatora z 22.09 i 27.09 są historycznymi testami lokalnymi, nie testem tej aktualizacji ani wdrożenia. Referencja i widget były zgodne w siedmiu scenariuszach; walidacja odrzucała pusty i nadmierny koszt oraz ukrywała poprzedni wynik. Po naprawie CSP niezależna referencja sprawdziła dwa przypadki wzoru, w tym koszt niezerowy. Lokalna bramka przeglądarkowa 27.09 zakończyła się EPERM; nie potwierdziła wtedy działania wdrożonego iframe. Szczegóły kontroli CSP i dwóch przypadków pozostają w raporcie 27.09."
   ],
-  "checked_at": "2026-10-07T07:49:45.000Z",
-  "meaningfully_updated_at": "2026-10-07T07:52:48.000Z",
-  "freshness_note": "07.10.2026 sprawdzono źródła urzędowe dotyczące dokumentów i audytowano treść ścieżki decyzji. Nie uzyskano nowej ceny banku ani indywidualnych warunków B. Oferty banków zachowują wcześniejsze daty odczytu. Kalkulatora nie uruchamiano i nie zmieniono jego obliczeń."
+  "checked_at": "2026-10-08T07:55:00.000Z",
+  "meaningfully_updated_at": "2026-10-08T07:55:00.000Z",
+  "freshness_note": "08.10.2026 wykonano statyczny audyt zakresu opłat A/C i niezależne obliczenia kontrolne. Nie badano nowych cen banków ani nie uruchamiano widgetu. Daty odczytu ofert pozostają wcześniejsze; wynik kalkulatora ma nowo wyeksponowaną granicę interpretacji."
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "default_page": "start",
-  "meaningfully_updated_at": "2026-10-07T07:52:48.000Z",
+  "meaningfully_updated_at": "2026-10-08T07:55:00.000Z",
   "pages": [
     {
       "id": "start",
@@ -39,7 +39,7 @@
       "label": "Kalkulator",
       "icon": "calculator",
       "group": "Narzędzia",
-      "description": "Dwa scenariusze: obecna umowa i jeden nowy kredyt; B porównaj osobno.",
+      "description": "A i C: liczbowy wynik pomija opłaty cykliczne obecnej umowy A; B porównaj osobno.",
       "parent": null,
       "entrypoint": "kalkulator/index.html",
       "entrypoint_type": "html_fragment",
@@ -69,7 +69,7 @@
       "label": "Raporty",
       "icon": "file-text",
       "group": "Źródła",
-      "description": "Datowane raporty, w tym mBank edycja 3 od 06.10.",
+      "description": "Datowane raporty, w tym audyt zakresu opłat A/C z 08.10.",
       "parent": null,
       "entrypoint": "raport/index.html",
       "entrypoint_type": "html_fragment",

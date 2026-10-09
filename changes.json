@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "calculator-a-fee-scope-2026-10-08",
+      "changed_at": "2026-10-08T07:55:00.000Z",
+      "summary": "Ujawniono przy liczbowym wyniku, punkcie zwrotu, na stronie kalkulatora i pierwszym ekranie, że obecne opłaty cykliczne A są poza modelem. Dodano datowany raport z niezależnymi przypadkami testowymi; bez zmiany formuł, domyślnych kwot, bankowych cen i 18 wcześniejszych raportów.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-08-oplaty-cykliczne-a"
+    },
+    {
       "change_id": "three-path-editorial-2026-10-07",
       "changed_at": "2026-10-07T07:52:48.000Z",
       "summary": "Doprecyzowano trzy ścieżki decyzji: obecna umowa A, pisemna zmiana warunków w obecnym banku B (jeśli dostępna), nowy kredyt w innym banku C. Wyjaśniono, że kalkulator liczy tylko dwa scenariusze, nie wycenia B, przykładowe 0 zł nie potwierdzają kosztu, a opłaty A są poza modelem. Bez zmiany wzorów, wartości przykładu i 17 raportów historycznych.",

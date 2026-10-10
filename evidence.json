@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "ING-20261010-1",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/przenosze-kredyt",
+      "title": "ING — przeniesienie kredytu hipotecznego",
+      "claim": "Odczyt 10.10: oferta specjalna do 11.10.2026 i warunkowo 0% prowizji. Bieżący przykład stałej stopy podaje 5,82% nominalnie, 6,32% RRSO i 1,55% marży po pięciu latach; 05.10 przykład podawał 1,24%. Nie znaleziono wyjaśnienia zmiany.",
+      "accessed_at": "2026-10-10T07:50:30.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261010-2",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie-stale",
+      "title": "ING — tabela stałej stopy 05–11.10",
+      "claim": "Odczyt 10.10: tabela 05–11.10.2026 dla refinansowania podaje 5,82% nominalnie na 5 lat, 0% prowizji warunkowo i POLSTR 1M + marżę 1,55 p.p. po stałym okresie. Bieżący przykład również podaje 1,55%. Indywidualny formularz potwierdza cenę.",
+      "accessed_at": "2026-10-10T07:50:30.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261010-3",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/regulamin-refinansowanie",
+      "title": "ING — regulamin edycji 1 refinansowania",
+      "claim": "Odczyt 10.10 ekstraktu PDF: §1–2 ogólny termin kompletnych wniosków do 11.10 włącznie i warunki promocji; §6 wyjątek po tej dacie tylko w ważności formularza wydanego podczas edycji; §9 stopa z daty formularza i marża 1,55 p.p.; §10 i §13–16 koszty i możliwe sankcje. 25.10 w uproszczonym schemacie nie jest uniwersalnym terminem. Bez surowych bajtów i hasha PDF.",
+      "accessed_at": "2026-10-10T07:50:30.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "KNF-20261007-TERMS",
       "source_type": "government",
       "source_url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/stala_czy_zmienna_stopa_oprocentowania",

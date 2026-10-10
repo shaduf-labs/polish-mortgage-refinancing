@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:12e25490-fc87-4f67-bb16-f6d96a77ef1a",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-10T07:45:00.000Z",
+      "completed_at": "2026-10-10T07:53:00.000Z",
+      "title": "ING: dwie granice 11.10 i bieżący przykład marży",
+      "summary": "Odczyt ING 10.10 potwierdził terminy naboru i tabeli do 11.10 oraz 5,82% warunkowo. Bieżące przykłady podają 1,55% zamiast historycznych 1,24%, bez wyjaśnienia zmiany. Cena po 11.10 i koszty klienta pozostają nieustalone.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-10-ing-przed-terminem",
+      "entrypoint": "raport/2026-10-10-ing-przed-terminem/index.html"
+    },
+    {
       "run_id": "run:8acf8324-964f-4026-aa38-4c48d7d76c9b",
       "status": "completed",
       "answer_change": "meaningful_change",

@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "ing-boundaries-example-2026-10-10",
+      "changed_at": "2026-10-10T07:53:00.000Z",
+      "summary": "ING: rozdzielono ogólny termin kompletnych wniosków i ważność tabeli do 11.10 oraz wyjątek dla ważnego formularza z edycji. Bieżący przykład podaje 1,55% marży zamiast historycznych 1,24%; bez przypisania daty ani przyczyny zmiany.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-10-ing-przed-terminem"
+    },
+    {
       "change_id": "calculator-ac-recurring-symmetry-2026-10-09",
       "changed_at": "2026-10-09T07:56:10.000Z",
       "summary": "Dodano osobne opłaty cykliczne A i C, wstrzymanie pełnej miary i punktu zwrotu przy nieustalonej pozycji po dowolnej stronie, jawną konwencję opłat do miesiąca spłaty oraz test siedmiu przypadków w modelu DOM. Bez nowej ceny bankowej i bez zmiany B. Test przeglądarkowy pozostaje bramką Runtime.",

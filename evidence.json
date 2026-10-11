@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "ING-20261011-1",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/przenosze-kredyt",
+      "title": "ING — przeniesienie kredytu hipotecznego, edycja 1",
+      "claim": "Poranny odczyt 11.10, sekcja Oferta specjalna: edycja 1, 0% prowizji i termin 11.10.2026. Bieżący przykład nadal ma 1,55% marży po pięciu latach oraz 6,32% RRSO przykładu; nie zaobserwowano nowej edycji. Punktowy odczyt nie wyklucza późniejszej zmiany.",
+      "accessed_at": "2026-10-11T07:47:28.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261011-2",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie-stale",
+      "title": "ING — tabela stałej stopy 05–11.10",
+      "claim": "Poranny odczyt 11.10, wiersz refinansowania: 5,82% nominalnie przez 5 lat, 0% prowizji warunkowo i po tym okresie POLSTR 1M + 1,55 p.p. Tabela obejmuje 05–11.10; brak zaobserwowanej nowej tabeli. Nie ustala ceny nowego formularza od 12.10.",
+      "accessed_at": "2026-10-11T07:47:28.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261011-3",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/regulamin-refinansowanie",
+      "title": "ING — regulamin edycji 1 refinansowania",
+      "claim": "Poranny odczyt 11.10 ekstraktu siedmiostronicowego PDF: §1–2 ogólny termin kompletnego wniosku 28.09–11.10 włącznie; §6 wyjątek po tej dacie tylko w ważności formularza wydanego w edycji; §9 cena stała z daty formularza. Schematyczne 25.10 nie jest uniwersalnym terminem. Bez surowych bajtów i hasha PDF.",
+      "accessed_at": "2026-10-11T07:47:28.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "ING-20261010-1",
       "source_type": "bank",
       "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/przenosze-kredyt",

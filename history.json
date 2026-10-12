@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:c228ef60-ad15-4228-b9f5-17deb00dd498",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-12T07:45:00.000Z",
+      "completed_at": "2026-10-12T08:02:23.000Z",
+      "title": "ING: edycja 2 i tabela stałej stopy 12–18.10",
+      "summary": "ING opublikował edycję 2 z ogólnym terminem kompletnych wniosków 12–25.10. Tabela 12–18.10 podaje warunkowo 5,93% nominalnie na 5 lat i 0% prowizji. Cena formularzy po 18.10 jest nieustalona; edycja 1 ma osobny wyjątek dla ważnego formularza.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-12-ing-edycja-2",
+      "entrypoint": "raport/2026-10-12-ing-edycja-2/index.html"
+    },
+    {
       "run_id": "run:5e6093d1-2015-4331-a13d-27183056d5ac",
       "status": "completed",
       "answer_change": "no_meaningful_change",

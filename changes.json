@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "ing-edition-2-2026-10-12",
+      "changed_at": "2026-10-12T08:02:23.000Z",
+      "summary": "ING: edycja 2 obejmuje kompletne wnioski 12–25.10; osobna tabela 12–18.10 podaje warunkowo 5,93% nominalnie przez 5 lat i 0% prowizji. Formularze po 18.10 bez nowej tabeli mają nieustaloną cenę. Oddzielono wyjątek ważnego formularza edycji 1 i dodano raport.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-12-ing-edycja-2"
+    },
+    {
       "change_id": "ing-last-day-check-2026-10-11",
       "changed_at": "2026-10-11T07:49:00.000Z",
       "summary": "Poranny odczyt ING nie wykazał nowej edycji ani tabeli. Oznaczono 11.10 jako ostatni dzień znanych granic, tabelę 05–11.10 jako historycznie datowaną i cenę nowego formularza od 12.10 jako nieustaloną; zachowano wyjątek dla ważnego formularza i rozróżnienie przykładu marży.",

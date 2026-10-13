@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "PEKAO-20261013-1",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/refinansuj-swoj-kredyt-mieszkaniowy.html",
+      "title": "Pekao — strona refinansowania, oferta",
+      "claim": "Odczyt 13.10, sekcja „Sprawdź naszą ofertę”: obniżka o 0,2 p.p. względem bieżącej oferty nowych kredytów dla stopy okresowo stałej na pierwsze 5 lat albo zmiennej; oferta ważna do 15.10.2026. Brak wskazania, czy data dotyczy wniosku, decyzji, formularza czy umowy.",
+      "accessed_at": "2026-10-13T07:51:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PEKAO-20261013-2",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/refinansuj-swoj-kredyt-mieszkaniowy.html",
+      "title": "Pekao — warunki skorzystania",
+      "claim": "Odczyt 13.10, sekcja „Jak skorzystać z oferty?”: ROR z kartą (bez Rachunku Podstawowego), wpływ min. 3 000 zł miesięcznie, PeoPay lub Pekao24, zgody marketingowe oraz wniosek i umowa w okresie ważności wydanej decyzji. Ostatni termin nie jest jawną definicją daty 15.10.",
+      "accessed_at": "2026-10-13T07:51:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PEKAO-20261013-3",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/refinansuj-swoj-kredyt-mieszkaniowy.html",
+      "title": "Pekao — granice przykładów i przyszłej obniżki",
+      "claim": "Odczyt 13.10: przykłady z kalkulacją 01.10 są reprezentatywne, a nie ceną konkretnego promocyjnego wniosku; możliwość późniejszej obniżki nie ogłasza przedłużenia. Prowizja, wycena, nominalna stopa i RRSO klienta pozostają nieustalone.",
+      "accessed_at": "2026-10-13T07:51:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "ING-20261012-1",
       "source_type": "bank",
       "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/przenosze-kredyt",

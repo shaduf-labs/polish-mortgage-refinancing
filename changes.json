@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "pekao-before-deadline-2026-10-13",
+      "changed_at": "2026-10-13T07:53:39.000Z",
+      "summary": "Pekao: 13.10 potwierdzono warunkową obniżkę 0,2 p.p. i ważność oferty do 15.10. Doprecyzowano, że strona nie nazywa zdarzenia wymaganego do tej daty; odrębny jest termin ważności decyzji. Bez nowej ceny, zmian innych banków lub kalkulatora.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-13-pekao-przed-terminem"
+    },
+    {
       "change_id": "ing-edition-2-2026-10-12",
       "changed_at": "2026-10-12T08:02:23.000Z",
       "summary": "ING: edycja 2 obejmuje kompletne wnioski 12–25.10; osobna tabela 12–18.10 podaje warunkowo 5,93% nominalnie przez 5 lat i 0% prowizji. Formularze po 18.10 bez nowej tabeli mają nieustaloną cenę. Oddzielono wyjątek ważnego formularza edycji 1 i dodano raport.",

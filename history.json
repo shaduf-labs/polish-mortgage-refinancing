@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:b622877d-f499-4fe2-a33c-920c827722c3",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-13T07:45:00.000Z",
+      "completed_at": "2026-10-13T07:53:39.000Z",
+      "title": "Pekao przed 15.10: obniżka potwierdzona, granica niejasna",
+      "summary": "Warunkowa obniżka 0,2 p.p. i ważność oferty do 15.10 bez zmiany wobec 01.10. Strona nie wskazuje zdarzenia wymaganego do 15.10; osobno wymaga wniosku i umowy w okresie ważności decyzji. Koszty wniosku nieustalone.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-13-pekao-przed-terminem",
+      "entrypoint": "raport/2026-10-13-pekao-przed-terminem/index.html"
+    },
+    {
       "run_id": "run:c228ef60-ad15-4228-b9f5-17deb00dd498",
       "status": "completed",
       "answer_change": "meaningful_change",

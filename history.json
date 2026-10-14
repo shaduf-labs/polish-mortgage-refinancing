@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "runs": [
     {
-      "run_id": "run:b622877d-f499-4fe2-a33c-920c827722c3",
+      "run_id": "report-236c7603391409ff11daba13",
       "status": "completed",
       "answer_change": "no_meaningful_change",
       "started_at": "2026-10-13T07:45:00.000Z",
@@ -13,7 +13,7 @@
       "entrypoint": "raport/2026-10-13-pekao-przed-terminem/index.html"
     },
     {
-      "run_id": "run:c228ef60-ad15-4228-b9f5-17deb00dd498",
+      "run_id": "report-3b1fa26d2450a8dfc4252c67",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-12T07:45:00.000Z",
@@ -24,7 +24,7 @@
       "entrypoint": "raport/2026-10-12-ing-edycja-2/index.html"
     },
     {
-      "run_id": "run:5e6093d1-2015-4331-a13d-27183056d5ac",
+      "run_id": "report-71c3772eefe04ca0f097b7f7",
       "status": "completed",
       "answer_change": "no_meaningful_change",
       "started_at": "2026-10-11T07:45:00.000Z",
@@ -35,7 +35,7 @@
       "entrypoint": "raport/2026-10-11-ing-ostatni-dzien/index.html"
     },
     {
-      "run_id": "run:12e25490-fc87-4f67-bb16-f6d96a77ef1a",
+      "run_id": "report-742bb258a44c270c93b7085c",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-10T07:45:00.000Z",
@@ -46,7 +46,7 @@
       "entrypoint": "raport/2026-10-10-ing-przed-terminem/index.html"
     },
     {
-      "run_id": "run:8acf8324-964f-4026-aa38-4c48d7d76c9b",
+      "run_id": "report-72f64051556ff43e696dcc9e",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-09T07:45:00.000Z",
@@ -57,7 +57,7 @@
       "entrypoint": "raport/2026-10-09-symetria-oplat-ac/index.html"
     },
     {
-      "run_id": "run:2bfcba03-0efd-4348-8cf2-4766a92ee226",
+      "run_id": "report-f8f81b1f5b289e59c6bc19d4",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-08T07:45:00.000Z",
@@ -68,7 +68,7 @@
       "entrypoint": "raport/2026-10-08-oplaty-cykliczne-a/index.html"
     },
     {
-      "run_id": "run:9dd1310c-9ed2-4c5d-813b-66959996b7bf",
+      "run_id": "report-0fd8e226a0538f83571fcfcd",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-07T07:45:00.000Z",
@@ -79,7 +79,7 @@
       "entrypoint": "raport/2026-10-07-trzy-sciezki-decyzji/index.html"
     },
     {
-      "run_id": "run:c2918a7c-3cd4-4b54-b4d4-c32dc8426d31",
+      "run_id": "report-4ba570cdbe8f5ff3fb4379b7",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-06T07:52:00.000Z",
@@ -90,7 +90,7 @@
       "entrypoint": "raport/2026-10-06-mbank-edycja-3/index.html"
     },
     {
-      "run_id": "run:f353a372-70ea-4b74-b975-8b5f8650b1c2",
+      "run_id": "report-8217748c1b041c61ae63466b",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-05T08:08:12.000Z",
@@ -101,7 +101,7 @@
       "entrypoint": "raport/2026-10-05-ing-nowa-tabela/index.html"
     },
     {
-      "run_id": "run:2a93d2ea-f271-4af5-9f61-1375501f352a",
+      "run_id": "report-21ef86d906868252a3b0479e",
       "status": "completed",
       "answer_change": "no_meaningful_change",
       "started_at": "2026-10-04T07:54:05.000Z",
@@ -112,7 +112,7 @@
       "entrypoint": "raport/2026-10-04-ing-dzien-tabeli/index.html"
     },
     {
-      "run_id": "run:3979dd20-8d1c-41aa-a918-2e3b17148f7a",
+      "run_id": "report-1783771920163dfd89a12484",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-03T07:51:06.000Z",
@@ -123,7 +123,7 @@
       "entrypoint": "raport/2026-10-03-pko-nowa-edycja/index.html"
     },
     {
-      "run_id": "run:ae43fa27-ba5c-4e89-b324-8c1a829577b2",
+      "run_id": "report-71732d4a438d942f131d1a7c",
       "status": "completed",
       "answer_change": "no_meaningful_change",
       "started_at": "2026-10-02T07:52:44.000Z",
@@ -134,7 +134,7 @@
       "entrypoint": "raport/2026-10-02-pko-dzien-graniczny/index.html"
     },
     {
-      "run_id": "run:6c1aefb4-2d44-4ea8-af46-f7c031d86c59",
+      "run_id": "report-7679a5f7eed9d3528daed20c",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-01T10:14:00.000Z",
@@ -145,7 +145,7 @@
       "entrypoint": "raport/2026-10-01-mbank-pekao-po-terminie/index.html"
     },
     {
-      "run_id": "run:8a1b05c0-6f1d-4ce2-9ac4-ac5524858601",
+      "run_id": "report-78d0e0e3bfefabfc6d0a5bc9",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-30T07:45:00.000Z",
@@ -156,7 +156,7 @@
       "entrypoint": "raport/2026-09-30-pekao-koszty/index.html"
     },
     {
-      "run_id": "run:dde56984-514c-4698-9a5d-78595c19bc76",
+      "run_id": "report-31c6bade6510c24165d620e8",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-29T07:54:34.000Z",
@@ -167,7 +167,7 @@
       "entrypoint": "raport/2026-09-29-pko-zakres-przykladu/index.html"
     },
     {
-      "run_id": "run:4da4ba66-8aa1-4366-9a2e-220f4c7f8512",
+      "run_id": "report-a0efdb47fff09aeece8d9f96",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-28T07:45:00.000Z",
@@ -178,7 +178,7 @@
       "entrypoint": "raport/2026-09-28-ing-po-terminie/index.html"
     },
     {
-      "run_id": "run:6a16b504-81ee-4a9f-8fe9-f9dc2bc6d4c0",
+      "run_id": "report-29c9f6039f2c86ce9b4d8a45",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-27T07:45:00.000Z",
@@ -189,7 +189,7 @@
       "entrypoint": "raport/2026-09-27-naprawa-kalkulatora/index.html"
     },
     {
-      "run_id": "run:609532c1-b5ea-417a-a0ef-67f9e3ca3e47",
+      "run_id": "report-e2ea3cc3d6e15f718c954d5d",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-26T07:45:00.000Z",
@@ -200,7 +200,7 @@
       "entrypoint": "raport/2026-09-26-bnp-rrso/index.html"
     },
     {
-      "run_id": "run:07c14a4e-263d-42c0-823d-82b480237fa5",
+      "run_id": "report-fbda1512a72dc9b0407f67bb",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-25T07:45:00.000Z",
@@ -211,7 +211,7 @@
       "entrypoint": "raport/2026-09-25-uzupelnienie-kosztow/index.html"
     },
     {
-      "run_id": "run:2b80b950-d3c9-4774-afd7-eed7f18bc25c",
+      "run_id": "report-758bd3a8df81623b28fab176",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-24T07:45:00.000Z",
@@ -222,7 +222,7 @@
       "entrypoint": "raport/2026-09-24-koszty-wejscia/index.html"
     },
     {
-      "run_id": "run:1227c7e3-4c97-4011-bb4e-399c43ab814e",
+      "run_id": "report-5f092cf4ccab51315d428d04",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-23T07:45:00.000Z",
@@ -233,7 +233,7 @@
       "entrypoint": "raport/2026-09-23-kontrola-swiezosci-ofert/index.html"
     },
     {
-      "run_id": "run:aba067a0-f06b-4d15-9563-5bdeeecd6bbb",
+      "run_id": "report-64088864ffe5ace689fbe5fa",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-21T07:45:00.000Z",
@@ -244,7 +244,7 @@
       "entrypoint": "raport/2026-09-21-procedura/index.html"
     },
     {
-      "run_id": "run:d3dfb3f6-1589-4933-8f8c-97824c87615d",
+      "run_id": "report-15f5134be12fd6b687e1207c",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-20T18:16:00.000Z",
@@ -255,7 +255,7 @@
       "entrypoint": "raport/2026-09-20-audyt/index.html"
     },
     {
-      "run_id": "run:manual:960ef45f4f4e7564767bfd7efff138a8",
+      "run_id": "report-8abcea78350b7fc946af2dd4",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-20T14:01:06Z",

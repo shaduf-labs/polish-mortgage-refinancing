@@ -7,6 +7,7 @@
     "text": "Porównaj A, pisemną propozycję B (jeśli dostępna) i przeniesienie C. Kalkulator ma osobne opłaty A/C; nieznane koszty wstrzymują pełną miarę."
   },
   "summary": [
+    "ING, odczyt 14.10: w edycji 2 wybrany wariant polisy spłaty przez ING jest warunkiem promocji dla co najmniej jednego kredytobiorcy spełniającego kryterium wieku. Składka miesięczna = stawka wariantu × saldo w dniu raty. Podstawowa „Twoja Ochrona Życia” NN/Allianz ma 0,035% miesięcznie tylko przy wieku do 50 lat i kredycie do 700 tys. zł; inne warianty mają inne stawki. Ochrona ma trwać minimum 3 lata. Własna suma składek nieustalona.",
     "Pekao, odczyt 13.10: strona nadal podaje warunkową obniżkę o 0,2 p.p. względem aktualnej oferty nowych kredytów dla stopy okresowo stałej na pierwsze 5 lat albo zmiennej oraz ważność oferty do 15.10.2026. Nie wskazuje, czy do tej daty wymagane są wniosek, decyzja, formularz czy umowa; osobno wymaga wniosku i umowy w okresie ważności wydanej decyzji. Prowizja, indywidualna stopa, RRSO i koszt wyceny promocyjnego wniosku pozostają nieustalone.",
     "ING, odczyt 12.10: nowa edycja 2 obejmuje kompletne wnioski 12–25.10. Osobna tabela 12–18.10 podaje dla refinansowania warunkowo 5,93% nominalnie przez pierwsze 5 lat i 0% prowizji; po okresie stałym marżę 1,56 p.p. + POLSTR 1M. Formularz Informacyjny potwierdza cenę klienta. Cena formularza 19–25.10 bez nowej tabeli jest nieustalona. Edycja 1 ma osobny wyjątek tylko w ważności własnego formularza wydanego w tej edycji.",
     "Historia — ING, poranny odczyt 11.10: trzy oficjalne materiały nadal pokazują ostatni dzień ogólnego terminu kompletnego wniosku edycji 1 i tabelę 05–11.10 z warunkową stopą nominalną 5,82% na 5 lat oraz 0% prowizji. Nie zaobserwowano nowej edycji ani tabeli. Wtedy cena formularza od 12.10 była nieustalona; późniejszy kompletny wniosek tylko w ważności formularza wydanego podczas edycji. Ówczesny przykład marży po pięciu latach miał 1,55%, a 1,24% z 05.10 to wcześniejszy zapis.",
@@ -26,6 +27,7 @@
     "Koszty starego banku i formalności zewnętrzne wymagają własnych dokumentów. Porównanie wymaga rat, kosztów, salda i wspólnego horyzontu."
   ],
   "uncertainty": [
+    "ING: wybór wariantu, stawka klienta, liczba ubezpieczonych, harmonogram salda i suma 36 składek są nieustalone. Przykładowe 4 026,89 zł dotyczy kredytu 332 467 zł i wariantu NN, nie każdego klienta; polisa nieruchomości jest odrębna. Przy kontynuacji stawka może się zmienić. Bank ma prawo do jednorazowego podniesienia stopy/marży o 0,4 p.p. po rezygnacji w ciągu trzech lat tylko gdy żaden uczestnik nie jest dalej chroniony; skutek nie jest automatyczny. Odczyt to ekstrakcja bez surowych bajtów i hashy; OWU sprawdzono tylko dla podstawowej polisy NN/Allianz.",
     "ING: tabela edycji 2 z 5,93%/0% obejmuje 12–18.10, nie cały termin promocji do 25.10. Cena nowego formularza 19–25.10 bez kolejnej tabeli jest nieustalona. Konto z wpływem min. 2 000 zł/mies. i polisa spłaty to warunki; polisa nieruchomości jest odrębna. Koszty indywidualne obu polis, konta, starego banku i pełnej operacji pozostają nieustalone. Przykład 6,43% RRSO nie jest ceną klienta. Archiwalny PDF edycji 1 odczytano z ekstraktu oznaczonego jako pobrany dwa dni wcześniej; nie pobrano surowych bajtów ani hasha. Nie badano innych banków ani kalkulatora.",
     "Nieznana kwota lub czas naliczania opłaty A albo C, w tym ewentualnie po spłacie, wstrzymuje pełne wydatki, pełną miarę i punkt zwrotu. Wpisane 0 zł jest przykładowym założeniem, nie potwierdzoną ceną. Opłaty modeluje się tylko do miesiąca spłaty danej strony; rzeczywisty obowiązek może trwać dłużej.",
     "Warunki B są nieustalone bez pisemnej propozycji. Nie można z góry przyjąć braku opłaty za aneks, wycenę, zabezpieczenie, polisę ani rozliczenie dotychczasowego kredytu. Nowa umowa w tym samym banku może wymagać odrębnego rozliczenia.",
@@ -41,7 +43,7 @@
     "Kwoty reprezentatywnych przykładów oraz produktów dodatkowych nie są stawką indywidualną.",
     "Kontrole kalkulatora z 22.09 i 27.09 są historycznymi testami lokalnymi, nie testem tej aktualizacji ani wdrożenia. Referencja i widget były zgodne w siedmiu scenariuszach; walidacja odrzucała pusty i nadmierny koszt oraz ukrywała poprzedni wynik. Po naprawie CSP niezależna referencja sprawdziła dwa przypadki wzoru, w tym koszt niezerowy. Lokalna bramka przeglądarkowa 27.09 zakończyła się EPERM; nie potwierdziła wtedy działania wdrożonego iframe. Szczegóły kontroli CSP i dwóch przypadków pozostają w raporcie 27.09."
   ],
-  "checked_at": "2026-10-13T07:51:00.000Z",
-  "meaningfully_updated_at": "2026-10-12T07:56:53.000Z",
-  "freshness_note": "13.10.2026 punktowo odczytano oficjalną stronę Pekao: obniżka 0,2 p.p. i ważność do 15.10 bez zmiany wobec 01.10. Zdarzenie wymagane do tej daty nie jest wskazane; ważność decyzji to osobny warunek. Innych banków i kalkulatora nie badano."
+  "checked_at": "2026-10-14T07:50:40.000Z",
+  "meaningfully_updated_at": "2026-10-14T07:50:40.000Z",
+  "freshness_note": "14.10.2026 odczytano oficjalne materiały ING dotyczące składki i warunku polisy spłaty. Nie badano innych banków ani kalkulatora."
 }

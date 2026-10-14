@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-076d16f0aa93aa193ff45de3",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-14T07:45:00.000Z",
+      "completed_at": "2026-10-14T07:50:40.000Z",
+      "title": "ING: reguła składki polisy spłaty",
+      "summary": "Ustalono miesięczną regułę składki od salda i warunek utrzymania ochrony min. 3 lata w edycji 2. Przykład banku nie jest ceną klienta; indywidualna suma składek pozostaje nieustalona.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-14-ing-skladka-polisy",
+      "entrypoint": "raport/2026-10-14-ing-skladka-polisy/index.html"
+    },
+    {
       "run_id": "report-236c7603391409ff11daba13",
       "status": "completed",
       "answer_change": "no_meaningful_change",

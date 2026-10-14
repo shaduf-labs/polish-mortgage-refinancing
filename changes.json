@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "ing-insurance-rule-2026-10-14",
+      "changed_at": "2026-10-14T07:50:40.000Z",
+      "summary": "ING: doprecyzowano warunek polisy spłaty, miesięczną regułę składki od salda i warunkowe utrzymanie ochrony przez 3 lata. Przykład oddzielono od ceny klienta i polisy nieruchomości. Własna suma składek nadal nieustalona. Bez zmian innych banków i kalkulatora.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-14-ing-skladka-polisy"
+    },
+    {
       "change_id": "pekao-before-deadline-2026-10-13",
       "changed_at": "2026-10-13T07:53:39.000Z",
       "summary": "Pekao: 13.10 potwierdzono warunkową obniżkę 0,2 p.p. i ważność oferty do 15.10. Doprecyzowano, że strona nie nazywa zdarzenia wymaganego do tej daty; odrębny jest termin ważności decyzji. Bez nowej ceny, zmian innych banków lub kalkulatora.",

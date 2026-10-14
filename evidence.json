@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "ING-20261014-1",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/regulamin-refinansowanie",
+      "title": "ING — regulamin edycji 2, §1–2 i §13–14",
+      "claim": "Wybrany wariant indywidualnego ubezpieczenia spłaty przez ING dla co najmniej jednego kwalifikującego się wiekiem kredytobiorcy; utrzymanie ochrony przez min. 3 lata. W ciągu trzech lat bank ma prawo jednorazowo podnieść stopę/marżę o 0,4 p.p., gdy po rezygnacji nikt nie pozostaje chroniony; podwyższony parametr do końca umowy.",
+      "accessed_at": "2026-10-14T07:50:40.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261014-2",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/ubezpieczenia/ubezpieczenie-kredytu-hipotecznego",
+      "title": "ING — warianty i tabela składek",
+      "claim": "Składka co miesiąc w dniu raty = stawka wariantu × saldo zadłużenia w tym dniu. Kilka wariantów NN i Allianz; podstawowa „Twoja Ochrona Życia” ma 0,035% miesięcznie przy wieku do 50 lat i kredycie do 700 tys. zł. Inne warianty mają inne stawki.",
+      "accessed_at": "2026-10-14T07:50:40.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261014-3",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/przenosze-kredyt",
+      "title": "ING — przykład refinansowania, polisy oddzielne",
+      "claim": "Przykład stałej stopy: 4 026,89 zł za 3 lata polisy spłaty NN przy kredycie 332 467 zł; oddzielnie 8 011,92 zł za polisę nieruchomości na cały okres. Kwoty przykładu nie są ceną klienta.",
+      "accessed_at": "2026-10-14T07:50:40.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261014-4",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/_fileserver/item/1127875",
+      "title": "NN — OWU Twoja Ochrona Życia",
+      "claim": "Dla podstawowego wariantu NN OWU potwierdza miesięczną składkę od salda; po pierwszym okresie przewiduje roczne kontynuacje i możliwą zmianę stawki. Nie dowodzi stałej składki przez całe 3 lata.",
+      "accessed_at": "2026-10-14T07:50:40.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261014-5",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/_fileserver/item/1123185",
+      "title": "Allianz — OWU Twoja Ochrona Życia",
+      "claim": "Dla podstawowego wariantu Allianz OWU wskazuje miesięczną składkę jako stawka z polisy × saldo w dniu raty oraz kontynuację ze stawką w propozycji. Nie rozszerzać tych klauzul na pozostałe warianty.",
+      "accessed_at": "2026-10-14T07:50:40.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "PEKAO-20261013-1",
       "source_type": "bank",
       "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/refinansuj-swoj-kredyt-mieszkaniowy.html",

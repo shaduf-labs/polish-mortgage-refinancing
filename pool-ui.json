@@ -69,7 +69,7 @@
       "label": "Raporty",
       "icon": "file-text",
       "group": "Źródła",
-      "description": "Datowane raporty, w tym ING: edycja 2 i tabela 12–18.10.",
+      "description": "Datowane raporty; najnowszy odczyt: Pekao 15.10, bez istotnej zmiany.",
       "parent": null,
       "entrypoint": "raport/index.html",
       "entrypoint_type": "html_fragment",

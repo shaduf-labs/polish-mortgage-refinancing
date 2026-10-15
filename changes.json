@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "pekao-deadline-check-2026-10-15",
+      "changed_at": "2026-10-15T07:53:00.000Z",
+      "summary": "Pekao: w dniu wskazanego końca oferty nadal widnieją warunkowa obniżka 0,2 p.p. i data 15.10. Bez istotnej zmiany wobec 13.10. Zdarzenie graniczne i indywidualne koszty nieustalone; brak potwierdzenia przedłużenia od 16.10.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-15-pekao-w-dniu-terminu"
+    },
+    {
       "change_id": "ing-insurance-rule-2026-10-14",
       "changed_at": "2026-10-14T07:50:40.000Z",
       "summary": "ING: doprecyzowano warunek polisy spłaty, miesięczną regułę składki od salda i warunkowe utrzymanie ochrony przez 3 lata. Przykład oddzielono od ceny klienta i polisy nieruchomości. Własna suma składek nadal nieustalona. Bez zmian innych banków i kalkulatora.",
@@ -34,7 +40,7 @@
     {
       "change_id": "calculator-ac-recurring-symmetry-2026-10-09",
       "changed_at": "2026-10-09T07:56:10.000Z",
-      "summary": "Dodano osobne opłaty cykliczne A i C, wstrzymanie pełnej miary i punktu zwrotu przy nieustalonej pozycji po dowolnej stronie, jawną konwencję opłat do miesiąca spłaty oraz test siedmiu przypadków w modelu DOM. Bez nowej ceny bankowej i bez zmiany B. Test przeglądarkowy pozostaje bramką Runtime.",
+      "summary": "Dodano osobne opłaty cykliczne A i C, wstrzymanie pełnej miary i punktu zwrotu przy nieustalonej pozycji po dowolnej stronie, jawną konwencję opłat do miesiąca spłaty oraz test siedmiu przypadków w modelu DOM. Bez nowej ceny bankowej i bez zmiany B. Nie przeprowadzono testu interakcji w przeglądarce.",
       "path": "/p/polish-mortgage-refinancing/raport/2026-10-09-symetria-oplat-ac"
     },
     {

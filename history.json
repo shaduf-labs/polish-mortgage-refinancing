@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-3e0fb7e833087e7cb6950974",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-15T07:45:00.000Z",
+      "completed_at": "2026-10-15T07:53:00.000Z",
+      "title": "Pekao w dniu wskazanego końca oferty",
+      "summary": "Warunkowa obniżka 0,2 p.p. i data 15.10 pozostały bez istotnej zmiany wobec 13.10. Strona nie określa zdarzenia granicznego; indywidualne koszty nieustalone.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-15-pekao-w-dniu-terminu",
+      "entrypoint": "raport/2026-10-15-pekao-w-dniu-terminu/index.html"
+    },
+    {
       "run_id": "report-076d16f0aa93aa193ff45de3",
       "status": "completed",
       "answer_change": "meaningful_change",
@@ -63,7 +74,7 @@
       "started_at": "2026-10-09T07:45:00.000Z",
       "completed_at": "2026-10-09T07:56:10.000Z",
       "title": "Symetryczne opłaty cykliczne A/C w kalkulatorze",
-      "summary": "Przygotowano symetryczne pola A/C i sprawdzono siedem przypadków w testowym modelu DOM. Nie ustalano nowych cen; test przeglądarkowy i aprobata Runtime pozostają otwarte.",
+      "summary": "Przygotowano symetryczne pola A/C i sprawdzono siedem przypadków w testowym modelu DOM. Nie ustalano nowych cen; nie przeprowadzono testu interakcji w przeglądarce.",
       "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-09-symetria-oplat-ac",
       "entrypoint": "raport/2026-10-09-symetria-oplat-ac/index.html"
     },

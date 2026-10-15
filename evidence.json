@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "PEKAO-20261015-1",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/refinansuj-swoj-kredyt-mieszkaniowy.html",
+      "title": "Pekao — oferta refinansowania, odczyt 15.10",
+      "claim": "Na stronie nadal opisano obniżkę 0,2 p.p. dla stopy okresowo stałej przez pierwsze 5 lat albo zmiennej oraz datę ważności do 15.10.2026. Wobec 13.10 bez istotnej zmiany.",
+      "accessed_at": "2026-10-15T07:53:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PEKAO-20261015-2",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/refinansuj-swoj-kredyt-mieszkaniowy.html",
+      "title": "Pekao — warunki i granice ustalenia",
+      "claim": "Strona nie przypisuje 15.10 do wniosku, decyzji, formularza ani umowy. Osobno wymaga wniosku i umowy w ważności wydanej decyzji. Przykłady z kalkulacją 01.10 i 190 zł za kontrolę w jednym przykładzie nie są indywidualnym kosztem promocji.",
+      "accessed_at": "2026-10-15T07:53:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "ING-20261014-1",
       "source_type": "bank",
       "source_url": "https://www.ing.pl/regulamin-refinansowanie",

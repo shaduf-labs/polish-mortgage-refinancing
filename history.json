@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-135ef819e74ad68caa6e75d7",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-17T07:45:00.000Z",
+      "completed_at": "2026-10-17T21:19:00.000Z",
+      "title": "Pekao: na stronie termin do 31.10",
+      "summary": "Odczyt 17.10: obniżka 0,2 p.p. nadal na stronie, termin zmieniony z 15.10 na 31.10. Początek tekstu, ciągłość 16.10, zdarzenie graniczne, wcześniejsze dokumenty i indywidualna cena nieustalone.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-17-pekao-do-31-pazdziernika",
+      "entrypoint": "raport/2026-10-17-pekao-do-31-pazdziernika/index.html"
+    },
+    {
       "run_id": "report-3e0fb7e833087e7cb6950974",
       "status": "completed",
       "answer_change": "no_meaningful_change",

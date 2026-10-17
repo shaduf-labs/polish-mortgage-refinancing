@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "PEKAO-20261017-1",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/refinansuj-swoj-kredyt-mieszkaniowy.html",
+      "title": "Pekao — strona refinansowania, sekcja oferty",
+      "claim": "Odczyt 17.10, wiersze 724–741: obniżka 0,2 p.p. dla stopy okresowo stałej przez pierwsze 5 lat albo zmiennej; napis o ważności do 31.10.2026. W odczycie 15.10 było do 15.10.2026. Strona nie podaje daty zmiany tekstu ani ciągłości 16.10.",
+      "accessed_at": "2026-10-17T21:17:59.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PEKAO-20261017-2",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/refinansuj-swoj-kredyt-mieszkaniowy.html",
+      "title": "Pekao — warunki, przykłady i ograniczenia",
+      "claim": "Odczyt 17.10, wiersze 743–758 i 796–818: wymagane ROR z kartą, wpływ min. 3 000 zł, PeoPay lub Pekao24, zgody oraz wniosek i umowa w ważności decyzji. Nie określono kroku procesu dla dat 15.10 i 31.10 ani skutku dla wcześniejszych dokumentów. Przykłady policzone na 01.10, w tym 190 zł za kontrolę nieruchomości w jednym, nie wyceniają klienta.",
+      "accessed_at": "2026-10-17T21:17:59.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PEKAO-20261017-3",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/o-banku/stopka/cennik-i-regulamin.html",
+      "title": "Pekao — indeks cenników i regulaminów",
+      "claim": "Punktowe wyszukiwanie w odczytanym indeksie nie znalazło frazy Refinans ani osobnego nowego regulaminu obniżki. To nie dowodzi, że taki dokument nie istnieje; taryfa ogólna nie ustala indywidualnej ceny.",
+      "accessed_at": "2026-10-17T21:17:59.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "PEKAO-20261015-1",
       "source_type": "bank",
       "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/refinansuj-swoj-kredyt-mieszkaniowy.html",

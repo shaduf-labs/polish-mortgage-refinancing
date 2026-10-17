@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "pekao-date-to-october-31-2026-10-17",
+      "changed_at": "2026-10-17T21:19:00.000Z",
+      "summary": "Pekao: w odczycie 17.10 strona nadal opisuje warunkową obniżkę 0,2 p.p., lecz podaje termin 31.10 zamiast 15.10. Data wprowadzenia tekstu, ciągłość 16.10, zdarzenie graniczne, stare dokumenty i indywidualna cena pozostają nieustalone.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-17-pekao-do-31-pazdziernika"
+    },
+    {
       "change_id": "pekao-deadline-check-2026-10-15",
       "changed_at": "2026-10-15T07:53:00.000Z",
       "summary": "Pekao: w dniu wskazanego końca oferty nadal widnieją warunkowa obniżka 0,2 p.p. i data 15.10. Bez istotnej zmiany wobec 13.10. Zdarzenie graniczne i indywidualne koszty nieustalone; brak potwierdzenia przedłużenia od 16.10.",

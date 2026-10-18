@@ -69,7 +69,7 @@
       "label": "Raporty",
       "icon": "file-text",
       "group": "Źródła",
-      "description": "Datowane raporty; najnowszy odczyt: Pekao 17.10, termin na stronie do 31.10.",
+      "description": "Datowane raporty; najnowszy odczyt: ING 18.10, ostatni dzień tabeli 12–18.10.",
       "parent": null,
       "entrypoint": "raport/index.html",
       "entrypoint_type": "html_fragment",

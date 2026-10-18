@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "ing-table-last-day-2026-10-18",
+      "changed_at": "2026-10-18T07:53:00.000Z",
+      "summary": "ING: punktowy odczyt 18.10 nie wykazał zmiany tabeli 12–18.10, edycji 2 ani parametrów. Rozdzielono ostatni dzień tabeli od naboru do 25.10; cena nowego formularza od 19.10 pozostaje nieustalona. Dodano datowany raport.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-18-ing-ostatni-dzien-tabeli"
+    },
+    {
       "change_id": "pekao-date-to-october-31-2026-10-17",
       "changed_at": "2026-10-17T21:19:00.000Z",
       "summary": "Pekao: w odczycie 17.10 strona nadal opisuje warunkową obniżkę 0,2 p.p., lecz podaje termin 31.10 zamiast 15.10. Data wprowadzenia tekstu, ciągłość 16.10, zdarzenie graniczne, stare dokumenty i indywidualna cena pozostają nieustalone.",

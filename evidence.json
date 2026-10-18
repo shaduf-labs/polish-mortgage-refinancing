@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "ING-20261018-1",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie-stale",
+      "title": "ING — tabela stałej stopy, odczyt 18.10",
+      "claim": "Wiersze 156–162 i 214–222: tabela 12–18.10.2026, refinansowanie edycja 2; warunkowo 5,93% nominalnie na pierwsze 5 lat, 0% prowizji i później marża 1,56 p.p. + POLSTR 1M Stopa Składana. Nie ustala ceny nowego formularza po 18.10.",
+      "accessed_at": "2026-10-18T07:51:29.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261018-2",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/przenosze-kredyt",
+      "title": "ING — strona przeniesienia kredytu, odczyt 18.10",
+      "claim": "Wiersze 193–234: edycja 2, ogólny termin kompletnego wniosku do 25.10. Wiersze 365–369: przykład reprezentatywny 5,93% stała stopa, 6,43% RRSO, 4 026,89 zł polisy spłaty i 8 011,92 zł polisy nieruchomości; kwoty tylko w przykładzie. 5,12078% na karcie dotyczy stopy zmiennej.",
+      "accessed_at": "2026-10-18T07:51:29.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261018-3",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/regulamin-refinansowanie",
+      "title": "ING — regulamin edycji 2, odczyt 18.10",
+      "claim": "§1–2: kompletne wnioski 12–25.10 na 100 tys.–2 mln zł i warunki promocji. §6: późniejszy kompletny wniosek tylko w ważności formularza wydanego podczas edycji. §9: stała stopa według dnia wydania formularza, 0% prowizji warunkowo, po okresie stałym marża 1,56 p.p. + POLSTR 1M. PDF odczytany jako ekstrakt bez niezależnych świeżych bajtów ani hasha.",
+      "accessed_at": "2026-10-18T07:51:29.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "PEKAO-20261017-1",
       "source_type": "bank",
       "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/refinansuj-swoj-kredyt-mieszkaniowy.html",

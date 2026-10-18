@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-4be5545beff6c4c3fbb2e178",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-18T07:45:00.000Z",
+      "completed_at": "2026-10-18T07:53:00.000Z",
+      "title": "ING 18.10: ostatni dzień tabeli 12–18.10",
+      "summary": "Punktowy odczyt ING nie wykazał zmiany tabeli 12–18.10, edycji 2 ani parametrów. 5,93%/0% pozostają warunkowe w tabeli do 18.10; ogólny termin naboru to 25.10. Cena nowego formularza od 19.10 nieustalona.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-18-ing-ostatni-dzien-tabeli",
+      "entrypoint": "raport/2026-10-18-ing-ostatni-dzien-tabeli/index.html"
+    },
+    {
       "run_id": "report-135ef819e74ad68caa6e75d7",
       "status": "completed",
       "answer_change": "meaningful_change",

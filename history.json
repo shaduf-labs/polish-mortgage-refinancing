@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-fdcad2976c6c4f04c9d1b7e6",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-19T07:45:00.000Z",
+      "completed_at": "2026-10-19T07:50:28.000Z",
+      "title": "ING: nowa tabela refinansowania 19–25.10",
+      "summary": "Odczyt 19.10 potwierdził nową tabelę stałej stopy 19–25.10 dla edycji 2. Parametry 5,93%/0%/1,56 p.p. są takie jak poprzednio, ale mają nowy datowany zakres. Przykład RRSO 6,44% nie jest ceną klienta; koszty indywidualne pozostają nieustalone.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-19-ing-tabela-19-25",
+      "entrypoint": "raport/2026-10-19-ing-tabela-19-25/index.html"
+    },
+    {
       "run_id": "report-4be5545beff6c4c3fbb2e178",
       "status": "completed",
       "answer_change": "no_meaningful_change",

@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "ING-20261019-1",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie-stale",
+      "title": "ING — tabela stałej stopy, odczyt 19.10",
+      "claim": "Wiersze 156–162 i 214–222: tabela 19–25.10.2026, refinansowanie edycja 2, warunkowo 5,93% nominalnie przez pierwsze 5 lat, 0% prowizji, potem POLSTR 1M Stopa Składana + 1,56 p.p. marży. RRSO 6,44% dotyczy przykładu. Tabela 12–18.10 jest historyczna.",
+      "accessed_at": "2026-10-19T07:50:28.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261019-2",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/przenosze-kredyt",
+      "title": "ING — strona przeniesienia, odczyt 19.10",
+      "claim": "Wiersze 193–234: edycja 2 i ogólny termin kompletnego wniosku do 25.10. Wiersze 365–369: przykład stałej stopy z 19.10: 5,93%, 0 zł prowizji, 6,44% RRSO, 4 022,46 zł polisy spłaty przez 3 lata oraz osobno 8 011,92 zł polisy nieruchomości. 5,12078% na karcie to stopa zmienna.",
+      "accessed_at": "2026-10-19T07:50:28.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261019-3",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/regulamin-refinansowanie",
+      "title": "ING — regulamin edycji 2, ekstrakt odczytany 19.10",
+      "claim": "§1–2: kompletne wnioski 12–25.10 na 100 tys.–2 mln zł przy warunkach. §6: późniejszy wniosek tylko w ważności formularza wydanego podczas edycji. §9: stopa stała według tabeli z dnia wydania formularza, 0% prowizji oraz później POLSTR 1M + 1,56 p.p. marży. Bez świeżych surowych bajtów PDF ani hasha; data ostatniej zmiany nieustalona.",
+      "accessed_at": "2026-10-19T07:50:28.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "ING-20261018-1",
       "source_type": "bank",
       "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie-stale",

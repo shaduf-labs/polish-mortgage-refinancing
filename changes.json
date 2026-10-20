@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "ing-account-requirement-2026-10-20",
+      "changed_at": "2026-10-20T07:56:17.000Z",
+      "summary": "ING: edycja 2 wymaga kwalifikującego się konta PLN do spłaty, lecz nie Go/More ani karty. Go 0 zł/mies., More 25 zł/mies. według taryfy; inne konta mają różne stawki. Wpływ 2 000 zł/mies. nie jest opłatą. Koszt klienta nieustalony; osobne możliwe +0,4 p.p. za brak wpływu nie jest opłatą za konto.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-20-ing-rachunek-edycja-2"
+    },
+    {
       "change_id": "ing-new-table-2026-10-19",
       "changed_at": "2026-10-19T07:50:28.000Z",
       "summary": "ING: nowa tabela 19–25.10 dla edycji 2 potwierdza warunkowe 5,93% nominalnie na pięć lat, 0% prowizji i marżę 1,56 p.p. po tym okresie. Ogólny nabór do 25.10 oraz indywidualny termin ważnego formularza pozostają odrębne. Przykład 19.10: 6,44% RRSO i 4 022,46 zł polisy spłaty, nie cena klienta. Koszty indywidualne nieustalone.",

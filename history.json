@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-fb519498b6ed9ec1d39d5cd2",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-20T07:45:00.000Z",
+      "completed_at": "2026-10-20T07:56:17.000Z",
+      "title": "ING: wymagany rachunek w edycji 2 i koszt wariantów",
+      "summary": "Regulamin wymaga kwalifikującego się rachunku ING w PLN z wpływem 2 000 zł/mies., nie konkretnego wariantu ani karty. Go 0 zł/mies., More 25 zł/mies. taryfowo; indywidualny koszt pozostaje nieustalony.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-20-ing-rachunek-edycja-2",
+      "entrypoint": "raport/2026-10-20-ing-rachunek-edycja-2/index.html"
+    },
+    {
       "run_id": "report-fdcad2976c6c4f04c9d1b7e6",
       "status": "completed",
       "answer_change": "meaningful_change",

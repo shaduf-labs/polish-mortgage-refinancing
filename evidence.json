@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "ING-20261020-1",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/regulamin-refinansowanie",
+      "title": "ING — regulamin refinansowania, edycja 2",
+      "claim": "S. 2 definicja konta, s. 3 §2–4 i s. 4–5 §13–16: rachunek PLN do spłaty, wyłączenia Extra/Max/PRP, wpływ 2 000 zł/mies. i pozostałe warunki, bez wymogu karty lub Go/More. Możliwe, nie automatyczne +0,4 p.p. za brak wpływu w pierwszych 3 latach, z wyjątkiem po odmowie zmiany warunków rachunku. PDF odczytany jako ekstrakt bez surowych bajtów i hasha.",
+      "accessed_at": "2026-10-20T07:56:17.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261020-2",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/_fileserver/item/1000192",
+      "title": "ING — Tabela Opłat i Prowizji, tekst jednolity 10.08.2026",
+      "claim": "S. 7–12: Go 0 zł/mies. za pakiet i rachunek, More 25 zł/mies. za pakiet i 0 zł za rachunek; starsze konta mają odmienne stawki. S. 35–36: opcjonalna karta Go/More 0 lub 10 zł/mies. S. 48: bankowość internetowa i aplikacja 0 zł. PDF odczytany jako ekstrakt bez surowych bajtów i hasha.",
+      "accessed_at": "2026-10-20T07:56:17.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261020-3",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/tabele-i-regulaminy/tabela-oplat-i-prowizji",
+      "title": "ING — indeks tabeli opłat i prowizji",
+      "claim": "Strona podaje obowiązywanie bieżącej Tabeli Opłat i Prowizji od 10.08.2026 i prowadzi do pełnego PDF.",
+      "accessed_at": "2026-10-20T07:56:17.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261020-4",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/konta-osobiste",
+      "title": "ING — konta osobiste",
+      "claim": "Go 0 zł/mies. za prowadzenie bez dodatkowego progu, More 25 zł/mies.; Go indywidualne, More może być wspólne. Strona nie nadaje tym wariantom statusu obowiązkowego w refinansowaniu.",
+      "accessed_at": "2026-10-20T07:56:17.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261020-5",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/przenosze-kredyt",
+      "title": "ING — strona przeniesienia kredytu",
+      "claim": "Reprezentatywny przykład używa Go za 0 zł, lecz nie ustala wariantu ani kosztu każdego klienta.",
+      "accessed_at": "2026-10-20T07:56:17.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "ING-20261019-1",
       "source_type": "bank",
       "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie-stale",

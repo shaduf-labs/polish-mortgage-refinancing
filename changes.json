@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "pko-products-one-pp-2026-10-21",
+      "changed_at": "2026-10-21T08:00:05.000Z",
+      "summary": "PKO BP: podlinkowany przykład cyfrowy pokazuje obniżkę 1 p.p. i datę obliczenia 05.10, bez przypisania do refinansowania. Rozdzielono zawarcie umowy, warunki reklamowane i koszty ROR oraz polis. RRSO refinansowania i koszty klienta nieustalone.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-21-pko-produkty-1pp"
+    },
+    {
       "change_id": "ing-account-requirement-2026-10-20",
       "changed_at": "2026-10-20T07:56:17.000Z",
       "summary": "ING: edycja 2 wymaga kwalifikującego się konta PLN do spłaty, lecz nie Go/More ani karty. Go 0 zł/mies., More 25 zł/mies. według taryfy; inne konta mają różne stawki. Wpływ 2 000 zł/mies. nie jest opłatą. Koszt klienta nieustalony; osobne możliwe +0,4 p.p. za brak wpływu nie jest opłatą za konto.",

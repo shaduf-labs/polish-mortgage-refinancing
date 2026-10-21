@@ -2,6 +2,76 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "PKO-20261021-1",
+      "source_type": "bank",
+      "source_url": "https://www.pkobp.pl/klient-indywidualny/kredyty-pozyczki/przenies-kredyt-mieszkaniowy",
+      "title": "PKO BP — przeniesienie kredytu",
+      "claim": "Strona przeniesienia: 1 p.p. przez pięć lat dla formularzy lub propozycji cyfrowych 03.10–06.11; 0% prowizji za udzielenie oraz stawki wyceny.",
+      "accessed_at": "2026-10-21T08:00:05.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PKO-20261021-2",
+      "source_type": "bank",
+      "source_url": "https://www.pkobp.pl/klient-indywidualny/kredyty-pozyczki/kredyt-lub-pozyczka-ze-stala-stopa-procentowa-przez-5-lat",
+      "title": "PKO BP — stała stopa",
+      "claim": "Strona stałej stopy potwierdza obniżkę 1 p.p. i dwie datowane kategorie dokumentów.",
+      "accessed_at": "2026-10-21T08:00:05.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PKO-20261021-3",
+      "source_type": "bank",
+      "source_url": "https://www.pkobp.pl/api/public/7af546c2-00d2-4687-a047-a51ea916ec66.pdf?content-disposition=filename%3DInformacje_og%C3%B3lne_dotycz%C4%85ce_umowy_o_Cyfrowy_Kredyt_Hipoteczny.pdf",
+      "title": "PKO BP — informacje ogólne, Cyfrowy Kredyt Hipoteczny",
+      "claim": "Cyfrowe informacje ogólne: przykład obliczony 05.10 z 1 p.p. do 06.11, bez wskazanego celu; produkt dopuszcza spłatę kredytu w innym banku. S. 4 XII określa produkty, wpływy i transakcje dla reklamowanych warunków. Tekst odczytano z indeksu bez pobrania bieżących bajtów.",
+      "accessed_at": "2026-10-21T08:00:05.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PKO-20261021-4",
+      "source_type": "bank",
+      "source_url": "https://www.pkobp.pl/api/public/68ba37cb-8d4a-44a6-a69c-1ab423a33156.pdf?content-disposition=filename%3DInformacje_og%C3%B3lne_dotycz%C4%85ce_umowy_o_kredyt_hipoteczny%2Fpo%C5%BCyczk%C4%99_hipoteczn%C4%85_-_PKO_Banku_Polskiego.pdf",
+      "title": "PKO BP — informacje ogólne, kredyt hipoteczny",
+      "claim": "Zwykłe informacje ogólne: przykład 05.10; s. 6 XII mówi o braku wymogu usług do samego zawarcia i wymienia możliwe produkty dla reklamowanych warunków, bez jednej listy dla 1 p.p. Odczyt indeksu bez bieżących bajtów.",
+      "accessed_at": "2026-10-21T08:00:05.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PKO-20261021-5",
+      "source_type": "bank",
+      "source_url": "https://www.pkobp.pl/api/public/cf3ef277-43d1-49d6-b94f-ec268a7802bf.pdf?content-disposition=filename%3DDzia%C5%82_I._Rachunki_oszcz%C4%99dno%C5%9Bciowo-rozliczeniowe_oraz_karty_debetowe_w_formie_tradycyjnej_Tabela_nr_1_PKO_Konto_za_Zero.pdf",
+      "title": "PKO BP — taryfa Konta za Zero",
+      "claim": "Taryfa Konta za Zero od 01.06.2023: 0 zł/mies. prowadzenie, 0/10 zł/mies. karta przy pięciu płatnościach w okresie rozliczeniowym karty; nie jest ceną każdego ROR.",
+      "accessed_at": "2026-10-21T08:00:05.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PKO-20261021-6",
+      "source_type": "bank",
+      "source_url": "https://www.pkobp.pl/klient-indywidualny/konta/konto-za-zero",
+      "title": "PKO BP — Konto za Zero",
+      "claim": "Strona Konta za Zero potwierdza stawki rachunku i karty, bez obowiązku wpływu do samego prowadzenia rachunku.",
+      "accessed_at": "2026-10-21T08:00:05.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PKO-20261021-7",
+      "source_type": "bank",
+      "source_url": "https://www.pkobp.pl/api/public/542e0b1d-c71a-482f-8eda-2fb948dc5a64.pdf?content-disposition=filename%3DWarunki_Ubezpieczenia_PKO_%C5%BBycie_umowy_zawarte_od_26.09.2026_r..pdf",
+      "title": "PKO Życie — Warunki Ubezpieczenia",
+      "claim": "WU PKO Życie dla umów od 26.09.2026: s. 22 III — miesięczna składka wskazana w polisie zależy m.in. od ryzyka, wieku, sumy i zakresu ochrony.",
+      "accessed_at": "2026-10-21T08:00:05.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "ING-20261020-1",
       "source_type": "bank",
       "source_url": "https://www.ing.pl/regulamin-refinansowanie",

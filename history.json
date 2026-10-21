@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-13376c9f7deb0aadf73dc3bb",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-21T07:45:00.000Z",
+      "completed_at": "2026-10-21T08:00:05.000Z",
+      "title": "PKO BP: przykład obniżki 1 p.p. i koszty produktów",
+      "summary": "Przykład cyfrowy podaje 1 p.p. i datę obliczenia 05.10, ale nie określa celu refinansowania. Rozdzielono brak obowiązku zakupu usług do zawarcia od warunków reklamowanych oraz od indywidualnych kosztów. RRSO refinansowania nieustalone.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-21-pko-produkty-1pp",
+      "entrypoint": "raport/2026-10-21-pko-produkty-1pp/index.html"
+    },
+    {
       "run_id": "report-fb519498b6ed9ec1d39d5cd2",
       "status": "completed",
       "answer_change": "meaningful_change",

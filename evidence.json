@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "BNP-20261022-1",
+      "source_type": "bank",
+      "source_url": "https://www.bnpparibas.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny-z-niska-marza",
+      "title": "BNP Paribas — kredyt hipoteczny",
+      "claim": "Nagłówek podaje 7,20% RRSO bez założeń; przykład reprezentatywny 7,51% obliczono 16.10.2026 bez wskazania celu refinansowania. Strona dopuszcza spłatę kredytu hipotecznego w innym banku, lecz nie przypisuje do niej RRSO.",
+      "accessed_at": "2026-10-22T07:48:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "BNP-20261022-2",
+      "source_type": "bank",
+      "source_url": "https://www.bnpparibas.pl/_fileserver/item/1528468",
+      "title": "BNP Paribas — karta informacyjna dla produktów hipotecznych",
+      "claim": "S. 1 wymienia spłatę kredytów mieszkaniowych wśród celów produktu; s. 2 pokazuje przykład 7,51% obliczony 16.10.2026 bez celu refinansowania. Odczyt indeksu PDF bez pobrania bieżących bajtów, hashy i metadanych.",
+      "accessed_at": "2026-10-22T07:50:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "PKO-20261021-1",
       "source_type": "bank",
       "source_url": "https://www.pkobp.pl/klient-indywidualny/kredyty-pozyczki/przenies-kredyt-mieszkaniowy",

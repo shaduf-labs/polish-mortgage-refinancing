@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "bnp-rrso-odczyt-2026-10-22",
+      "changed_at": "2026-10-22T07:53:00.000Z",
+      "summary": "BNP Paribas: nagłówek 7,20% RRSO i reprezentatywny przykład 7,51% z kalkulacją 16.10 zastąpiły wrześniowe wartości. Żadna liczba nie jest przypisana do refinansowania. Kartę odczytano z indeksu bez pobrania bajtów. Zmieniono tylko bieżący opis BNP i dodano datowany raport.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-22-bnp-rrso-odczyt"
+    },
+    {
       "change_id": "pko-products-one-pp-2026-10-21",
       "changed_at": "2026-10-21T08:00:05.000Z",
       "summary": "PKO BP: podlinkowany przykład cyfrowy pokazuje obniżkę 1 p.p. i datę obliczenia 05.10, bez przypisania do refinansowania. Rozdzielono zawarcie umowy, warunki reklamowane i koszty ROR oraz polis. RRSO refinansowania i koszty klienta nieustalone.",

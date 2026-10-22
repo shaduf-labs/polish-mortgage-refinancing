@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-7b0b5136f1e0c8fea431251f",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-22T07:45:00.000Z",
+      "completed_at": "2026-10-22T07:53:00.000Z",
+      "title": "BNP Paribas: dwie nowe wartości RRSO, bez ceny refinansowania",
+      "summary": "Odczyt 22.10: nagłówek 7,20%, przykład 7,51% obliczony 16.10. Żadna liczba nie jest przypisana do refinansowania. Kartę odczytano z indeksu, bez pobrania bajtów PDF. RRSO refinansowania i cena klienta pozostają nieustalone.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-22-bnp-rrso-odczyt",
+      "entrypoint": "raport/2026-10-22-bnp-rrso-odczyt/index.html"
+    },
+    {
       "run_id": "report-13376c9f7deb0aadf73dc3bb",
       "status": "completed",
       "answer_change": "meaningful_change",

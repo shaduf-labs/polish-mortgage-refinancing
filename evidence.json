@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "ALIOR-20261023-1",
+      "source_type": "bank",
+      "source_url": "https://www.aliorbank.pl/dodatkowe-informacje/przydatne-dokumenty/klienci-indywidualni.html",
+      "title": "Alior Bank — indeks dokumentów detalicznych",
+      "claim": "Sekcja aktualnych regulaminów nadal wymienia dwa warianty Refinansuj z Alior Bankiem III: bez życia od 25.06.2026 i z życiem od 22.07.2026; w sprawdzonym indeksie nie znaleziono odwołania ani następcy III.",
+      "accessed_at": "2026-10-23T07:49:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ALIOR-20261023-2",
+      "source_type": "bank",
+      "source_url": "https://www.aliorbank.pl/dam/jcr:c5a49842-aa66-41ab-b710-bacf63a97233/regulamin-oferty-refinansuj-z-ab-3-bez-ubezpieczenia-na-zycie-od25062026.pdf",
+      "title": "Alior Bank — regulamin III bez ubezpieczenia na życie",
+      "claim": "Części 3–5: oferta do odwołania z zapowiedzią min. 7 dni; 0% prowizji warunkowo; WIBOR 3M + 1,8 p.p. przy LTV do 80% lub + 2,3 p.p. powyżej; rachunek, wpływy, płatności i polisa nieruchomości. Odczyt ekstraktu PDF bez surowych bajtów.",
+      "accessed_at": "2026-10-23T07:50:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ALIOR-20261023-3",
+      "source_type": "bank",
+      "source_url": "https://www.aliorbank.pl/dam/jcr:38be0992-9f5d-42e0-8599-28617aded095/reg-oferty-spec-refinansuj-z-ab-III-z-ubezpieczeniem-na-zycie-od-22072026.pdf",
+      "title": "Alior Bank — regulamin III z ubezpieczeniem na życie",
+      "claim": "Części 3–5: 0% prowizji warunkowo; WIBOR 3M + 1,5 p.p. przy LTV do 80% lub + 1,8 p.p. powyżej; dodatkowo składka życia za pierwsze 60 miesięcy z góry. Odczyt ekstraktu PDF bez surowych bajtów.",
+      "accessed_at": "2026-10-23T07:50:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ALIOR-20261023-4",
+      "source_type": "bank",
+      "source_url": "https://www.aliorbank.pl/dam/jcr:39f25f55-2d23-48c1-8530-7a3c4fb36954/toip-depo.pdf",
+      "title": "Alior Bank — taryfa rachunków i kart od 01.06.2026",
+      "claim": "Alior Konto Plus 0/12 zł miesięcznie, karta 0/6 zł miesięcznie. Przypis 5 wymaga łącznie wpływu min. 3 000 zł i min. 5 płatności kartą/BLIK w tym samym miesiącu kalendarzowym; nie jest to automatycznie spełnione przez warunki promocji liczone w miesiącu rozrachunkowym. Odczyt ekstraktu PDF bez surowych bajtów.",
+      "accessed_at": "2026-10-23T07:50:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ALIOR-20261023-5",
+      "source_type": "bank",
+      "source_url": "https://www.aliorbank.pl/klienci-indywidualni/kredyty-hipoteczne/refinansowanie.html",
+      "title": "Alior Bank — strona refinansowania",
+      "claim": "Strona linkuje oba warianty III; etykieta przy wariancie bez życia podaje od 22.07, podczas gdy indeks i regulamin wskazują 25.06. Przykłady reprezentatywne nie są ceną indywidualną oferty III.",
+      "accessed_at": "2026-10-23T07:50:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "BNP-20261022-1",
       "source_type": "bank",
       "source_url": "https://www.bnpparibas.pl/klienci-indywidualni/kredyty/kredyt-hipoteczny-z-niska-marza",

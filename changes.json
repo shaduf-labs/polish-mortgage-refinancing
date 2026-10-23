@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "alior-iii-kontrola-2026-10-23",
+      "changed_at": "2026-10-23T07:54:00.000Z",
+      "summary": "Alior Bank III: oba warianty pozostają w indeksie jako aktualne; nie wykazano zmiany ceny od września. Doprecyzowano osobne marże, polisę życia tylko w jednym wariancie, warunki rachunku i różne okresy liczenia płatności. PDF-y odczytano jako tekst, bez potwierdzenia tożsamości bajtów.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-23-alior-iii-kontrola"
+    },
+    {
       "change_id": "bnp-rrso-odczyt-2026-10-22",
       "changed_at": "2026-10-22T07:53:00.000Z",
       "summary": "BNP Paribas: nagłówek 7,20% RRSO i reprezentatywny przykład 7,51% z kalkulacją 16.10 zastąpiły wrześniowe wartości. Żadna liczba nie jest przypisana do refinansowania. Kartę odczytano z indeksu bez pobrania bajtów. Zmieniono tylko bieżący opis BNP i dodano datowany raport.",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "default_page": "start",
-  "meaningfully_updated_at": "2026-10-22T07:53:00.000Z",
+  "meaningfully_updated_at": "2026-10-23T07:54:00.000Z",
   "pages": [
     {
       "id": "start",
@@ -69,7 +69,7 @@
       "label": "Raporty",
       "icon": "file-text",
       "group": "Źródła",
-      "description": "Datowane raporty; najnowszy odczyt: BNP Paribas 22.10, dwie wartości RRSO bez przypisania do refinansowania.",
+      "description": "Datowane raporty; najnowszy odczyt: Alior Bank III 23.10, oba warianty bez wykazanej zmiany ceny.",
       "parent": null,
       "entrypoint": "raport/index.html",
       "entrypoint_type": "html_fragment",

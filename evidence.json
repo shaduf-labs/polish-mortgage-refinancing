@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "MBANK-20261024-1",
+      "source_type": "bank",
+      "source_url": "https://www.mbank.pl/pomoc/dokumenty/oferta-indywidualna/promocje/",
+      "title": "mBank — indeks aktualnych promocji",
+      "claim": "Indeks wymienia oba regulaminy refinansowania edycji 3 na okres 01.10.2026–27.01.2027; w sprawdzonej sekcji nie znaleziono następcy.",
+      "accessed_at": "2026-10-24T07:53:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "MBANK-20261024-2",
+      "source_type": "bank",
+      "source_url": "https://www.mbank.pl/pdf/ind/kredyty/kredyt-hipoteczny/promocja-refinansowania-kredytu-hipotecznego-z-oprocentowaniem-stalym-na-okres-5-lat-edycja-3.pdf",
+      "title": "mBank — regulamin refinansowania, stopa stała, edycja 3",
+      "claim": "§1–4, 6–7 i 9: cel spłaty kredytu z innego banku, warunki konta i wpływów, nominalna stopa stała na 60 miesięcy według dnia wniosku o formularz, sankcja +2 p.p. oraz odesłanie cen kosztów do taryfy. Ekstrakt PDF 19 stron; bajtów nie pobrano.",
+      "accessed_at": "2026-10-24T07:53:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "MBANK-20261024-3",
+      "source_type": "bank",
+      "source_url": "https://www.mbank.pl/pdf/ind/kredyty/kredyt-hipoteczny/promocja-refinansowania-kredytu-hipotecznego-z-oprocentowaniem-zmiennym-edycja-3.pdf",
+      "title": "mBank — regulamin refinansowania, stopa zmienna, edycja 3",
+      "claim": "§1–4, 6–7 i 9: wariant zmienny ustala marżę z dnia wniosku o formularz, nie pełną stopę; warunki wpływów i podwyższenie marży o 2 p.p. przy niespełnieniu. §9 odsyła do taryfy. Ekstrakt PDF 19 stron; bajtów nie pobrano.",
+      "accessed_at": "2026-10-24T07:53:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "MBANK-20261024-4",
+      "source_type": "bank",
+      "source_url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-hipoteczne/przenosze-kredyt",
+      "title": "mBank — strona przeniesienia kredytu",
+      "claim": "Tabele od 19.10: stała stopa nominalna Intensive 6,87/7,23%, Active 6,97/7,33%; marża zmienna Intensive 1,96/2,41%, Active 2,06/2,51%, według LTV ≤80%/>80%; prowizja 0,00% w obu tabelach. FAQ deklaruje brak opłaty banku za ocenę i pokrycie wpisu nowej hipoteki. Ekstrakt strony ma metadane odczytu z 23.10, nie potwierdza bajtów HTML z 24.10.",
+      "accessed_at": "2026-10-24T07:53:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "MBANK-20261024-5",
+      "source_type": "bank",
+      "source_url": "https://pdf.mbank.pl/mbankpl/of/tpio/taryfa-osobyfiz-22-10-2026.pdf",
+      "title": "mBank — taryfa dla osób fizycznych od 22.10.2026",
+      "claim": "Rozdział I.1, s. 9–10: mKonto Intensive 49,50 zł miesięcznie bez zwolnienia lub 0 zł po spełnieniu warunku taryfowego. Rozdział VII.6, s. 30–31: ogólne 0–4% prowizji i 400/700 zł oceny; nie wycenia promocyjnego wniosku. Ekstrakt PDF bez pobrania bajtów.",
+      "accessed_at": "2026-10-24T07:53:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "ALIOR-20261023-1",
       "source_type": "bank",
       "source_url": "https://www.aliorbank.pl/dodatkowe-informacje/przydatne-dokumenty/klienci-indywidualni.html",

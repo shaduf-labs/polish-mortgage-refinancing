@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-24df25cac20e4c4321df3ddf",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-24T07:45:00.000Z",
+      "completed_at": "2026-10-24T07:55:00.000Z",
+      "title": "mBank: wyższe stawki w tabelach od 19.10 i taryfa konta",
+      "summary": "Odczyt 24.10: edycja 3 nadal w indeksie. Tabele produktu od 19.10 mają wyższe stałe stopy nominalne i marże zmienne; oba warianty pokazują 0% prowizji. Taryfa od 22.10: mKonto Intensive 0/49,50 zł zależnie od zwolnienia. Pozostałe koszty i cena klienta nieustalone; stronę produktu odczytano z ekstraktu z 23.10, bez porównania bajtów PDF.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-24-mbank-stawki-i-koszty",
+      "entrypoint": "raport/2026-10-24-mbank-stawki-i-koszty/index.html"
+    },
+    {
       "run_id": "report-d51e76e1f29398b61465a3cd",
       "status": "completed",
       "answer_change": "meaningful_change",

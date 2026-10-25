@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-f6af7139c6c685f787ac10d0",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-25T07:45:00.000Z",
+      "completed_at": "2026-10-25T07:50:00.000Z",
+      "title": "ING: odczyt w dniu wskazanego terminu edycji 2 i tabeli",
+      "summary": "Punktowy odczyt 25.10 nie wykazał zmiany edycji 2 ani tabeli 19–25.10 względem 19.10. Termin kompletnego wniosku, okres tabeli i ważność indywidualnego formularza są odrębne. Stan i cena nowego formularza od 26.10 pozostają nieustalone.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-25-ing-dzien-terminu",
+      "entrypoint": "raport/2026-10-25-ing-dzien-terminu/index.html"
+    },
+    {
       "run_id": "report-24df25cac20e4c4321df3ddf",
       "status": "completed",
       "answer_change": "meaningful_change",

@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "ing-deadline-day-check-2026-10-25",
+      "changed_at": "2026-10-25T07:50:00.000Z",
+      "summary": "ING: odczyt 25.10 nie wykazał zmiany edycji 2 ani tabeli 19–25.10 wobec 19.10. Oddzielono wskazany termin kompletnego wniosku, okres tabeli i ważność własnego formularza. Stan i cena od 26.10 nieustalone.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-25-ing-dzien-terminu"
+    },
+    {
       "change_id": "mbank-rates-costs-2026-10-24",
       "changed_at": "2026-10-24T07:55:00.000Z",
       "summary": "mBank: w tabelach strony produktu od 19.10 wzrosły stopy nominalne wariantu stałego oraz marże wariantu zmiennego; oba warianty podają 0% prowizji. Taryfa od 22.10 podaje dla mKonta Intensive 0/49,50 zł miesięcznie zależnie od zwolnienia. Trzy deklaracje kosztowe pozostają warunkowe; indywidualna cena i pełny koszt są nieustalone.",

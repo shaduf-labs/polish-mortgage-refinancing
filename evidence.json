@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "ING-20261025-1",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/przenosze-kredyt",
+      "title": "ING — strona przeniesienia kredytu",
+      "claim": "Sekcja Oferta specjalna nadal wskazuje edycję 2 do 25.10.2026; przykład stałej stopy obliczony 19.10 podaje 5,93%, 6,44% RRSO i koszty polis przy swoich założeniach. Widoczne 5,12078% dotyczy wariantu zmiennego.",
+      "accessed_at": "2026-10-25T07:47:21.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261025-2",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie-stale",
+      "title": "ING — tabela stałej stopy",
+      "claim": "Tabela 19–25.10.2026: edycja 2 refinansowania, 5,93% nominalnie przez pięć lat, 0% prowizji i po tym okresie POLSTR 1M Stopa Składana + 1,56 p.p. marży, jeśli nie uzgodniono nowej stopy stałej. Formularz Informacyjny potwierdza cenę klienta.",
+      "accessed_at": "2026-10-25T07:47:40.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261025-3",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/regulamin-refinansowanie",
+      "title": "ING — regulamin refinansowania edycji 2",
+      "claim": "Ekstrakt PDF: §1–2 określa okres 12–25.10 włącznie dla kompletnego wniosku; §6 dopuszcza późniejszy wniosek w terminie ważności formularza wydanego podczas edycji; §9 wiąże stałą stopę z dniem wydania formularza. Nie pozyskano świeżych bajtów PDF.",
+      "accessed_at": "2026-10-25T07:47:56.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "MBANK-20261024-1",
       "source_type": "bank",
       "source_url": "https://www.mbank.pl/pomoc/dokumenty/oferta-indywidualna/promocje/",

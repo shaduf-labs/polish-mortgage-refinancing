@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "ING-20261027-1",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/przenosze-kredyt",
+      "title": "ING — strona przeniesienia kredytu",
+      "claim": "W odczycie 27.10 strona wskazuje edycję 3 do 22.11.2026. Przykład stały obliczony 26.10 ma sprzeczną etykietę edycji 3 w nagłówku i edycji 2 w tekście; 5,83% i 6,33% RRSO są przykładem. Karta 4,91078% i 5,36% RRSO dotyczy wariantu zmiennego.",
+      "accessed_at": "2026-10-27T08:06:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261027-2",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie-stale",
+      "title": "ING — tabela oprocentowania stałego",
+      "claim": "Tabela 26.10–01.11.2026 dla nowo wydawanych formularzy: edycja 3, 5,83% nominalnie przez pięć lat, 0% prowizji, po okresie stałym POLSTR 1M Stopa Składana + 1,35 p.p., jeśli nie uzgodniono kolejnej stałej stopy. Przykładowe RRSO stałe 6,33%.",
+      "accessed_at": "2026-10-27T08:06:30.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261027-3",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/regulamin-refinansowanie",
+      "title": "ING — regulamin refinansowania edycji 3",
+      "claim": "Sześciostronicowy ekstrakt PDF, §1–2 i §6–9: edycja 3 obejmuje kompletne wnioski 26.10–22.11.2026 z wyjątkiem własnego ważnego formularza; warunki rachunku, polisy i procesu; stopa stała z dnia wydania formularza, marża 1,35 p.p. Nie pobrano świeżych bajtów PDF ani metadanych HTTP.",
+      "accessed_at": "2026-10-27T08:07:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261027-4",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/_fileserver/item/x4njnma",
+      "title": "ING — archiwalny regulamin edycji 2",
+      "claim": "Archiwalny regulamin edycji 2 zachowuje wyjątek §6 tylko dla własnego ważnego formularza wydanego podczas tej edycji. Schematyczne 08.11 nie jest terminem wszystkich formularzy. Odczytano ekstrakt bez świeżych bajtów PDF.",
+      "accessed_at": "2026-10-27T08:07:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "ING-20261025-1",
       "source_type": "bank",
       "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/przenosze-kredyt",

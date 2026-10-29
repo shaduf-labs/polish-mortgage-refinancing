@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-28e8447d810723bdaee09de6",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-29T07:45:00.000Z",
+      "completed_at": "2026-10-29T07:51:48.000Z",
+      "title": "Pekao 29.10: opis obniżki bez zmiany, granica terminu nieustalona",
+      "summary": "Strona nadal podaje warunkową obniżkę 0,2 p.p. i termin 31.10. Nie wyjaśnia zdarzenia granicznego ani skutku dla wcześniejszych dokumentów. Przykład zmienny z 01.10 dotyczy spłaty kredytu z innego banku; przykład stały z 22.10 dotyczy rodzinnego kredytu mieszkaniowego. Cena klienta nieustalona; indeks i ogólny PDF były niedostępne w bezpośrednim odczycie.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-29-pekao-przed-terminem",
+      "entrypoint": "raport/2026-10-29-pekao-przed-terminem/index.html"
+    },
+    {
       "run_id": "report-458375e25e0b5e98f5e46fce",
       "status": "completed",
       "answer_change": "meaningful_change",

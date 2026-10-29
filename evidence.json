@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "PEKAO-20261029-1",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/refinansuj-swoj-kredyt-mieszkaniowy.html",
+      "title": "Pekao — strona refinansowania, opis oferty i przykłady",
+      "claim": "Bezpośredni odczyt 29.10, 07:50–07:51 UTC: obniżka 0,2 p.p. względem stawki nowych kredytów dla stopy okresowo stałej przez pięć lat albo zmiennej; napis o ważności do 31.10.2026. Strona nie definiuje zdarzenia granicznego ani reguły dla wcześniejszych dokumentów. Osobno wymaga wniosku i umowy w ważności wydanej decyzji. Przykład zmienny dla spłaty kredytu z innego banku datowany 01.10; przykład stały datowany 22.10 dotyczy rodzinnego kredytu mieszkaniowego.",
+      "accessed_at": "2026-10-29T07:51:48.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PEKAO-20261029-2",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/o-banku/stopka/cennik-i-regulamin.html",
+      "title": "Pekao — indeks cenników i regulaminów",
+      "claim": "Bezpośredni odczyt indeksu zakończył się błędem formatu; dostępny wynik wyszukiwarki był niepełny i sprzed tygodnia. Nie ustalono, czy istnieje szczególny regulamin obniżki.",
+      "accessed_at": "2026-10-29T07:51:48.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PEKAO-20261029-3",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/dam/jcr:a8684393-b66a-4f04-9a4c-b8dc8b02ad67/Informacje-ogolne-mieszkaniowy-kredyt-hipoteczny.2026-07-31-16-33-42.pdf",
+      "title": "Pekao — ogólne informacje o kredycie hipotecznym",
+      "claim": "Próba bezpośredniego otwarcia PDF nie powiodła się; nie pobrano bieżącego ekstraktu, świeżych bajtów ani hasha. Wcześniejszy opis metod oceny nieruchomości nie jest regulaminem obniżki.",
+      "accessed_at": "2026-10-29T07:51:48.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "ING-20261027-1",
       "source_type": "bank",
       "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/przenosze-kredyt",

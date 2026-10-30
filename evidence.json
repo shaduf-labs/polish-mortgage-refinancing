@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "PEKAO-20261030-1",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/refinansuj-swoj-kredyt-mieszkaniowy.html",
+      "title": "Pekao — strona refinansowania, bieżący opis i przykłady",
+      "claim": "Punktowy odczyt 30.10, 07:50–07:51 UTC: obniżka 0,2 p.p. wobec aktualnej stawki nowych kredytów dla stopy okresowo stałej przez pięć lat albo zmiennej; napis o ważności do 31.10.2026. Strona nie definiuje zdarzenia granicznego ani reguły dla wcześniejszych dokumentów; osobno wymaga wniosku i umowy w okresie ważności wydanej decyzji. Przykład zmienny dla spłaty kredytu w innym banku datowano 01.10, a stały z 22.10 dotyczy rodzinnego kredytu mieszkaniowego. Widoczny opis taki jak 29.10, bez dowodu ciągłości między odczytami.",
+      "accessed_at": "2026-10-30T07:51:05.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PEKAO-20261030-2",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/o-banku/stopka/cennik-i-regulamin.html",
+      "title": "Pekao — indeks cenników i regulaminów",
+      "claim": "Bezpośrednie otwarcie i kliknięcie ze strony produktu 30.10 zwróciły błąd obsługi typu treści. Punktowe wyszukanie nie zastępuje pełnego bieżącego indeksu i nie dowodzi nieistnienia regulaminu szczególnego.",
+      "accessed_at": "2026-10-30T07:51:05.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PEKAO-20261030-3",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/kredyt-hipoteczny.html",
+      "title": "Pekao — główna strona kredytu hipotecznego i lista dokumentów",
+      "claim": "Próba bezpośredniego odczytu alternatywnej listy dokumentów 30.10 zwróciła błąd obsługi typu treści. Starszy wynik wyszukiwarki nie jest bieżącą kompletną listą.",
+      "accessed_at": "2026-10-30T07:51:05.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PEKAO-20261030-4",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/dam/jcr:a8684393-b66a-4f04-9a4c-b8dc8b02ad67/Informacje-ogolne-mieszkaniowy-kredyt-hipoteczny.2026-07-31-16-33-42.pdf",
+      "title": "Pekao — ogólne informacje hipoteczne PDF",
+      "claim": "Próba bezpośredniego otwarcia 30.10 była niedostępna w narzędziu. Nie pobrano świeżych bajtów, nie policzono hasha ani nie uzyskano bieżącego ekstraktu. Dokument ogólny nie jest potwierdzonym regulaminem obniżki.",
+      "accessed_at": "2026-10-30T07:51:05.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "PEKAO-20261029-1",
       "source_type": "bank",
       "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/refinansuj-swoj-kredyt-mieszkaniowy.html",

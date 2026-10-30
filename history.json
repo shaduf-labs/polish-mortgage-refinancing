@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-637d149a34cf620ffc439524",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-30T07:45:00.000Z",
+      "completed_at": "2026-10-30T07:53:13.000Z",
+      "title": "Pekao 30.10: brak nowego rozstrzygnięcia terminu 31.10",
+      "summary": "Strona nadal podaje warunkową obniżkę 0,2 p.p. i ważność do 31.10. Nie określa zdarzenia granicznego ani skutku dla wcześniej wydanych dokumentów. Przykłady z 01.10 i 22.10 nie wyceniają indywidualnego refinansowania. Indeks i PDF pozostały niedostępne w bezpośrednim odczycie; brak pobrania nie dowodzi nieistnienia regulaminu. Cena klienta nieustalona.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-30-pekao-granica-dokumentow",
+      "entrypoint": "raport/2026-10-30-pekao-granica-dokumentow/index.html"
+    },
+    {
       "run_id": "report-28e8447d810723bdaee09de6",
       "status": "completed",
       "answer_change": "no_meaningful_change",

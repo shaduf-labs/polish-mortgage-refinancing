@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "pekao-deadline-check-2026-10-30",
+      "changed_at": "2026-10-30T07:53:13.000Z",
+      "summary": "Pekao: 30.10 widoczny opis obniżki 0,2 p.p. i termin 31.10 pozostały takie jak 29.10. Nie ustalono zdarzenia granicznego ani losu wcześniej wydanych dokumentów. Indeks cenników, główna strona hipoteczna i ogólny PDF nie dały się bezpośrednio odczytać; nie pobrano bajtów PDF ani hasha. To nie dowodzi braku regulaminu szczególnego. Cena klienta i pełny koszt pozostają nieustalone.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-30-pekao-granica-dokumentow"
+    },
+    {
       "change_id": "pekao-deadline-check-2026-10-29",
       "changed_at": "2026-10-29T07:51:48.000Z",
       "summary": "Pekao: 29.10 opis obniżki 0,2 p.p. i termin 31.10 pozostały bez zmiany względem 17.10. Nie ustalono, do którego zdarzenia odnosi się data ani reguły dla wcześniejszych dokumentów. Przykład zmiennej stopy jest datowany 01.10; przykład stałej stopy z 22.10 dotyczy rodzinnego kredytu mieszkaniowego, nie refinansowania. Cena klienta nieustalona; indeks dokumentów i ogólny PDF nie dały się bezpośrednio odczytać.",

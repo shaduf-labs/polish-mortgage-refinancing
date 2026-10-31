@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "pekao-deadline-check-2026-10-31",
+      "changed_at": "2026-10-31T07:53:46.315Z",
+      "summary": "Pekao: poranny odczyt 31.10 nadal pokazuje promocyjną obniżkę 0,2 p.p. i termin 31.10. Zdarzenie graniczne, los wcześniejszych dokumentów, cena klienta, dostępność później tego dnia i warunki od 01.11 są nieustalone. Indeks i ogólny PDF nie dały się odczytać; brak bajtów i hasha nie dowodzi braku regulaminu.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-10-31-pekao-ostatni-dzien"
+    },
+    {
       "change_id": "pekao-deadline-check-2026-10-30",
       "changed_at": "2026-10-30T07:53:13.000Z",
       "summary": "Pekao: 30.10 widoczny opis obniżki 0,2 p.p. i termin 31.10 pozostały takie jak 29.10. Nie ustalono zdarzenia granicznego ani losu wcześniej wydanych dokumentów. Indeks cenników, główna strona hipoteczna i ogólny PDF nie dały się bezpośrednio odczytać; nie pobrano bajtów PDF ani hasha. To nie dowodzi braku regulaminu szczególnego. Cena klienta i pełny koszt pozostają nieustalone.",

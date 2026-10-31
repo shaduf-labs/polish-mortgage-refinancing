@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-e805291893e72178cb992de3",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-31T07:45:00.000Z",
+      "completed_at": "2026-10-31T07:53:46.315Z",
+      "title": "Pekao 31.10 rano: termin na stronie bez określonego zdarzenia granicznego",
+      "summary": "Poranny odczyt 31.10 nadal pokazuje promocyjną obniżkę 0,2 p.p. i termin 31.10. Nie ustalono, czy granica dotyczy wniosku, formularza, decyzji czy umowy, ani reguły dla wcześniej wydanych dokumentów. Indeks i ogólny PDF były niedostępne; brak bajtów i hasha nie dowodzi braku regulaminu. Cena klienta, dostępność później 31.10 i warunki od 01.11 nieustalone.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-10-31-pekao-ostatni-dzien",
+      "entrypoint": "raport/2026-10-31-pekao-ostatni-dzien/index.html"
+    },
+    {
       "run_id": "report-637d149a34cf620ffc439524",
       "status": "completed",
       "answer_change": "no_meaningful_change",

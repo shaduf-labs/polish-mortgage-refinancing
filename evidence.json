@@ -2,6 +2,76 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "PEKAO-20261109-1",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/refinansuj-swoj-kredyt-mieszkaniowy.html",
+      "title": "Pekao — strona refinansowania, odczyt 09.11.2026",
+      "claim": "W punktowym odczycie 09.11, 07:51–07:52 UTC widoczna była obniżka 0,2 p.p. dla pierwszych pięciu lat stopy okresowo stałej albo stopy zmiennej oraz termin ważności 31.10.2026. Strona wskazuje jedynie możliwość późniejszej obniżki, nie potwierdza następcy.",
+      "accessed_at": "2026-11-09T07:52:30.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PEKAO-20261109-2",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/refinansuj-swoj-kredyt-mieszkaniowy.html",
+      "title": "Pekao — warunki na stronie i przykłady",
+      "claim": "Tekst osobno wymaga złożenia wniosku i podpisania umowy w ważności wydanej decyzji, lecz nie wiąże daty 31.10 jednoznacznie z wnioskiem, Formularzem Informacyjnym, decyzją lub umową. Przykład zmienny z 01.10 dotyczy spłaty obcego kredytu; przykład stały z 22.10 dotyczy rodzinnego kredytu mieszkaniowego.",
+      "accessed_at": "2026-11-09T07:52:30.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PEKAO-20261109-3",
+      "source_type": "bank",
+      "source_url": "https://www.pekao.com.pl/o-banku/stopka/cennik-i-regulamin.html",
+      "title": "Pekao — indeks cenników i regulaminów",
+      "claim": "Indeks nie dał się odczytać 09.11 w użytym narzędziu. Nie zweryfikowano dziś szczególnego regulaminu ani następcy; brak dostępu nie dowodzi braku dokumentu.",
+      "accessed_at": "2026-11-09T07:52:30.000Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261102-1",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/kredyt-hipoteczny/oferty-i-oprocentowanie-stale",
+      "title": "ING — tabela ofert ze stałą stopą, 02–08.11.2026",
+      "claim": "Odczyt 02.11, 10:50–10:51 UTC: tabela 02–08.11 dla nowo wydawanych Formularzy Informacyjnych; wiersz refinansowania edycji 3 podaje 5,85% nominalnie przez pięć lat, 0% prowizji, potem POLSTR 1M Stopa Składana + 1,35 p.p. marży, jeśli nie uzgodniono kolejnej stopy stałej. Przykładowe RRSO stałe 6,35%. W tabeli 26.10–01.11 było 5,83% i 6,33% RRSO.",
+      "accessed_at": "2026-11-02T10:51:40.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261102-2",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/indywidualni/kredyty-i-pozyczki/przenosze-kredyt",
+      "title": "ING — strona przeniesienia kredytu, edycja 3",
+      "claim": "Odczyt 02.11: karta nadal wskazuje edycję 3 i termin 22.11 oraz 0% prowizji. Przykład stały podaje 5,85% i 6,35% RRSO; 4,89909% oraz 5,35% RRSO dotyczą odrębnego przykładu zmiennej stopy.",
+      "accessed_at": "2026-11-02T10:51:40.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261102-3",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/regulamin-refinansowanie",
+      "title": "ING — regulamin refinansowania edycji 3",
+      "claim": "Sześciostronicowy ekstrakt PDF w odczycie 02.11: §1–2 podaje okres kompletnych wniosków 26.10–22.11.2026 i kwotę 100 tys.–2 mln zł z wyjątkami; §6 wiąże późniejszy wniosek z ważnością własnego formularza wydanego podczas edycji 3; §9 wiąże stopę stałą z dniem wydania formularza, potwierdza 0% prowizji i marżę 1,35 p.p. Schematyczne 06.12 na s. 1 nie zastępuje ważności własnego formularza.",
+      "accessed_at": "2026-11-02T10:51:40.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ING-20261102-4",
+      "source_type": "bank",
+      "source_url": "https://www.ing.pl/regulamin-refinansowanie",
+      "title": "ING — ograniczenie odczytu dokumentu PDF",
+      "claim": "02.11 strony i regulamin odczytano jako ekstrakty; bezpośrednie pobranie trzech adresów nie powiodło się przy rozwiązywaniu nazwy serwera. Nie uzyskano surowych bajtów, hasha, nagłówków HTTP ani porównania binarnego z 27.10. Ten sam URL nie potwierdza identycznej treści, a brak lokalnego pobrania nie dowodzi nieistnienia dokumentu.",
+      "accessed_at": "2026-11-02T10:51:40.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "PEKAO-20261031-1",
       "source_type": "bank",
       "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/refinansuj-swoj-kredyt-mieszkaniowy.html",

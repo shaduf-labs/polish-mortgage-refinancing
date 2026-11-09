@@ -2,6 +2,28 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-9cf8d592a3d712ab73c847ed",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-11-09T07:45:00.000Z",
+      "completed_at": "2026-11-09T07:55:30.000Z",
+      "title": "Pekao 09.11: opis po terminie 31.10",
+      "summary": "Strona nadal pokazuje obniżkę 0,2 p.p. i termin 31.10. To opis po terminie, nie potwierdzona oferta dla nowych dokumentów. Następca, zdarzenie graniczne i wcześniejsze dokumenty są nieustalone.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-11-09-pekao-po-terminie",
+      "entrypoint": "raport/2026-11-09-pekao-po-terminie/index.html"
+    },
+    {
+      "run_id": "report-f939e2a1a3aab3f756321493",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-11-02T10:50:19.000Z",
+      "completed_at": "2026-11-02T10:56:32.606Z",
+      "title": "ING 02.11: nowa tabela 02–08.11, edycja 3 bez zmiany",
+      "summary": "Tabela ING 02–08.11 dla nowych formularzy edycji 3 podaje warunkowo 5,85% nominalnie przez pięć lat, 0% prowizji i później POLSTR 1M Stopa Składana + 1,35 p.p. marży. W tabeli 26.10–01.11 było 5,83%. Nabór kompletnych wniosków do 22.11 i ważność własnego formularza są odrębnymi terminami. Indywidualna cena i pełne koszty nieustalone; nie pobrano bajtów ani hasha PDF.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-11-02-ing-tabela",
+      "entrypoint": "raport/2026-11-02-ing-tabela/index.html"
+    },
+    {
       "run_id": "report-e805291893e72178cb992de3",
       "status": "completed",
       "answer_change": "no_meaningful_change",

@@ -2,6 +2,18 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "pekao-expired-description-2026-11-09",
+      "changed_at": "2026-11-09T07:55:30.000Z",
+      "summary": "Pekao 09.11: strona wciąż pokazuje 0,2 p.p. i termin 31.10. Oznaczono opis po terminie, bez potwierdzenia oferty dla nowych dokumentów. Następca, zdarzenie graniczne i wcześniejsze dokumenty nieustalone.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-11-09-pekao-po-terminie"
+    },
+    {
+      "change_id": "ing-weekly-table-2026-11-02",
+      "changed_at": "2026-11-02T10:56:32.606Z",
+      "summary": "ING: tabela 02–08.11 dla nowych formularzy edycji 3 podaje warunkowo 5,85% nominalnie przez pięć lat, 0% prowizji i później POLSTR 1M Stopa Składana + 1,35 p.p. marży. W tabeli 26.10–01.11 było 5,83%. Nabór do 22.11 i ważność własnego formularza są odrębne; cena i pełne koszty klienta nieustalone.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-11-02-ing-tabela"
+    },
+    {
       "change_id": "pekao-deadline-check-2026-10-31",
       "changed_at": "2026-10-31T07:53:46.315Z",
       "summary": "Pekao: poranny odczyt 31.10 nadal pokazuje promocyjną obniżkę 0,2 p.p. i termin 31.10. Zdarzenie graniczne, los wcześniejszych dokumentów, cena klienta, dostępność później tego dnia i warunki od 01.11 są nieustalone. Indeks i ogólny PDF nie dały się odczytać; brak bajtów i hasha nie dowodzi braku regulaminu.",

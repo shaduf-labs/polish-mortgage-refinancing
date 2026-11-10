@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "pko-document-window-2026-11-10",
+      "changed_at": "2026-11-10T07:52:52.000Z",
+      "summary": "PKO BP: dwie strony podają 1 p.p. dla formularzy i cyfrowych propozycji 03.10–07.12. Poprzedni koniec 06.11 jest historyczny; indywidualne RRSO i koszty refinansowania nieustalone.",
+      "path": "/p/polish-mortgage-refinancing/raport/2026-11-10-pko-po-terminie"
+    },
+    {
       "change_id": "pekao-expired-description-2026-11-09",
       "changed_at": "2026-11-09T07:55:30.000Z",
       "summary": "Pekao 09.11: strona wciąż pokazuje 0,2 p.p. i termin 31.10. Oznaczono opis po terminie, bez potwierdzenia oferty dla nowych dokumentów. Następca, zdarzenie graniczne i wcześniejsze dokumenty nieustalone.",

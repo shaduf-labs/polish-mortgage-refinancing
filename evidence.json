@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "PKO-20261110-1",
+      "source_type": "bank",
+      "source_url": "https://www.pkobp.pl/klient-indywidualny/kredyty-pozyczki/kredyt-lub-pozyczka-ze-stala-stopa-procentowa-przez-5-lat",
+      "title": "PKO BP — stała stopa przez 5 lat",
+      "claim": "L9–11: 1 p.p. przez 5 lat dla Formularzy Informacyjnych wygenerowanych i cyfrowych propozycji przedstawionych 03.10–07.12.2026.",
+      "accessed_at": "2026-11-10T07:52:52.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PKO-20261110-2",
+      "source_type": "bank",
+      "source_url": "https://www.pkobp.pl/klient-indywidualny/kredyty-pozyczki/kredyt-hipoteczny",
+      "title": "PKO BP — Kredyt hipoteczny Własny Kąt",
+      "claim": "L58–60 powtarza 1 p.p. oraz osobne daty obu rodzajów dokumentów 03.10–07.12.2026; L316–355 linkuje dokumenty informacji ogólnych.",
+      "accessed_at": "2026-11-10T07:52:52.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PKO-20261110-3",
+      "source_type": "bank",
+      "source_url": "https://www.pkobp.pl/api/public/68ba37cb-8d4a-44a6-a69c-1ab423a33156.pdf?content-disposition=filename%3DInformacje_og%C3%B3lne_dotycz%C4%85ce_umowy_o_kredyt_hipoteczny%2Fpo%C5%BCyczk%C4%99_hipoteczn%C4%85_-_PKO_Banku_Polskiego.pdf",
+      "title": "PKO BP — informacje ogólne zwykłego produktu",
+      "claim": "Ekstrakt PDF, s. 3, VII pkt 1: przykład 7,93% RRSO obliczony 05.10 dla oferty do 07.12; cel przykładu nie jest wskazany jako refinansowanie. Bez świeżych bajtów pliku.",
+      "accessed_at": "2026-11-10T07:52:52.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PKO-20261110-4",
+      "source_type": "bank",
+      "source_url": "https://www.pkobp.pl/api/public/7af546c2-00d2-4687-a047-a51ea916ec66.pdf?content-disposition=filename%3DInformacje_og%C3%B3lne_dotycz%C4%85ce_umowy_o_Cyfrowy_Kredyt_Hipoteczny.pdf",
+      "title": "PKO BP — informacje ogólne Cyfrowego Kredytu Hipotecznego",
+      "claim": "Ekstrakt PDF, s. 2–3, VII: przykład 7,44% RRSO obliczony 05.10 dla oferty do 07.12; cel przykładu nie jest wskazany jako refinansowanie. Bez świeżych bajtów pliku.",
+      "accessed_at": "2026-11-10T07:52:52.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "PKO-20261110-5",
+      "source_type": "bank",
+      "source_url": "https://www.pkobp.pl/klient-indywidualny/kredyty-pozyczki/przenies-kredyt-mieszkaniowy",
+      "title": "PKO BP — przenieś kredyt mieszkaniowy",
+      "claim": "Strona nie dała się świeżo odczytać 10.11; nie potwierdzono jej aktualnego terminu ani treści. Brak dostępu nie dowodzi usunięcia promocji.",
+      "accessed_at": "2026-11-10T07:52:52.000Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "PEKAO-20261109-1",
       "source_type": "bank",
       "source_url": "https://www.pekao.com.pl/klient-indywidualny/wlasne-mieszkanie-lub-dom/refinansuj-swoj-kredyt-mieszkaniowy.html",

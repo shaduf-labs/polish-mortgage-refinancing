@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-466c80cb7e5c89d54e20ce5a",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-11-10T07:45:00.000Z",
+      "completed_at": "2026-11-10T07:52:52.000Z",
+      "title": "PKO BP 10.11: dokumenty do 07.12 przy obniżce 1 p.p.",
+      "summary": "Dwie strony banku podają 1 p.p. dla formularzy i cyfrowych propozycji 03.10–07.12.2026. Przykłady produktu nie wyceniają refinansowania; strona przeniesienia była niedostępna, a PDF-y odczytano bez porównania bajtów.",
+      "report_path": "/p/polish-mortgage-refinancing/raport/2026-11-10-pko-po-terminie",
+      "entrypoint": "raport/2026-11-10-pko-po-terminie/index.html"
+    },
+    {
       "run_id": "report-9cf8d592a3d712ab73c847ed",
       "status": "completed",
       "answer_change": "meaningful_change",
